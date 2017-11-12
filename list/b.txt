@@ -1,0 +1,370 @@
+[
+ {
+  "title": "香槟酒",
+  "singer": "包娜娜"
+ },
+ {
+  "title": "What Makes You Different",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Lay Your Love On Me",
+  "singer": "BWO"
+ },
+ {
+  "title": "英雄谁属",
+  "singer": "卞留念"
+ },
+ {
+  "title": "雄鹰",
+  "singer": "卞留念"
+ },
+ {
+  "title": "I.O.I.O.",
+  "singer": "Bee Gees"
+ },
+ {
+  "title": "First Of May",
+  "singer": "Bee Gees"
+ },
+ {
+  "title": "No Matter What",
+  "singer": "Boyzone"
+ },
+ {
+  "title": "Suite No. 2 in B Minor, BWV 1067 - 7. Badinerie (B小调第2号管弦乐组曲，作品1067 - 第7首 谐谑曲)",
+  "singer": "Berliner PhilharmonikerHerbert von Karajan"
+ },
+ {
+  "title": "Say I Love You",
+  "singer": "BWO"
+ },
+ {
+  "title": "You Give Love Bad Name",
+  "singer": "Bon Jovi"
+ },
+ {
+  "title": "Walking The Night",
+  "singer": "BWO"
+ },
+ {
+  "title": "U Make Me Wanna",
+  "singer": "Blue"
+ },
+ {
+  "title": "Perfume (Distilled)",
+  "singer": "Berliner PhilharmonikerSimon Rattle"
+ },
+ {
+  "title": "Sunshine In The Rain",
+  "singer": "BWO"
+ },
+ {
+  "title": "Let The Music Heal Your Soul",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Lost In Space",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "梦回云南",
+  "singer": "白玛多吉"
+ },
+ {
+  "title": "红颜为谁",
+  "singer": "白雪"
+ },
+ {
+  "title": "The One (Album Version)",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Get Down",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Larger Than Life",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Everybody (Backstreet's Back)",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Show Me the Meaning of Being Lonely",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "I Want It That Way",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "As Long As You Love Me",
+  "singer": "Backstreet Boys"
+ },
+ {
+  "title": "Lighters",
+  "singer": "Bad Meets EvilBruno Mars"
+ },
+ {
+  "title": "I Dare You",
+  "singer": "Bea Miller"
+ },
+ {
+  "title": "Stayin  Alive",
+  "singer": "Bee Gees"
+ },
+ {
+  "title": "Take My Breath Away",
+  "singer": "Berlin"
+ },
+ {
+  "title": "Casablanca",
+  "singer": "Bertie Higgins"
+ },
+ {
+  "title": "If I Were A Boy",
+  "singer": "Beyoncé"
+ },
+ {
+  "title": "Halo",
+  "singer": "Beyoncé"
+ },
+ {
+  "title": "为了你，为了我",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "走不开的快乐",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "为了你 为了我",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "交织千个心",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "冲开一切",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "岁月无声",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "是错也再不分",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "报答一生",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "无语问苍天",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "可否冲破",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "无泪的遗憾",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "大地",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "旧日的足迹",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "遥望",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "不可一世",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "曾是拥有",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "农民",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "Amani (粤语)",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "再见理想",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "午夜怨曲",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "无悔这一生",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "逝去日子",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "无尽空虚",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "大地 (粤语)",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "灰色轨迹",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "谁伴我闯荡",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "冷雨夜",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "喜欢你",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "情人",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "不再犹豫",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "真的爱你",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "光辉岁月 (粤语)",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "海阔天空",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "All Rise (Radio Version)",
+  "singer": "Blue"
+ },
+ {
+  "title": "Sealed with a Kiss (Single Version)",
+  "singer": "Bobby Vinton"
+ },
+ {
+  "title": "It's My Life",
+  "singer": "Bon Jovi"
+ },
+ {
+  "title": "Rivers of Babylon",
+  "singer": "Boney M"
+ },
+ {
+  "title": "Everything I Do",
+  "singer": "Brandy"
+ },
+ {
+  "title": "Sealed With A Kiss",
+  "singer": "Brian Hyland"
+ },
+ {
+  "title": "You Raise Me Up",
+  "singer": "Brian Kennedy"
+ },
+ {
+  "title": "Oops!...I Did It Again",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Criminal",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Lucky",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Everytime",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "...Baby One More Time",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Toxic",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "I Wanna Go",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Till The World Ends",
+  "singer": "Britney Spears"
+ },
+ {
+  "title": "Nothing On You",
+  "singer": "B.o.BBruno Mars"
+ },
+ {
+  "title": "Treasure",
+  "singer": "Bruno Mars"
+ },
+ {
+  "title": "(Everything I Do) I Do It For You",
+  "singer": "Bryan Adams"
+ },
+ {
+  "title": "Here I Am (End Title)",
+  "singer": "Bryan Adams"
+ },
+ {
+  "title": "豪门内外",
+  "singer": "包娜娜"
+ },
+ {
+  "title": "兰花草",
+  "singer": "包美圣"
+ },
+ {
+  "title": "捉泥鳅",
+  "singer": "包美圣"
+ },
+ {
+  "title": "我不想说再见",
+  "singer": "白雪"
+ },
+ {
+  "title": "千古绝唱",
+  "singer": "白雪"
+ },
+ {
+  "title": "久别的人",
+  "singer": "白雪"
+ },
+ {
+  "title": "我有一只小毛驴",
+  "singer": "碧瑶"
+ }
+]

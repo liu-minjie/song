@@ -1,0 +1,654 @@
+[
+ {
+  "title": "Nothing In The World",
+  "singer": "Atomic Kitten"
+ },
+ {
+  "title": "Two Less Lonely People In The World",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "If You Come To Me",
+  "singer": "Atomic Kitten"
+ },
+ {
+  "title": "我是我的情人",
+  "singer": "阿悄"
+ },
+ {
+  "title": "花开的时候来看我",
+  "singer": "阿宝张冬玲"
+ },
+ {
+  "title": "给从前的爱",
+  "singer": "阿牛"
+ },
+ {
+  "title": "Coloratura Concerto For Soprano (First Movement)",
+  "singer": "Arturo Sandoval"
+ },
+ {
+  "title": "Concerto In D Major",
+  "singer": "Arturo Sandoval"
+ },
+ {
+  "title": "Bat for a Heart",
+  "singer": "Ashlee Simpson"
+ },
+ {
+  "title": "L.O.V.E.",
+  "singer": "Ashlee Simpson"
+ },
+ {
+  "title": "The Last Goodbye",
+  "singer": "Atomic Kitten"
+ },
+ {
+  "title": "Monaco",
+  "singer": "AudienRumors"
+ },
+ {
+  "title": "Something Better",
+  "singer": "AudienLady Antebellum"
+ },
+ {
+  "title": "Leaving You (Dub Mix)",
+  "singer": "Audien"
+ },
+ {
+  "title": "Give You What You Like",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "Complicated",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "Tik Tok (Live)",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "Always On The Run (Amazon Exclusive)",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Dear Boy (Avicii By Avicii)",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Liar Liar",
+  "singer": "AviciiBlondfire"
+ },
+ {
+  "title": "Hey Brother (Extended Version)",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Taste the Feeling",
+  "singer": "AviciiConrad Sewell"
+ },
+ {
+  "title": "Silhouettes",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Fade Into Darkness",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Dar um Jeito",
+  "singer": "SantanaWyclef JeanAviciiAlexandre Pires"
+ },
+ {
+  "title": "Everybody Hurts",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "Tomorrow",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "I Could Be The One (Nicktim - Radio Edit)",
+  "singer": "AviciiNicky Romero"
+ },
+ {
+  "title": "Levels (Radio Edit)",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Waiting For Love",
+  "singer": "AviciiMartin GarrixJohn Legend"
+ },
+ {
+  "title": "忘我",
+  "singer": "王力宏Avicii"
+ },
+ {
+  "title": "Wake Me Up",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Ignite (Instrumental)",
+  "singer": "Alan WalkerK-391"
+ },
+ {
+  "title": "Spectre",
+  "singer": "Alan Walker"
+ },
+ {
+  "title": "I Don't Want to Miss a Thing",
+  "singer": "Aerosmith"
+ },
+ {
+  "title": "Set Fire to the Love Song",
+  "singer": "Selena Gomez & The SceneAdele"
+ },
+ {
+  "title": "Skyfall",
+  "singer": "Adele"
+ },
+ {
+  "title": "Someone Like You",
+  "singer": "Adele"
+ },
+ {
+  "title": "Painkiller",
+  "singer": "Rozzi CraneAdam Levine"
+ },
+ {
+  "title": "Golden Slumbers / Carry That Weight / The End",
+  "singer": "Laith Al-SaadiAdam Levine"
+ },
+ {
+  "title": "Stereo Hearts",
+  "singer": "Gym Class HeroesAdam Levine"
+ },
+ {
+  "title": "Locked Away",
+  "singer": "R. CityAdam Levine"
+ },
+ {
+  "title": "Can't Go Home (Noisecontrollers Remix)",
+  "singer": "Steve AokiFelix JaehnAdam Lambert"
+ },
+ {
+  "title": "Whataya Want from Me",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Templemeads",
+  "singer": "Acoustic Alchemy"
+ },
+ {
+  "title": "My Mama Said",
+  "singer": "ABBA"
+ },
+ {
+  "title": "King Kong Song",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Hasta Manana",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Another Town, Another Train",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Chiquitita",
+  "singer": "ABBA"
+ },
+ {
+  "title": "The Winner Takes It All",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Money, Money, Money",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Att finnas till",
+  "singer": "ABBA"
+ },
+ {
+  "title": "On And On And On",
+  "singer": "ABBA"
+ },
+ {
+  "title": "The Winner Takes It All",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Elaine",
+  "singer": "ABBA"
+ },
+ {
+  "title": "One of Us",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Head Over Heels",
+  "singer": "ABBA"
+ },
+ {
+  "title": "The Day Before You Came",
+  "singer": "ABBA"
+ },
+ {
+  "title": "You Owe Me One",
+  "singer": "ABBA"
+ },
+ {
+  "title": "I Let the Music Speak",
+  "singer": "ABBA"
+ },
+ {
+  "title": "America A O",
+  "singer": "Aaron Carter"
+ },
+ {
+  "title": "Fool's Gold (Explicit)",
+  "singer": "Aaron Carter"
+ },
+ {
+  "title": "一路歌唱",
+  "singer": "阿宝"
+ },
+ {
+  "title": "做你的雪莲",
+  "singer": "何龙雨艾歌"
+ },
+ {
+  "title": "别再长大",
+  "singer": "爱朵女孩"
+ },
+ {
+  "title": "别烦我",
+  "singer": "爱朵女孩"
+ },
+ {
+  "title": "这里没有陌生人",
+  "singer": "爱朵女孩"
+ },
+ {
+  "title": "花开半夏",
+  "singer": "爱朵女孩"
+ },
+ {
+  "title": "千里明月光",
+  "singer": "安琥"
+ },
+ {
+  "title": "男人天生活受罪",
+  "singer": "安琥"
+ },
+ {
+  "title": "上阵父子兵 (伴奏)",
+  "singer": "安琥"
+ },
+ {
+  "title": "这辈子欠你一次天荒地老",
+  "singer": "安琥"
+ },
+ {
+  "title": "天使的翅膀",
+  "singer": "安琥"
+ },
+ {
+  "title": "望归",
+  "singer": "安又琪"
+ },
+ {
+  "title": "别管我",
+  "singer": "安又琪"
+ },
+ {
+  "title": "唱得响亮",
+  "singer": "安又琪"
+ },
+ {
+  "title": "有你陪着我",
+  "singer": "安又琪"
+ },
+ {
+  "title": "Sol Invictus",
+  "singer": "Audiomachine"
+ },
+ {
+  "title": "Danuvius",
+  "singer": "Audiomachine"
+ },
+ {
+  "title": "Breath and Life",
+  "singer": "Audiomachine"
+ },
+ {
+  "title": "The Gentle Rain",
+  "singer": "Astrud Gilberto"
+ },
+ {
+  "title": "Lollipop",
+  "singer": "Aqua"
+ },
+ {
+  "title": "Doctor Jones",
+  "singer": "Aqua"
+ },
+ {
+  "title": "My Oh My",
+  "singer": "Aqua"
+ },
+ {
+  "title": "Where Do I Begin",
+  "singer": "Andy Williams"
+ },
+ {
+  "title": "The Music Of the Night (Live At The Royal Albert Hall/2011)",
+  "singer": "Andrew Lloyd Webber"
+ },
+ {
+  "title": "雨停曲",
+  "singer": "阿悄"
+ },
+ {
+  "title": "飞向苗乡侗寨",
+  "singer": "阿幼朵"
+ },
+ {
+  "title": "兰花花 + 浏阳河 + 乌苏里船歌 + 军民大生产 (Live)",
+  "singer": "阿宝"
+ },
+ {
+  "title": "我热恋的故乡",
+  "singer": "阿宝山花乐队"
+ },
+ {
+  "title": "天上不会掉馍馍",
+  "singer": "阿宝"
+ },
+ {
+  "title": "农业重金属",
+  "singer": "阿宝"
+ },
+ {
+  "title": "第一次见到你",
+  "singer": "阿宝"
+ },
+ {
+  "title": "张灯结彩 (Live)",
+  "singer": "华语群星"
+ },
+ {
+  "title": "篱笆墙的影子",
+  "singer": "阿宝"
+ },
+ {
+  "title": "山丹丹花开红艳艳",
+  "singer": "阿宝"
+ },
+ {
+  "title": "民歌大联唱：山歌好比春江水 + 信天游 + 八路军拉大栓 + 山路十八弯 + 花儿少年 + 青春舞曲 + 沂蒙山小调 + 山丹丹花开红艳艳",
+  "singer": "阿宝"
+ },
+ {
+  "title": "No One",
+  "singer": "Alicia Keys"
+ },
+ {
+  "title": "From The Inside",
+  "singer": "Alex Parks"
+ },
+ {
+  "title": "Truth Or Dare",
+  "singer": "Alex Parks"
+ },
+ {
+  "title": "Mad World",
+  "singer": "Alex Parks"
+ },
+ {
+  "title": "Fade",
+  "singer": "Alan Walker"
+ },
+ {
+  "title": "Keep Up",
+  "singer": "Akon"
+ },
+ {
+  "title": "Beautiful (Remix)",
+  "singer": "Akon"
+ },
+ {
+  "title": "Right Now (Na Na Na)",
+  "singer": "Akon"
+ },
+ {
+  "title": "Having You Near Me",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "Goodbye (Album Version)",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "Power Of Love",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "Two Less Lonely People in the",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "All Out Of Love",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "Making Love Out Of Nothing At All",
+  "singer": "Air Supply"
+ },
+ {
+  "title": "Rolling In The Deep",
+  "singer": "Adele"
+ },
+ {
+  "title": "Outlaws Of Love",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "The Light",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Never Close Our Eyes",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Shame (Bonus Track)",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Sleepwalker",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Pop That Lock",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Take Back",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Trespassing",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "Sure Fire Winners",
+  "singer": "Adam Lambert"
+ },
+ {
+  "title": "People Need Love",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Happy New Year",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Super Trouper",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Chiquitita",
+  "singer": "ABBA"
+ },
+ {
+  "title": "Hold Each Other",
+  "singer": "A Great Big WorldFuturistic"
+ },
+ {
+  "title": "The Phantom of the Opera (Single Album Version)",
+  "singer": "Andrew Lloyd Webber"
+ },
+ {
+  "title": "Les Feuilles Mortes",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Cuando Me Enamoro",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Vivo per lei",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Canto Della Terra",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Las Hojas Muertas (Les Feuilles Mortes)",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Time To Say Goodbye",
+  "singer": "Andrea Bocelli"
+ },
+ {
+  "title": "Shooting Star",
+  "singer": "Amy Diamond"
+ },
+ {
+  "title": "Welcome To The City",
+  "singer": "Amy Diamond"
+ },
+ {
+  "title": "Graduation Song",
+  "singer": "Amy Diamond"
+ },
+ {
+  "title": "Abracadabra",
+  "singer": "Alizee"
+ },
+ {
+  "title": "Innocence",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "I Don't Give",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "When You're Gone",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "Girlfriend",
+  "singer": "Avril Lavigne"
+ },
+ {
+  "title": "The Days",
+  "singer": "Avicii"
+ },
+ {
+  "title": "UMF Ultra",
+  "singer": "Avicii"
+ },
+ {
+  "title": "The Nights",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Speed",
+  "singer": "Avicii"
+ },
+ {
+  "title": "Waiting for Love",
+  "singer": "Avicii"
+ },
+ {
+  "title": "狂风里拥抱",
+  "singer": "信A-Lin"
+ },
+ {
+  "title": "现在我很幸福",
+  "singer": "A-Lin"
+ },
+ {
+  "title": "我值得",
+  "singer": "A-Lin"
+ },
+ {
+  "title": "Lay All Your Love On Me",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "Super Trouper",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "Dancing queen",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "Gimme gimme gimme",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "Floorfiller",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "FireFly",
+  "singer": "A*Teens"
+ },
+ {
+  "title": "Rockstar",
+  "singer": "A Great Big World"
+ },
+ {
+  "title": "Hold Each Other",
+  "singer": "A Great Big World"
+ },
+ {
+  "title": "Almost Lover (Live)",
+  "singer": "A Fine Frenzy"
+ },
+ {
+  "title": "Blow Away",
+  "singer": "A Fine Frenzy"
+ },
+ {
+  "title": "Wish You Well",
+  "singer": "A Fine Frenzy"
+ },
+ {
+  "title": "Winter White",
+  "singer": "A Fine Frenzy"
+ },
+ {
+  "title": "Red Ribbon Foxes",
+  "singer": "A Fine Frenzy"
+ }
+]

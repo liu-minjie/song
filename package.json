@@ -1,0 +1,26 @@
+{
+  "name": "song",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liu-minjie/song.git"
+  },
+  "author": "liuminjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liu-minjie/song/issues"
+  },
+  "homepage": "https://github.com/liu-minjie/song#readme",
+  "dependencies": {
+    "emailjs": "^1.0.12",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.3.0",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
