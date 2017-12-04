@@ -1,0 +1,174 @@
+[
+ {
+  "title": "Another Universe",
+  "singer": "Edita"
+ },
+ {
+  "title": "耶稣，人类渴求的欢乐",
+  "singer": "Eugene OrmandyPablo CasalsMarlboro Festival OrchestraThe Philadelphia Orchestra"
+ },
+ {
+  "title": "The Nutcracker Ballet, Op. 71 (Excerpts) - Trépak - Cossack Dance (胡桃夹子芭蕾，作品71（节选） - 特列帕克民间舞曲 - 哥萨克舞曲（选自第二幕）)",
+  "singer": "Eugene OrmandyThe Philadelphia Orchestra"
+ },
+ {
+  "title": "The Anna Magdalena Notebook, BWV. Anh. 114 - Minuet",
+  "singer": "Eugene Ormandy"
+ },
+ {
+  "title": "土耳其进行曲",
+  "singer": "Eugene OrmandyLeonard BernsteinThe Philadelphia OrchestraNew York Philharmonic"
+ },
+ {
+  "title": "小夜曲",
+  "singer": "Eugene OrmandyColumbia Symphony OrchestraThe Philadelphia Orchestra"
+ },
+ {
+  "title": "斗牛士进行曲",
+  "singer": "Eugene OrmandyLeonard BernsteinThe Philadelphia OrchestraNew York Philharmonic"
+ },
+ {
+  "title": "军队进行曲",
+  "singer": "Eugene OrmandyLeonard BernsteinThe Philadelphia OrchestraNew York Philharmonic"
+ },
+ {
+  "title": "致艾丽丝",
+  "singer": "Eugene OrmandyLeonard BernsteinThe Philadelphia OrchestraNew York Philharmonic"
+ },
+ {
+  "title": "摇篮曲",
+  "singer": "Eugene OrmandyColumbia Symphony OrchestraThe Philadelphia Orchestra"
+ },
+ {
+  "title": "即兴幻想曲",
+  "singer": "Eugene OrmandyColumbia Symphony OrchestraThe Philadelphia Orchestra"
+ },
+ {
+  "title": "G弦上的咏叹调",
+  "singer": "Eugene OrmandyPablo CasalsMarlboro Festival OrchestraThe Philadelphia Orchestra"
+ },
+ {
+  "title": "Serenade (小夜曲)",
+  "singer": "The Philadelphia OrchestraEugene Ormandy"
+ },
+ {
+  "title": "Palladio",
+  "singer": "Escala"
+ },
+ {
+  "title": "One Way Ticket",
+  "singer": "Eruption"
+ },
+ {
+  "title": "Ameno",
+  "singer": "Era"
+ },
+ {
+  "title": "Don't Go Away",
+  "singer": "Era"
+ },
+ {
+  "title": "The Mass",
+  "singer": "Era"
+ },
+ {
+  "title": "Amarantine (single version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Echoes In Rain",
+  "singer": "Enya"
+ },
+ {
+  "title": "May It Be",
+  "singer": "Enya"
+ },
+ {
+  "title": "Only Time",
+  "singer": "Enya"
+ },
+ {
+  "title": "Sitting on the Moon",
+  "singer": "Enigma"
+ },
+ {
+  "title": "神秘园",
+  "singer": "Enigma"
+ },
+ {
+  "title": "The Social Song",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Love The Way You Lie",
+  "singer": "EminemRihanna"
+ },
+ {
+  "title": "Sound of Silence",
+  "singer": "Emiliana Torrini"
+ },
+ {
+  "title": "My Love",
+  "singer": "Emilia Rydberg"
+ },
+ {
+  "title": "Love Me Tender",
+  "singer": "Elvis Presley"
+ },
+ {
+  "title": "Your Song",
+  "singer": "Elton John"
+ },
+ {
+  "title": "Candle In The Wind",
+  "singer": "Elton John"
+ },
+ {
+  "title": "Can You Feel The Love Tonight",
+  "singer": "Elton John"
+ },
+ {
+  "title": "Radetzky March",
+  "singer": "Elmer Bernstein"
+ },
+ {
+  "title": "Fight For Love",
+  "singer": "Elliott Yamin"
+ },
+ {
+  "title": "Raindrops",
+  "singer": "Eliane"
+ },
+ {
+  "title": "Don't Cry For Me Argentina",
+  "singer": "Elaine Paige"
+ },
+ {
+  "title": "Memory",
+  "singer": "Elaine Paige"
+ },
+ {
+  "title": "Stereo Love",
+  "singer": "Edward Maya"
+ },
+ {
+  "title": "La Vie En Rose",
+  "singer": "Andrea BocelliEdith Piaf"
+ },
+ {
+  "title": "September",
+  "singer": "Justin TimberlakeAnna KendrickEarth, Wind & Fire"
+ },
+ {
+  "title": "Desperado",
+  "singer": "Eagles"
+ },
+ {
+  "title": "Hotel California",
+  "singer": "Eagles"
+ },
+ {
+  "title": "Lemon Tree",
+  "singer": "E.M.D"
+ }
+]

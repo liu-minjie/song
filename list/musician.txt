@@ -1,0 +1,1298 @@
+[
+ {
+  "title": "匈牙利舞曲第五号",
+  "singer": "Berliner Philharmoniker"
+ },
+ {
+  "title": "芦笛之舞",
+  "singer": "Various Artists"
+ },
+ {
+  "title": "神秘园",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Origins",
+  "singer": "Dan Gibson's Solitudes"
+ },
+ {
+  "title": "We Move Lightly",
+  "singer": "Dustin O'Halloran"
+ },
+ {
+  "title": "Time",
+  "singer": "Classical Piano"
+ },
+ {
+  "title": "HumorseQue (幽默曲)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "小步舞曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Air Sul G (G弦上的咏叹调)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "梦幻曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Turning",
+  "singer": "Suzanne Ciani"
+ },
+ {
+  "title": "Give Me Your Hand",
+  "singer": "George Winston"
+ },
+ {
+  "title": "The Gypsy Maid (吉普赛女郎)",
+  "singer": "Maksim MrvicaJulian KershawCrouch End Festival ChorusRoyal Philharmonic Orchestra"
+ },
+ {
+  "title": "Wonderland (仙境)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "The Flight of the Bumble-Bee",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Exodus (出埃及记)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Croatian Rhapsody (克罗地亚狂想曲)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "费加罗的婚礼",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "小夜曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Symphony No. 40 in G Minor, K. 550 - I. Molto allegro (G小调第40号交响曲，作品550 - 第一乐章 很快的快板)",
+  "singer": "Berliner PhilharmonikerHerbert von Karajan"
+ },
+ {
+  "title": "Symphony No. 40 In G Minor, K. 550 - I. Molto allegro",
+  "singer": "Herbert von KarajanBerliner Philharmoniker"
+ },
+ {
+  "title": "土耳其进行曲",
+  "singer": "尤大淳"
+ },
+ {
+  "title": "Standchen D. 957, No. 4 (小夜曲，作品957之4) (Performed by Clarinet & Piano)",
+  "singer": "王弢Michel Kiener"
+ },
+ {
+  "title": "3 Marches Militaires, Op. 51, D. 733 - No. 1 in D Major (3首军队进行曲，作品51 D. 733 - D大调第1首)",
+  "singer": "Daniel Barenboim"
+ },
+ {
+  "title": "Falling Leaves",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "In the Meadow",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "The Edge Of A Petal",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Sunshine and Blossoms",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Andante Cantabile",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Melancholy Moon",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Moonrise",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Bluebird Story",
+  "singer": "DJ OKAWARI"
+ },
+ {
+  "title": "Metronome (节拍器)",
+  "singer": "DJ OKAWARI"
+ },
+ {
+  "title": "Autumn",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "A New Day",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Golden Sunset",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Sunrise",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Morning Light",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Song For Sienna",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Water(Solo Piano)",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Dream of Flying",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Morning Mist",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Somewhere",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "Yours",
+  "singer": "DJ OKAWARI"
+ },
+ {
+  "title": "Moonlit Shore",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Lavender Hills",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Flute Story Two",
+  "singer": "Blazo"
+ },
+ {
+  "title": "사랑에 베이다 (被爱情切割)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "영혼의 노래 (灵魂之歌)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "Somewhere (某处) (伴奏)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "Annabelle (Demo)",
+  "singer": "高至豪"
+ },
+ {
+  "title": "The Truth That You Leave (Demo)",
+  "singer": "高至豪"
+ },
+ {
+  "title": "安静的午后 (Demo)",
+  "singer": "高至豪"
+ },
+ {
+  "title": "Luv Letter (情书)",
+  "singer": "DJ OKAWARI"
+ },
+ {
+  "title": "Refrain",
+  "singer": "阿南亮子 (Anan Ryoko)"
+ },
+ {
+  "title": "In Love (恋爱)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "My Soul",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "BREAKOUT",
+  "singer": "Bandari"
+ },
+ {
+  "title": "The Golden Land 黄金大地",
+  "singer": "Bandari"
+ },
+ {
+  "title": "马可波罗",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Adiemus",
+  "singer": "Bandari"
+ },
+ {
+  "title": "超越",
+  "singer": "Bandari"
+ },
+ {
+  "title": "西藏的月",
+  "singer": "Bandari"
+ },
+ {
+  "title": "海王星",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Hijo de la Luna",
+  "singer": "Bandari"
+ },
+ {
+  "title": "亚特兰提斯的孩子",
+  "singer": "Bandari"
+ },
+ {
+  "title": "巴格达之星",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Neptune",
+  "singer": "Bandari"
+ },
+ {
+  "title": "月光仙子",
+  "singer": "Bandari"
+ },
+ {
+  "title": "月神",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Spring-Water",
+  "singer": "Bandari"
+ },
+ {
+  "title": "银色沙滩",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Endless Horizon",
+  "singer": "Bandari"
+ },
+ {
+  "title": "追梦人",
+  "singer": "Bandari"
+ },
+ {
+  "title": "The Foggy Dew",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Your Smile",
+  "singer": "Bandari"
+ },
+ {
+  "title": "神秘园之歌",
+  "singer": "Bandari"
+ },
+ {
+  "title": "The Deep Blue Sea",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Moonglow",
+  "singer": "Bandari"
+ },
+ {
+  "title": "The First Snowflakes",
+  "singer": "Bandari"
+ },
+ {
+  "title": "清晨",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Childhood Memory",
+  "singer": "Bandari"
+ },
+ {
+  "title": "Snowdreams",
+  "singer": "Bandari"
+ },
+ {
+  "title": "安妮的仙境",
+  "singer": "Bandari"
+ },
+ {
+  "title": "next dimension",
+  "singer": "Nomak (ノーマーク)"
+ },
+ {
+  "title": "A Song For Helen",
+  "singer": "David Lanz"
+ },
+ {
+  "title": "Love Lost...Love Found",
+  "singer": "David Lanz"
+ },
+ {
+  "title": "The Enchantment",
+  "singer": "David Lanz"
+ },
+ {
+  "title": "Butterfly Waltz",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Wind",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "僻静的大街",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "埃莉娜",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "一路平安-马丽亚",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "拉.梅尔",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "落叶",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Music Box Dancer",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "四季组曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "清晨",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦的传说",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "情感",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "野花",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "玫瑰色的人生",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "异国情",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Ave Maria",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "土耳其进行曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱之梦",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "冷藏的爱",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "威尼斯之旅",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "亲爱的，你听",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "德朗的微笑",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "摇篮曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "海边的祈祷",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "记忆",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "海边的星空",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "瓦妮莎的微笑",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "给母亲的信",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梁祝",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "柔如彩虹",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "秘密的庭院",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Mariage d'amour",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "星星小夜曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "午后的旅行",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱情的故事",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "思乡曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "蓝色的爱",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "绿袖子",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦中的鸟",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "致爱丽丝",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的纪念 (古筝演奏)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "秋日私语",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "星空",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Moon Flow",
+  "singer": "Nomak (ノーマーク)"
+ },
+ {
+  "title": "Righteous Path (正道)",
+  "singer": "Blazo"
+ },
+ {
+  "title": "A Simple Life",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "Butterfly Waltz",
+  "singer": "Brian Crain"
+ },
+ {
+  "title": "O Luce Che Brilla Nell'Oscurit",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Almost A Whisper",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Adagio In C Minor (Live)",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Nostalgia",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Renegade (Live)",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Keys to Imagination",
+  "singer": "Yanni"
+ },
+ {
+  "title": "November Sky",
+  "singer": "Yanni"
+ },
+ {
+  "title": "The Rain Must Fall",
+  "singer": "Yanni"
+ },
+ {
+  "title": "致知情人",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Aria",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Highland",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Orchid",
+  "singer": "Yanni"
+ },
+ {
+  "title": "A Word in Private",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Santorini",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Whispers in the Dark",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Felitsa",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Until the Last Moment",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Reflections Of Passion",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Butterfly Dance",
+  "singer": "Yanni"
+ },
+ {
+  "title": "激情飞扬",
+  "singer": "Yanni"
+ },
+ {
+  "title": "In The Mirror",
+  "singer": "Yanni"
+ },
+ {
+  "title": "To Take...To Hold",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Never Too Late",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Ni La Fuerza Del Destino",
+  "singer": "Yanni"
+ },
+ {
+  "title": "If I Could Tell You",
+  "singer": "Yanni"
+ },
+ {
+  "title": "The End of August",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Can't Wait",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Before I Go",
+  "singer": "Yanni"
+ },
+ {
+  "title": "Until the Last Moment",
+  "singer": "Yanni"
+ },
+ {
+  "title": "河西走廊之梦",
+  "singer": "Yanni"
+ },
+ {
+  "title": "In the Morning Light",
+  "singer": "Yanni"
+ },
+ {
+  "title": "耳边私语",
+  "singer": "Yanni"
+ },
+ {
+  "title": "A Walk In The Rain",
+  "singer": "Yanni"
+ },
+ {
+  "title": "One Man's Dream",
+  "singer": "Yanni"
+ },
+ {
+  "title": "夜莺",
+  "singer": "Yanni"
+ },
+ {
+  "title": "With An Orchid",
+  "singer": "Yanni"
+ },
+ {
+  "title": "绿色阁",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Beyond The Sundial",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "日晷之梦",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "After the Rain",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "走过绿意",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "记忆里的微光",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Sundial Dreams",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Through the Arbor",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Tear",
+  "singer": "Daydream (白日梦)"
+ },
+ {
+  "title": "爱的协奏曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Moon River (Remaster)",
+  "singer": "Henry Mancini and His Orchestra"
+ },
+ {
+  "title": "罗密欧与朱丽叶 (钢琴曲)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "水边的阿狄丽娜",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "秋日的私语",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Ballad for Adeline",
+  "singer": "Paul de Senneville"
+ },
+ {
+  "title": "梦中的婚礼 (钢琴曲)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Reflector",
+  "singer": "DAISHI DANCE姬神 (ひめかみ)"
+ },
+ {
+  "title": "真珠星",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "十三の春",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "Future",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "silk road (丝绸之路)",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "飨宴",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Estrella",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "舞鳥",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "杜",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "诸神之诗",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "Distant Suns",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "远い日,风はあおあお",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "Prelude In G Minor (拉赫玛尼诺夫前奏曲)",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "シェンファ~莎花~ (オリジナル・ヴァージョン)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "旅愁 (旅愁)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "天狼星 (Sirius)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "SWEET DREAMS (甜梦)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "杏林湖畔",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "春景",
+  "singer": "贾鹏芳贾鹏新"
+ },
+ {
+  "title": "Girl from Heavens",
+  "singer": "Koan"
+ },
+ {
+  "title": "May Be",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "약속 (约定) (Piano Solo)",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "Do You?",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "Love Me",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "All Myself To You",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "Waltz In C Minor (钢琴曲)",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "Kiss The Rain (雨的印记)",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "River Flows In You",
+  "singer": "이루마 (李闰珉)"
+ },
+ {
+  "title": "童年回忆 (Memory Of The Childfood)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "宁月 (Silent Moon)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "什刹海之晨 (Shichahai in The Morning)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "睡莲 (A Water Lily)",
+  "singer": "贾鹏芳"
+ },
+ {
+  "title": "雨のかんざし (宮城県民謡 「さんさ時雨」 より) (赞歌~献给种山之原)",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "千年の祈り (千年的祈祷)",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "一人静",
+  "singer": "姬神 (ひめかみ)"
+ },
+ {
+  "title": "Orochi 大蛇",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Soong Sisters",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "伽羅 (Kyara)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Refrain",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "妙音鳥 (Mysterious Songbird)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Forbidden Love",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Missing You (想你)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "高雅～メインテーマ (高雅～主题曲)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Palace Memories (记忆之都)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Aphrodite (阿芙罗狄蒂)",
+  "singer": "S.E.N.S. (神思者)"
+ },
+ {
+  "title": "Duo",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Lament For A Frozen Flower",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "windancer",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Belonging",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "passacaglia",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Pastorale",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Gates Of Dawn",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "hymn to hope",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "reflection",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Sometimes When It Rains",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Heartstrings",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "chaconne",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Anticipation",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Papillon",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Nocturne",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Adagio",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Sleepsong",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Songs From A Secret Garden",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "You Raise Me Up",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "The Promise",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Cang Ding",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Invisible Love",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Piano Moods",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Push The Limits (Album Version)",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Amen",
+  "singer": "EnigmaAquilo"
+ },
+ {
+  "title": "The Piano",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Sitting on the Moon",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Smell Of Desire",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Silence Must Be Heard",
+  "singer": "Enigma"
+ },
+ {
+  "title": "You Are So Sexy",
+  "singer": "Enigma"
+ },
+ {
+  "title": "The Social Song",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Mea Culpa",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Beyond The Invisible",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Gravity Of Love",
+  "singer": "Enigma"
+ },
+ {
+  "title": "The Eyes Of Truth",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Callas Went Away",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Sadness",
+  "singer": "Enigma"
+ },
+ {
+  "title": "Return To Innocence",
+  "singer": "Enigma"
+ },
+ {
+  "title": "追忆",
+  "singer": "陈勋奇"
+ },
+ {
+  "title": "序曲：天地孤影任我行",
+  "singer": "陈勋奇"
+ },
+ {
+  "title": "琵琶语",
+  "singer": "林海"
+ },
+ {
+  "title": "勇往直前",
+  "singer": "胡伟立"
+ },
+ {
+  "title": "开心做出戏",
+  "singer": "黄沾"
+ },
+ {
+  "title": "菩提树",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "索命梵音",
+  "singer": "黄沾"
+ },
+ {
+  "title": "少林雄风",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "天龙八音",
+  "singer": "黄沾"
+ },
+ {
+  "title": "定情",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "断情殇",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "Tea-House Moon (Instrumental 2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Pax Deorum (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "The Memory Of Trees (Instrumental 2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Portrait",
+  "singer": "Enya"
+ },
+ {
+  "title": "Lothlórien",
+  "singer": "Enya"
+ },
+ {
+  "title": "Shepherd Moons",
+  "singer": "Enya"
+ },
+ {
+  "title": "Out Of The Blue",
+  "singer": "Enya"
+ },
+ {
+  "title": "Morning Glory (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Miss Clare Remembers (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "On Your Shore (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Cursum Perficio (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Evening Falls",
+  "singer": "Enya"
+ },
+ {
+  "title": "Fairytale (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "The Sun In The Stream (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Deireadh An Tuath (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "March Of The Celts (2009 Remastered Version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "I Want Tomorrow",
+  "singer": "Enya"
+ },
+ {
+  "title": "Only If",
+  "singer": "Enya"
+ },
+ {
+  "title": "Flora's Secret",
+  "singer": "Enya"
+ },
+ {
+  "title": "China Roses",
+  "singer": "Enya"
+ },
+ {
+  "title": "Athair Ar Neamh",
+  "singer": "Enya"
+ },
+ {
+  "title": "随风而逝",
+  "singer": "Enya"
+ },
+ {
+  "title": "We Wish You A Merry Christmas",
+  "singer": "Enya"
+ },
+ {
+  "title": "The Magic Of The Night",
+  "singer": "Enya"
+ },
+ {
+  "title": "A Day Without Rain",
+  "singer": "Enya"
+ },
+ {
+  "title": "From Where I Am",
+  "singer": "Enya"
+ },
+ {
+  "title": "Watermark",
+  "singer": "Enya"
+ },
+ {
+  "title": "Anywhere Is",
+  "singer": "Enya"
+ },
+ {
+  "title": "The Humming...",
+  "singer": "Enya"
+ },
+ {
+  "title": "Wild Child",
+  "singer": "Enya"
+ },
+ {
+  "title": "莎莉花园",
+  "singer": "Enya"
+ },
+ {
+  "title": "Long Long Journey",
+  "singer": "Enya"
+ },
+ {
+  "title": "One By One",
+  "singer": "Enya"
+ },
+ {
+  "title": "Amarantine (single version)",
+  "singer": "Enya"
+ },
+ {
+  "title": "Echoes In Rain",
+  "singer": "Enya"
+ },
+ {
+  "title": "May It Be",
+  "singer": "Enya"
+ },
+ {
+  "title": "Only Time",
+  "singer": "Enya"
+ },
+ {
+  "title": "Violin Concerto No. 2 in E, BWV 1042 - I. Allegro (E大调小提琴第2号协奏曲，作品1042)",
+  "singer": "Julia FischerAcademy of St. Martin in the Fields"
+ },
+ {
+  "title": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\" - II. Romanze - Andante (G大调第13号小夜曲，作品525“一首小夜曲” - 第二乐章 浪漫曲 - 行板) (1997 Digital Remaster)",
+  "singer": "Academy of St. Martin in the FieldsNeville Marriner"
+ },
+ {
+  "title": "Serenade in G Major, K. 525 \"Eine kleine Nachtmusik\" - I. Allegro",
+  "singer": "Academy of St. Martin in the FieldsNeville Marriner"
+ },
+ {
+  "title": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\" - I. Allegro (G大调第13号小夜曲，作品525“一首小夜曲” - 第一乐章 快板) (1997 Digital Remaster)",
+  "singer": "Academy of St. Martin in the FieldsNeville Marriner"
+ },
+ {
+  "title": "Symphony No. 25 In G Minor, K. 183 - I. Allegro con brio",
+  "singer": "Mozarteum Orchestra Salzburg"
+ },
+ {
+  "title": "Cannon In D Major (D大调卡农)",
+  "singer": "Johann Pachelbel"
+ }
+]

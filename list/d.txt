@@ -1,0 +1,126 @@
+[
+ {
+  "title": "Mystic Tides",
+  "singer": "Dan Gibson's Solitudes"
+ },
+ {
+  "title": "The Natural World",
+  "singer": "Dan Gibson's Solitudes"
+ },
+ {
+  "title": "B What U Wanna B",
+  "singer": "Darin"
+ },
+ {
+  "title": "Gentle Rain",
+  "singer": "David Arkenstone"
+ },
+ {
+  "title": "Let It Go",
+  "singer": "Demi Lovato"
+ },
+ {
+  "title": "Brown Eyes",
+  "singer": "Destiny's Child"
+ },
+ {
+  "title": "Rolling In The Deep (In the Style of \"Adele\")",
+  "singer": "Done Again"
+ },
+ {
+  "title": "The Next Episode",
+  "singer": "Dr. Dre"
+ },
+ {
+  "title": "跟着我一辈子",
+  "singer": "杜德伟"
+ },
+ {
+  "title": "情人",
+  "singer": "杜德伟"
+ },
+ {
+  "title": "老神仙 (Live)",
+  "singer": "戴荃"
+ },
+ {
+  "title": "悟空 (Live)",
+  "singer": "戴荃"
+ },
+ {
+  "title": "念念不忘",
+  "singer": "屠洪刚戴娆"
+ },
+ {
+  "title": "铁齿铜牙纪晓岚",
+  "singer": "戴娆"
+ },
+ {
+  "title": "阿莲",
+  "singer": "戴军"
+ },
+ {
+  "title": "你要的爱",
+  "singer": "戴佩妮"
+ },
+ {
+  "title": "怎样",
+  "singer": "戴佩妮"
+ },
+ {
+  "title": "背叛情歌",
+  "singer": "动力火车"
+ },
+ {
+  "title": "痛",
+  "singer": "李翊君动力火车"
+ },
+ {
+  "title": "无情的情书",
+  "singer": "动力火车"
+ },
+ {
+  "title": "当",
+  "singer": "动力火车"
+ },
+ {
+  "title": "我这个你不爱的人",
+  "singer": "迪克牛仔"
+ },
+ {
+  "title": "有多少爱可以重来",
+  "singer": "迪克牛仔"
+ },
+ {
+  "title": "在水一方",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "恰似你的温柔",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "美酒加咖啡",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "月亮代表我的心",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "小城故事",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "甜蜜蜜",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "我只在乎你 (国语)",
+  "singer": "邓丽君"
+ },
+ {
+  "title": "漫步人生路",
+  "singer": "邓丽君"
+ }
+]

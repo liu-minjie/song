@@ -1,0 +1,750 @@
+[
+ {
+  "title": "领悟",
+  "singer": "草蜢"
+ },
+ {
+  "title": "花雨飘",
+  "singer": "草蜢"
+ },
+ {
+  "title": "Gala Gala Happy",
+  "singer": "草蜢"
+ },
+ {
+  "title": "乖猫",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "Dr. Jolin",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "不装饰你的梦",
+  "singer": "蔡国权"
+ },
+ {
+  "title": "星夜",
+  "singer": "蔡国权"
+ },
+ {
+  "title": "最远的你是我最近的爱",
+  "singer": "马旭成车继铃"
+ },
+ {
+  "title": "南澜掌",
+  "singer": "曹方"
+ },
+ {
+  "title": "无声剧",
+  "singer": "曹方"
+ },
+ {
+  "title": "快让我在雪地上撒点野 (Live)",
+  "singer": "崔健"
+ },
+ {
+  "title": "Lascia Ch'io Pianga",
+  "singer": "Celtic Woman"
+ },
+ {
+  "title": "You'll Be In My Heart",
+  "singer": "Celtic Woman"
+ },
+ {
+  "title": "O, America!",
+  "singer": "Celtic Woman"
+ },
+ {
+  "title": "我们都一样",
+  "singer": "曹轩宾"
+ },
+ {
+  "title": "What Are Words",
+  "singer": "Chris Medina"
+ },
+ {
+  "title": "Auld Lang Syne",
+  "singer": "Celtic Woman"
+ },
+ {
+  "title": "Immortality",
+  "singer": "Céline DionBee Gees"
+ },
+ {
+  "title": "Down by the Sally Gardens",
+  "singer": "Celtic Woman"
+ },
+ {
+  "title": "不再联系",
+  "singer": "夏天Alex"
+ },
+ {
+  "title": "菲林",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "离别的秋天",
+  "singer": "晨熙"
+ },
+ {
+  "title": "冰川",
+  "singer": "曹方"
+ },
+ {
+  "title": "More Than A Memory",
+  "singer": "Carly Rae Jepsen"
+ },
+ {
+  "title": "Good Time",
+  "singer": "Carly Rae JepsenOwl City"
+ },
+ {
+  "title": "Yesterday Once More",
+  "singer": "Carpenters"
+ },
+ {
+  "title": "一百万个可能",
+  "singer": "Christine welch"
+ },
+ {
+  "title": "Try",
+  "singer": "Colbie Caillat"
+ },
+ {
+  "title": "Hymn For The Weekend",
+  "singer": "Coldplay"
+ },
+ {
+  "title": "Yellow",
+  "singer": "Coldplay"
+ },
+ {
+  "title": "Hymn for the Weekend (Seeb Remix)",
+  "singer": "Coldplay"
+ },
+ {
+  "title": "Something Just Like This (Tokyo Remix)",
+  "singer": "ColdplayThe Chainsmokers"
+ },
+ {
+  "title": "The Prayer",
+  "singer": "Céline DionAndrea Bocelli"
+ },
+ {
+  "title": "I Surrender",
+  "singer": "Céline Dion"
+ },
+ {
+  "title": "The Power Of Love",
+  "singer": "Céline Dion"
+ },
+ {
+  "title": "My Heart Will Go On",
+  "singer": "James HornerCéline Dion"
+ },
+ {
+  "title": "一无所有",
+  "singer": "崔健"
+ },
+ {
+  "title": "花房姑娘",
+  "singer": "崔健"
+ },
+ {
+  "title": "我是谁 (粤语)",
+  "singer": "成龙"
+ },
+ {
+  "title": "生死不离",
+  "singer": "成龙"
+ },
+ {
+  "title": "你给我一片天",
+  "singer": "成龙"
+ },
+ {
+  "title": "问心无愧",
+  "singer": "成龙"
+ },
+ {
+  "title": "少年强",
+  "singer": "成龙周华健"
+ },
+ {
+  "title": "我只在乎你",
+  "singer": "成龙邓丽君"
+ },
+ {
+  "title": "难说再见",
+  "singer": "成龙刘欢刘德华周华健"
+ },
+ {
+  "title": "站起来",
+  "singer": "成龙莫文蔚孙楠韩红"
+ },
+ {
+  "title": "明明白白我的心 (新版)",
+  "singer": "成龙魏允熙"
+ },
+ {
+  "title": "油菜花",
+  "singer": "成龙"
+ },
+ {
+  "title": "真的，用了心",
+  "singer": "成龙"
+ },
+ {
+  "title": "壮志在我胸",
+  "singer": "成龙"
+ },
+ {
+  "title": "醉拳",
+  "singer": "成龙"
+ },
+ {
+  "title": "男儿当自强",
+  "singer": "成龙"
+ },
+ {
+  "title": "美丽的神话Ⅰ",
+  "singer": "成龙김희선 (金喜善)"
+ },
+ {
+  "title": "真心英雄",
+  "singer": "成龙周华健李宗盛黄耀明"
+ },
+ {
+  "title": "美丽的神话",
+  "singer": "成龙MIC男团"
+ },
+ {
+  "title": "国家",
+  "singer": "成龙刘媛媛"
+ },
+ {
+  "title": "一路顺风",
+  "singer": "草蜢"
+ },
+ {
+  "title": "忘情森巴舞",
+  "singer": "草蜢"
+ },
+ {
+  "title": "宝贝对不起",
+  "singer": "草蜢"
+ },
+ {
+  "title": "失恋阵线联盟",
+  "singer": "草蜢"
+ },
+ {
+  "title": "爆米花的味道",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "唇唇欲动",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "玩美",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "假面的告白",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "你怎么连话都说不清楚",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "睁一只眼闭一只眼",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "海盗",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "假装",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "许愿池的希腊少女",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "马德里不思议",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "布拉格广场",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "爱情三十六计",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "骑士精神",
+  "singer": "蔡依林周杰伦"
+ },
+ {
+  "title": "听说爱情回来过",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "看我72变",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "柠檬草的味道",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "舞娘",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "Love Love Love",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "我知道你很难过",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "说爱你",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "布拉格广场",
+  "singer": "蔡依林周杰伦"
+ },
+ {
+  "title": "今天你要嫁给我",
+  "singer": "蔡依林陶喆"
+ },
+ {
+  "title": "日不落",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "倒带",
+  "singer": "蔡依林"
+ },
+ {
+  "title": "无底洞",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "原点",
+  "singer": "蔡健雅孙燕姿"
+ },
+ {
+  "title": "陌生人",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "停格",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "Beautiful Love",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "被驯服的象",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "下一站天后",
+  "singer": "蔡卓妍"
+ },
+ {
+  "title": "둘이서 (两个人)",
+  "singer": "채연 (蔡妍)"
+ },
+ {
+  "title": "星星知我心",
+  "singer": "蔡幸娟"
+ },
+ {
+  "title": "缘份",
+  "singer": "蔡幸娟"
+ },
+ {
+  "title": "我心已许",
+  "singer": "蔡幸娟"
+ },
+ {
+  "title": "娉婷",
+  "singer": "蔡枫华"
+ },
+ {
+  "title": "绝对空虚",
+  "singer": "蔡枫华"
+ },
+ {
+  "title": "倩影",
+  "singer": "蔡枫华"
+ },
+ {
+  "title": "渡口",
+  "singer": "蔡琴"
+ },
+ {
+  "title": "恰似你的温柔",
+  "singer": "蔡琴"
+ },
+ {
+  "title": "被遗忘的时光 II",
+  "singer": "蔡琴"
+ },
+ {
+  "title": "你的眼神",
+  "singer": "蔡琴"
+ },
+ {
+  "title": "K歌之王 (国语)",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "一丝不挂",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "单车",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "浮夸",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "淘汰",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "好久不见",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "十年",
+  "singer": "陈奕迅"
+ },
+ {
+  "title": "我要新生活",
+  "singer": "陈小春"
+ },
+ {
+  "title": "重色轻友",
+  "singer": "陈小春"
+ },
+ {
+  "title": "多谢老天爷",
+  "singer": "陈小春"
+ },
+ {
+  "title": "她的妈妈不爱我",
+  "singer": "陈小春"
+ },
+ {
+  "title": "好难好难",
+  "singer": "陈小春"
+ },
+ {
+  "title": "男人与公狗",
+  "singer": "陈小春"
+ },
+ {
+  "title": "情瘤感菌",
+  "singer": "陈小春"
+ },
+ {
+  "title": "一起飞",
+  "singer": "郑伊健陈小春林晓峰"
+ },
+ {
+  "title": "女人不该让男人太累",
+  "singer": "陈小春"
+ },
+ {
+  "title": "犯贱",
+  "singer": "陈小春"
+ },
+ {
+  "title": "神啊 救救我",
+  "singer": "陈小春"
+ },
+ {
+  "title": "相依为命 (2015香港岁月友情演唱会)",
+  "singer": "陈小春"
+ },
+ {
+  "title": "没那种命",
+  "singer": "陈小春"
+ },
+ {
+  "title": "战无不胜",
+  "singer": "陈小春"
+ },
+ {
+  "title": "友情岁月",
+  "singer": "陈小春"
+ },
+ {
+  "title": "离不开你",
+  "singer": "陈小春"
+ },
+ {
+  "title": "我爱的人",
+  "singer": "陈小春"
+ },
+ {
+  "title": "独家记忆",
+  "singer": "陈小春"
+ },
+ {
+  "title": "全世界最伤心的人",
+  "singer": "陈少华"
+ },
+ {
+  "title": "九九女儿红",
+  "singer": "陈少华"
+ },
+ {
+  "title": "九月九的酒",
+  "singer": "陈少华"
+ },
+ {
+  "title": "夜机",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "爱和承诺",
+  "singer": "陈慧娴张学友"
+ },
+ {
+  "title": "孤单背影",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "归来吧",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "人生何处不相逢",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "飘雪",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "千千阙歌",
+  "singer": "陈慧娴"
+ },
+ {
+  "title": "心不设防",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "随身听",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "替换",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "爱情来了",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "大日子",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "再见北极雪",
+  "singer": "陈慧琳周传雄"
+ },
+ {
+  "title": "花花宇宙",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "制造浪漫",
+  "singer": "陈慧琳郑中基"
+ },
+ {
+  "title": "不如跳舞",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "记事本",
+  "singer": "陈慧琳"
+ },
+ {
+  "title": "寂寞让我如此美丽",
+  "singer": "陈明"
+ },
+ {
+  "title": "快乐老家",
+  "singer": "陈明"
+ },
+ {
+  "title": "我要找到你",
+  "singer": "陈明"
+ },
+ {
+  "title": "等你爱我",
+  "singer": "陈明"
+ },
+ {
+  "title": "离家的孩子",
+  "singer": "陈星"
+ },
+ {
+  "title": "流浪歌",
+  "singer": "陈星"
+ },
+ {
+  "title": "比我幸福",
+  "singer": "陈晓东"
+ },
+ {
+  "title": "有没有人告诉你",
+  "singer": "陈楚生"
+ },
+ {
+  "title": "心会跟爱一起走",
+  "singer": "陈洁仪郭峰"
+ },
+ {
+  "title": "生生世世",
+  "singer": "陈淑桦"
+ },
+ {
+  "title": "读你",
+  "singer": "陈淑桦李宗盛"
+ },
+ {
+  "title": "明明白白我的心",
+  "singer": "陈淑桦成龙"
+ },
+ {
+  "title": "这样爱你对不对",
+  "singer": "陈淑桦"
+ },
+ {
+  "title": "问",
+  "singer": "陈淑桦"
+ },
+ {
+  "title": "笑红尘",
+  "singer": "陈淑桦"
+ },
+ {
+  "title": "滚滚红尘",
+  "singer": "罗大佑陈淑桦"
+ },
+ {
+  "title": "梦醒时分",
+  "singer": "陈淑桦"
+ },
+ {
+  "title": "你的柔情我永远不懂",
+  "singer": "陈琳"
+ },
+ {
+  "title": "爱就爱了",
+  "singer": "陈琳"
+ },
+ {
+  "title": "白狐",
+  "singer": "陈瑞"
+ },
+ {
+  "title": "First Love",
+  "singer": "陈百强"
+ },
+ {
+  "title": "浪潮",
+  "singer": "陈百强"
+ },
+ {
+  "title": "旅程",
+  "singer": "陈百强"
+ },
+ {
+  "title": "我的故事",
+  "singer": "陈百强"
+ },
+ {
+  "title": "烟雨凄迷",
+  "singer": "陈百强"
+ },
+ {
+  "title": "眼泪为你流",
+  "singer": "陈百强"
+ },
+ {
+  "title": "摘星",
+  "singer": "陈百强"
+ },
+ {
+  "title": "相思河畔",
+  "singer": "陈百强"
+ },
+ {
+  "title": "当我想起你",
+  "singer": "陈百强"
+ },
+ {
+  "title": "喝彩",
+  "singer": "陈百强"
+ },
+ {
+  "title": "天才白痴梦",
+  "singer": "陈百强"
+ },
+ {
+  "title": "深爱着你",
+  "singer": "陈百强"
+ },
+ {
+  "title": "不",
+  "singer": "陈百强"
+ },
+ {
+  "title": "涟漪",
+  "singer": "陈百强"
+ },
+ {
+  "title": "等",
+  "singer": "陈百强"
+ },
+ {
+  "title": "今宵多珍重",
+  "singer": "陈百强"
+ },
+ {
+  "title": "念亲恩",
+  "singer": "陈百强"
+ },
+ {
+  "title": "一生何求",
+  "singer": "陈百强"
+ },
+ {
+  "title": "偏偏喜欢你",
+  "singer": "陈百强"
+ },
+ {
+  "title": "在我心里有个你",
+  "singer": "陈美惠"
+ }
+]

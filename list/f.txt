@@ -1,0 +1,222 @@
+[
+ {
+  "title": "第一时间",
+  "singer": "F4"
+ },
+ {
+  "title": "流星雨",
+  "singer": "F4"
+ },
+ {
+  "title": "My Piano, The Clouds",
+  "singer": "Fabrizio Paterlini"
+ },
+ {
+  "title": "There You'll Be",
+  "singer": "Faith Hill"
+ },
+ {
+  "title": "Through Cloud: Opus Rain 1st Movement",
+  "singer": "Fiona Joy Hawkins"
+ },
+ {
+  "title": "The Foggy Dew",
+  "singer": "Frances Black"
+ },
+ {
+  "title": "Theme From Love Story",
+  "singer": "Francis Lai"
+ },
+ {
+  "title": "Can't Take My Eyes Off You",
+  "singer": "Frankie Valli"
+ },
+ {
+  "title": "3 Marches Militaires, Op. 51, D. 733 - No. 1 in D Major (3首军队进行曲，作品51 D. 733 - D大调第1首)",
+  "singer": "Daniel Barenboim"
+ },
+ {
+  "title": "Auf dem Wasser zu singen, D. 774",
+  "singer": "Daniel HopeSebastian Knauer"
+ },
+ {
+  "title": "Chillout Heaven",
+  "singer": "Fridrik Karlsson"
+ },
+ {
+  "title": "众人划桨开大船",
+  "singer": "付笛声"
+ },
+ {
+  "title": "知心爱人",
+  "singer": "付笛声任静"
+ },
+ {
+  "title": "Proud Of You",
+  "singer": "冯曦妤"
+ },
+ {
+  "title": "我在那一角落患过伤风",
+  "singer": "冯曦妤"
+ },
+ {
+  "title": "A Little Love",
+  "singer": "冯曦妤"
+ },
+ {
+  "title": "全是爱",
+  "singer": "凤凰传奇"
+ },
+ {
+  "title": "我从草原来",
+  "singer": "凤凰传奇"
+ },
+ {
+  "title": "月亮之上",
+  "singer": "凤凰传奇"
+ },
+ {
+  "title": "荷塘月色",
+  "singer": "凤凰传奇"
+ },
+ {
+  "title": "最炫民族风",
+  "singer": "凤凰传奇"
+ },
+ {
+  "title": "天涯歌女",
+  "singer": "凤飞飞"
+ },
+ {
+  "title": "掌声响起",
+  "singer": "凤飞飞"
+ },
+ {
+  "title": "追梦人",
+  "singer": "凤飞飞"
+ },
+ {
+  "title": "怨苍天变了心",
+  "singer": "方季惟"
+ },
+ {
+  "title": "葛凤兰",
+  "singer": "方磊"
+ },
+ {
+  "title": "通里福尼亚梦",
+  "singer": "方磊"
+ },
+ {
+  "title": "赛马",
+  "singer": "崔子格方磊"
+ },
+ {
+  "title": "小明",
+  "singer": "方磊"
+ },
+ {
+  "title": "婆婆娇",
+  "singer": "方磊"
+ },
+ {
+  "title": "深呼吸",
+  "singer": "范晓萱"
+ },
+ {
+  "title": "身不由己",
+  "singer": "成龙范晓萱"
+ },
+ {
+  "title": "雪人",
+  "singer": "范晓萱"
+ },
+ {
+  "title": "我要我们在一起",
+  "singer": "范晓萱"
+ },
+ {
+  "title": "一比一",
+  "singer": "范玮琪"
+ },
+ {
+  "title": "启程",
+  "singer": "范玮琪"
+ },
+ {
+  "title": "如果的事",
+  "singer": "范玮琪张韶涵"
+ },
+ {
+  "title": "到不了",
+  "singer": "范玮琪"
+ },
+ {
+  "title": "一个像夏天一个像秋天",
+  "singer": "范玮琪"
+ },
+ {
+  "title": "最初的梦想",
+  "singer": "范玮琪"
+ },
+ {
+  "title": "Fly Away",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "月牙湾",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "Lydia",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "你的微笑",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "千年之恋",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "心之火",
+  "singer": "飞儿乐团彭佳慧"
+ },
+ {
+  "title": "我们的爱",
+  "singer": "飞儿乐团"
+ },
+ {
+  "title": "故乡的云",
+  "singer": "费翔"
+ },
+ {
+  "title": "冬天里的一把火",
+  "singer": "费翔"
+ },
+ {
+  "title": "草原之夜 (Live)",
+  "singer": "降央卓玛费玉清"
+ },
+ {
+  "title": "梦驼铃",
+  "singer": "费玉清"
+ },
+ {
+  "title": "千里之外",
+  "singer": "周杰伦费玉清"
+ },
+ {
+  "title": "几度花落时",
+  "singer": "凤飞飞"
+ },
+ {
+  "title": "东方不败之雪千寻",
+  "singer": "斐然筝艺"
+ },
+ {
+  "title": "一剪梅",
+  "singer": "费玉清"
+ }
+]

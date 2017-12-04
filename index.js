@@ -6,11 +6,16 @@ const prompt = require('prompt');
 
 const urls = [
 	'https://y.qq.com/n/yqq/playlist/3259424259.html#stat=y_new.profile.create_playlist.click&dirid=2',
-	'https://y.qq.com/n/yqq/playlist/3259424298.html#stat=y_new.profile.create_playlist.click&dirid=3'
+	'https://y.qq.com/n/yqq/playlist/3259424298.html#stat=y_new.profile.create_playlist.click&dirid=3',
+	'https://y.qq.com/n/yqq/playlist/3259424315.html#stat=y_new.profile.create_playlist.click&dirid=4',
+	'https://y.qq.com/n/yqq/playlist/3259424501.html#stat=y_new.profile.create_playlist.click&dirid=5',
+	'https://y.qq.com/n/yqq/playlist/3259424510.html#stat=y_new.profile.create_playlist.click&dirid=6',
+	'https://y.qq.com/n/yqq/playlist/3259424515.html#stat=y_new.profile.create_playlist.click&dirid=7',
+	'https://y.qq.com/n/yqq/playlist/3260357902.html#stat=y_new.profile.create_playlist.click&dirid=8'
 ];
 
 
-function handleDom (window, content, html, success) {
+function handleDom (window, content, html, url, success) {
 	const $ = jquery(window);
 	$("body").html('');
 	$("body").append(content);
@@ -48,7 +53,7 @@ function handleDom (window, content, html, success) {
 			success && success(html);
 		})
 	} else {
-		console.error('songs !== list or no header');
+		console.error('songs !== list or no header', url);
 	}
 }
 
@@ -94,15 +99,17 @@ prompt.get(['password'], function (err, result) {
 					return;
 				}
 
+				const url = this.urls[this.index++];
+
 				request.get({
-					url: this.urls[this.index++],
+					url: url,
 				}, function (err, req, content) {
 					if (err) {
 						console.error(err);
 						return
 					}
 					
-					handleDom(window, content, html, function (html) {
+					handleDom(window, content, html, url, function (html) {
 						helper.request(html);
 					});
 				});
