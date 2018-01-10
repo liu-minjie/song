@@ -196,19 +196,19 @@
   "singer": "줄라이 (July)"
  },
  {
-  "title": "Somewhere (某处) (伴奏)",
+  "title": "Somewhere (某处)",
   "singer": "줄라이 (July)"
  },
  {
-  "title": "Annabelle (Demo)",
+  "title": "Annabelle",
   "singer": "高至豪"
  },
  {
-  "title": "The Truth That You Leave (Demo)",
+  "title": "The Truth That You Leave",
   "singer": "高至豪"
  },
  {
-  "title": "安静的午后 (Demo)",
+  "title": "安静的午后",
   "singer": "高至豪"
  },
  {
@@ -512,7 +512,7 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "爱的纪念 (古筝演奏)",
+  "title": "爱的纪念",
   "singer": "Richard Clayderman"
  },
  {
@@ -528,7 +528,7 @@
   "singer": "Nomak (ノーマーク)"
  },
  {
-  "title": "Righteous Path (正道)",
+  "title": "Righteous Path",
   "singer": "Blazo"
  },
  {

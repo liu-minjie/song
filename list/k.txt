@@ -1,0 +1,310 @@
+[
+ {
+  "title": "一个人 (Live)",
+  "singer": "黄铃凯吴青峰"
+ },
+ {
+  "title": "Dust in The Wind",
+  "singer": "Kansas"
+ },
+ {
+  "title": "Lambada",
+  "singer": "Kaoma"
+ },
+ {
+  "title": "We Are the World (In the Style of USA for Africa Band Aid)",
+  "singer": "Karaoke All-Stars"
+ },
+ {
+  "title": "Calling Wisdom",
+  "singer": "Karunesh"
+ },
+ {
+  "title": "Follow Your Heart",
+  "singer": "Karunesh"
+ },
+ {
+  "title": "Roar (Acoustic)",
+  "singer": "Katy Perry"
+ },
+ {
+  "title": "Nightçall",
+  "singer": "Kavinsky"
+ },
+ {
+  "title": "When You Say Nothing at All",
+  "singer": "Keith Whitley"
+ },
+ {
+  "title": "Stronger (What Doesn't Kill You)",
+  "singer": "Kelly Clarkson"
+ },
+ {
+  "title": "Because Of You",
+  "singer": "Kelly Clarkson"
+ },
+ {
+  "title": "Just One More",
+  "singer": "Kendra Morris"
+ },
+ {
+  "title": "回家",
+  "singer": "Kenny G"
+ },
+ {
+  "title": "You Can't Say (You Don't Love Me Anymore)",
+  "singer": "Kenny Rogers"
+ },
+ {
+  "title": "TiK ToK",
+  "singer": "Kesha"
+ },
+ {
+  "title": "After the Rain",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Fairy Wings",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Sundial Dreams",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Through the Arbor",
+  "singer": "Kevin Kern"
+ },
+ {
+  "title": "Kheops - sadness & honour",
+  "singer": "Kheops"
+ },
+ {
+  "title": "So Far The Way Esast",
+  "singer": "Kheops"
+ },
+ {
+  "title": "Armenian Song",
+  "singer": "Kheops"
+ },
+ {
+  "title": "Lambada",
+  "singer": "Kid Creole And The Coconuts"
+ },
+ {
+  "title": "On écrit sur les murs",
+  "singer": "Kids United"
+ },
+ {
+  "title": "Soong Sisters",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "丝绸之路",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "飨宴",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "孙文与庆龄",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "暗夜浮香",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Heaven And Earth (Land Theme)",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "The Moon On The Lake",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "宋家皇朝～闭幕曲～",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Orochi 大蛇",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "孙文之遗言",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "As the Wind Blows",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "激动之序章",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Dance of Sarasvati",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Takla Makan Desert",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "永远的路",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "地平线",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Koi 恋慕",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Estrella",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "South Wind",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Silk Road Fantasy",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "He's a Pirate",
+  "singer": "Klaus Badelt"
+ },
+ {
+  "title": "Jubel (Original Mix)",
+  "singer": "Klingande"
+ },
+ {
+  "title": "Pumped Up",
+  "singer": "Klingande"
+ },
+ {
+  "title": "Swamp",
+  "singer": "Kosheen"
+ },
+ {
+  "title": "Recovery",
+  "singer": "Kosheen"
+ },
+ {
+  "title": "Better With You",
+  "singer": "Kris Allen"
+ },
+ {
+  "title": "Ты готов услышать нет?",
+  "singer": "NatanKristina Si"
+ },
+ {
+  "title": "When You're Gone",
+  "singer": "KungsTillie"
+ },
+ {
+  "title": "求爱复刻版",
+  "singer": "可米小子"
+ },
+ {
+  "title": "青春纪念册",
+  "singer": "可米小子"
+ },
+ {
+  "title": "彼岸花",
+  "singer": "孔垂楠"
+ },
+ {
+  "title": "葬花吟",
+  "singer": "旷翔宇"
+ },
+ {
+  "title": "河流",
+  "singer": "柯以敏"
+ },
+ {
+  "title": "大哥",
+  "singer": "柯受良"
+ },
+ {
+  "title": "零",
+  "singer": "Alan柯有伦"
+ },
+ {
+  "title": "老男孩",
+  "singer": "筷子兄弟"
+ },
+ {
+  "title": "I Feel So Bad",
+  "singer": "KungsEphemerals"
+ },
+ {
+  "title": "This Girl",
+  "singer": "KungsCookin' On 3 Burners"
+ },
+ {
+  "title": "Cut Your Teeth (Radio Edit)",
+  "singer": "Skygod Entertainment CompilationKyla La Grange"
+ },
+ {
+  "title": "Can't Get You Out of My Head",
+  "singer": "Kylie Minogue"
+ },
+ {
+  "title": "不懂自己",
+  "singer": "karey天天"
+ },
+ {
+  "title": "滴答 (吉他版)",
+  "singer": "侃侃"
+ },
+ {
+  "title": "爱在政和",
+  "singer": "克欣诺娜"
+ },
+ {
+  "title": "毛主席的战士最听党的话",
+  "singer": "克里木"
+ },
+ {
+  "title": "大坂城的姑娘",
+  "singer": "克里木"
+ },
+ {
+  "title": "掀起你的盖头来",
+  "singer": "克里木"
+ },
+ {
+  "title": "忘了我吧",
+  "singer": "凯歌"
+ },
+ {
+  "title": "老百姓的好心情",
+  "singer": "孔庆学"
+ },
+ {
+  "title": "歌声与微笑",
+  "singer": "孔莹"
+ },
+ {
+  "title": "女驸马",
+  "singer": "孔莹"
+ },
+ {
+  "title": "说唱脸谱",
+  "singer": "孔莹"
+ },
+ {
+  "title": "把人生烦恼都忘掉",
+  "singer": "康乐兄弟"
+ },
+ {
+  "title": "父亲",
+  "singer": "筷子兄弟"
+ }
+]

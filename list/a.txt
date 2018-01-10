@@ -1,5 +1,157 @@
 [
  {
+  "title": "Set Fire to the Rain",
+  "singer": "Adele"
+ },
+ {
+  "title": "Yesterday (昨日)",
+  "singer": "안재욱 (安在旭)"
+ },
+ {
+  "title": "인연 (缘分)",
+  "singer": "안재욱 (安在旭)"
+ },
+ {
+  "title": "离别",
+  "singer": "안재욱 (安在旭)"
+ },
+ {
+  "title": "Forever (永远)",
+  "singer": "안재욱 (安在旭)"
+ },
+ {
+  "title": "Love Story (Where Do I Begin))",
+  "singer": "Andy Williams"
+ },
+ {
+  "title": "Speak Softly Love(Love Theme from \"The Godfather\")",
+  "singer": "Andy Williams"
+ },
+ {
+  "title": "Moon River (Album Version)",
+  "singer": "Andy Williams"
+ },
+ {
+  "title": "爱我久久",
+  "singer": "阿牛"
+ },
+ {
+  "title": "让我爱",
+  "singer": "阿桑"
+ },
+ {
+  "title": "疯了",
+  "singer": "阿桑"
+ },
+ {
+  "title": "受了点伤",
+  "singer": "阿桑"
+ },
+ {
+  "title": "叶子",
+  "singer": "阿桑"
+ },
+ {
+  "title": "寂寞在唱歌",
+  "singer": "阿桑"
+ },
+ {
+  "title": "一直很安静",
+  "singer": "阿桑"
+ },
+ {
+  "title": "祝你快乐",
+  "singer": "阿杜"
+ },
+ {
+  "title": "下雪",
+  "singer": "阿杜"
+ },
+ {
+  "title": "一天天一点点",
+  "singer": "阿杜"
+ },
+ {
+  "title": "活过",
+  "singer": "阿杜"
+ },
+ {
+  "title": "人狼",
+  "singer": "阿杜"
+ },
+ {
+  "title": "相容",
+  "singer": "阿杜"
+ },
+ {
+  "title": "哈啰",
+  "singer": "阿杜"
+ },
+ {
+  "title": "天蝎蝴蝶",
+  "singer": "阿杜"
+ },
+ {
+  "title": "小说",
+  "singer": "阿杜林俊杰"
+ },
+ {
+  "title": "一个人住",
+  "singer": "阿杜"
+ },
+ {
+  "title": "无法阻挡",
+  "singer": "阿杜"
+ },
+ {
+  "title": "下次如果离开你",
+  "singer": "阿杜"
+ },
+ {
+  "title": "放手",
+  "singer": "阿杜"
+ },
+ {
+  "title": "下雨的时候会想你",
+  "singer": "阿杜"
+ },
+ {
+  "title": "你就像个小孩",
+  "singer": "阿杜"
+ },
+ {
+  "title": "差一点",
+  "singer": "阿杜"
+ },
+ {
+  "title": "天天看到你",
+  "singer": "阿杜"
+ },
+ {
+  "title": "天黑",
+  "singer": "阿杜"
+ },
+ {
+  "title": "坚持到底",
+  "singer": "阿杜"
+ },
+ {
+  "title": "Andy",
+  "singer": "阿杜"
+ },
+ {
+  "title": "离别",
+  "singer": "阿杜"
+ },
+ {
+  "title": "他一定很爱你",
+  "singer": "阿杜"
+ },
+ {
+  "title": "撕夜",
+  "singer": "阿杜"
+ },
+ {
   "title": "Nothing In The World",
   "singer": "Atomic Kitten"
  },
@@ -64,8 +216,8 @@
   "singer": "Avril Lavigne"
  },
  {
-  "title": "Tik Tok (Live)",
-  "singer": "Avril Lavigne"
+  "title": "Tik Tok",
+  "singer": "Various Artists"
  },
  {
   "title": "Always On The Run (Amazon Exclusive)",

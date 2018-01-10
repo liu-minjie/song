@@ -1,5 +1,73 @@
 [
  {
+  "title": "One Love",
+  "singer": "Blue"
+ },
+ {
+  "title": "亚拉伯跳舞女郎",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "I Can Walk On Water",
+  "singer": "Basshunter"
+ },
+ {
+  "title": "Dota",
+  "singer": "Basshunter"
+ },
+ {
+  "title": "All I Ever Wanted",
+  "singer": "Basshunter"
+ },
+ {
+  "title": "子曰",
+  "singer": "卜学亮"
+ },
+ {
+  "title": "原谅我今天",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "孤单一吻",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "两颗心",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "俾面派对",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "怀念你",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "送给不知怎去保护环境的人 包括我",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "未曾后悔",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "千金一刻",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "天真的创伤",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "午夜流浪",
+  "singer": "BEYOND"
+ },
+ {
+  "title": "赤红热血",
+  "singer": "BEYOND"
+ },
+ {
   "title": "香槟酒",
   "singer": "包娜娜"
  },

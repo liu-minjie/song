@@ -1,0 +1,890 @@
+[
+ {
+  "title": "好姑娘",
+  "singer": "李晓杰"
+ },
+ {
+  "title": "哭了",
+  "singer": "李泉"
+ },
+ {
+  "title": "妹妹的酒",
+  "singer": "李泽坚"
+ },
+ {
+  "title": "刚好遇见你",
+  "singer": "李玉刚"
+ },
+ {
+  "title": "自己",
+  "singer": "李玟"
+ },
+ {
+  "title": "魔镜",
+  "singer": "李玟"
+ },
+ {
+  "title": "爱你爱到",
+  "singer": "李玟"
+ },
+ {
+  "title": "真情人",
+  "singer": "李玟"
+ },
+ {
+  "title": "好心情",
+  "singer": "李玟"
+ },
+ {
+  "title": "月光爱人",
+  "singer": "李玟"
+ },
+ {
+  "title": "想你的365天",
+  "singer": "李玟"
+ },
+ {
+  "title": "Di Da Di",
+  "singer": "李玟"
+ },
+ {
+  "title": "刀马旦",
+  "singer": "李玟周杰伦"
+ },
+ {
+  "title": "美人吟",
+  "singer": "李玲玉"
+ },
+ {
+  "title": "初吻",
+  "singer": "李琛"
+ },
+ {
+  "title": "窗外",
+  "singer": "李琛"
+ },
+ {
+  "title": "弯弯的月亮",
+  "singer": "吕方"
+ },
+ {
+  "title": "多爱你一天",
+  "singer": "吕方"
+ },
+ {
+  "title": "老情歌",
+  "singer": "吕方"
+ },
+ {
+  "title": "朋友别哭",
+  "singer": "吕方"
+ },
+ {
+  "title": "山路十八弯",
+  "singer": "李琼"
+ },
+ {
+  "title": "你不是真正的快乐",
+  "singer": "李维"
+ },
+ {
+  "title": "婉君",
+  "singer": "李翊君"
+ },
+ {
+  "title": "痛",
+  "singer": "李翊君动力火车"
+ },
+ {
+  "title": "诺言",
+  "singer": "李翊君"
+ },
+ {
+  "title": "永远永远",
+  "singer": "李翊君"
+ },
+ {
+  "title": "萍聚",
+  "singer": "李翊君李富兴"
+ },
+ {
+  "title": "风中的承诺",
+  "singer": "李翊君"
+ },
+ {
+  "title": "雨蝶",
+  "singer": "李翊君"
+ },
+ {
+  "title": "烟雨蒙蒙",
+  "singer": "李茂山"
+ },
+ {
+  "title": "迟来的爱",
+  "singer": "李茂山"
+ },
+ {
+  "title": "无言的结局",
+  "singer": "李茂山林淑容"
+ },
+ {
+  "title": "模特",
+  "singer": "李荣浩"
+ },
+ {
+  "title": "李白",
+  "singer": "李荣浩"
+ },
+ {
+  "title": "原来都是梦",
+  "singer": "李行亮"
+ },
+ {
+  "title": "回忆里的那个人",
+  "singer": "李行亮"
+ },
+ {
+  "title": "愿得一人心",
+  "singer": "李行亮"
+ },
+ {
+  "title": "浏阳河",
+  "singer": "武力李谷一"
+ },
+ {
+  "title": "年轻的朋友来相会",
+  "singer": "李谷一"
+ },
+ {
+  "title": "刘海砍樵",
+  "singer": "李谷一姜昆"
+ },
+ {
+  "title": "难忘今宵",
+  "singer": "李谷一"
+ },
+ {
+  "title": "锣鼓",
+  "singer": "林依轮"
+ },
+ {
+  "title": "我只想好好爱你",
+  "singer": "林依轮"
+ },
+ {
+  "title": "带上你的故事跟我走",
+  "singer": "林依轮"
+ },
+ {
+  "title": "有你，有我",
+  "singer": "程琳林依轮黄格选"
+ },
+ {
+  "title": "火火的歌谣",
+  "singer": "林依轮"
+ },
+ {
+  "title": "透过开满鲜花的月亮",
+  "singer": "林依轮"
+ },
+ {
+  "title": "爱在2000",
+  "singer": "林依轮"
+ },
+ {
+  "title": "步步高",
+  "singer": "景岗山林依轮高林生"
+ },
+ {
+  "title": "爱情鸟",
+  "singer": "林依轮"
+ },
+ {
+  "title": "进化论",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "不懂",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "不死之身",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "简简单单",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "사랑해요只对你说",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "原来",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "编号89757",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "就是我",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "翅膀",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "你要的不是我",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "冻结",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "我很想爱他",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "记得",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "豆浆油条",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "被风吹过的夏天",
+  "singer": "金莎林俊杰"
+ },
+ {
+  "title": "不潮不用花钱",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "美人鱼",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "爱笑的眼睛",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "曹操",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "小酒窝 (国语)",
+  "singer": "林俊杰蔡卓妍"
+ },
+ {
+  "title": "背对背拥抱",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "一千年以后",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "修炼爱情",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "她说",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "江南",
+  "singer": "林俊杰"
+ },
+ {
+  "title": "选择 (Live)",
+  "singer": "叶倩文林子祥"
+ },
+ {
+  "title": "莫再悲",
+  "singer": "林子祥"
+ },
+ {
+  "title": "敢爱敢做",
+  "singer": "林子祥"
+ },
+ {
+  "title": "男儿当自强",
+  "singer": "林子祥"
+ },
+ {
+  "title": "你是我的眼",
+  "singer": "林宥嘉"
+ },
+ {
+  "title": "说谎",
+  "singer": "林宥嘉"
+ },
+ {
+  "title": "假如让你吻下去",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "问",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "听说爱情回来过",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "不必在乎我是谁",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "伤痕",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "爱上一个不回家的人",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "为你我受冷风吹",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "至少还有你",
+  "singer": "林忆莲"
+ },
+ {
+  "title": "Miss Mama",
+  "singer": "林志炫"
+ },
+ {
+  "title": "每天想你一遍",
+  "singer": "林志炫"
+ },
+ {
+  "title": "征服",
+  "singer": "林志炫"
+ },
+ {
+  "title": "散了吧",
+  "singer": "林志炫"
+ },
+ {
+  "title": "蒙娜丽莎的眼泪",
+  "singer": "林志炫"
+ },
+ {
+  "title": "你的样子",
+  "singer": "林志炫"
+ },
+ {
+  "title": "单身情歌",
+  "singer": "林志炫"
+ },
+ {
+  "title": "花儿落了",
+  "singer": "林海"
+ },
+ {
+  "title": "打虎上山 (Live)",
+  "singer": "杨泽崧林海阿速"
+ },
+ {
+  "title": "Alone",
+  "singer": "林海"
+ },
+ {
+  "title": "踏古",
+  "singer": "林海"
+ },
+ {
+  "title": "欢沁",
+  "singer": "林海"
+ },
+ {
+  "title": "琵琶语",
+  "singer": "林海"
+ },
+ {
+  "title": "白眉大侠",
+  "singer": "林琳"
+ },
+ {
+  "title": "情长路更长",
+  "singer": "梁雁翎"
+ },
+ {
+  "title": "像雾像雨又像风",
+  "singer": "梁雁翎"
+ },
+ {
+  "title": "情歌2 (Live)",
+  "singer": "刘润洁"
+ },
+ {
+  "title": "记·念 (Live)",
+  "singer": "雷雨心"
+ },
+ {
+  "title": "会飞的野马 (Live)",
+  "singer": "裸儿"
+ },
+ {
+  "title": "留给昨天 (Live)",
+  "singer": "刘雨潼"
+ },
+ {
+  "title": "等风来 (Live)",
+  "singer": "刘雨潼"
+ },
+ {
+  "title": "从前慢 (Live)",
+  "singer": "刘胡轶"
+ },
+ {
+  "title": "空白的缘份",
+  "singer": "柳重言"
+ },
+ {
+  "title": "今天我疯了 (Live)",
+  "singer": "老钱"
+ },
+ {
+  "title": "8+8=8 (新编版)",
+  "singer": "刘博宽"
+ },
+ {
+  "title": "春来了 (新编版)",
+  "singer": "刘相松"
+ },
+ {
+  "title": "诱惑的街 (2007“理性与感性”Live)",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "瘦瘦的",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "失忆",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "为你我受冷风吹",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "爱情之所以为爱情",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "燕尾蝶",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "还是好朋友",
+  "singer": "梁静茹古巨基"
+ },
+ {
+  "title": "丝路",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "如果有一天",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "爱你不是两三天",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "我喜欢",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "崇拜",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "宁夏",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "小手拉大手",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "情歌",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "分手快乐",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "会呼吸的痛",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "问",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "可惜不是你",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "暖暖",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "勇气",
+  "singer": "梁静茹"
+ },
+ {
+  "title": "如果你不再爱了",
+  "singer": "罗中旭"
+ },
+ {
+  "title": "星光灿烂",
+  "singer": "罗中旭"
+ },
+ {
+  "title": "皇后大道东 (Live)",
+  "singer": "纵贯线"
+ },
+ {
+  "title": "飞沙风中转",
+  "singer": "周润发罗大佑"
+ },
+ {
+  "title": "穿过你的黑发的我的手",
+  "singer": "罗大佑"
+ },
+ {
+  "title": "来自你.来自我.来自他",
+  "singer": "罗大佑周华健李宗盛赵传"
+ },
+ {
+  "title": "光阴的故事 (片头曲)",
+  "singer": "罗大佑"
+ },
+ {
+  "title": "你的样子",
+  "singer": "罗大佑"
+ },
+ {
+  "title": "狮子山下",
+  "singer": "罗文"
+ },
+ {
+  "title": "江湖路",
+  "singer": "罗文"
+ },
+ {
+  "title": "万里长城永不倒",
+  "singer": "罗文"
+ },
+ {
+  "title": "世间始终你好",
+  "singer": "罗文甄妮"
+ },
+ {
+  "title": "铁血丹心",
+  "singer": "罗文甄妮"
+ },
+ {
+  "title": "爱情一阵风",
+  "singer": "罗时丰"
+ },
+ {
+  "title": "无言的结局",
+  "singer": "罗时丰"
+ },
+ {
+  "title": "I Miss You",
+  "singer": "罗百吉"
+ },
+ {
+  "title": "我要你",
+  "singer": "老狼任素汐"
+ },
+ {
+  "title": "同桌的你",
+  "singer": "老狼"
+ },
+ {
+  "title": "想把我唱给你听",
+  "singer": "老狼王婧"
+ },
+ {
+  "title": "虎啸龙吟",
+  "singer": "杜奕衡王蓉老猫"
+ },
+ {
+  "title": "迎着风",
+  "singer": "蓝波"
+ },
+ {
+  "title": "一起闯荡",
+  "singer": "蓝波"
+ },
+ {
+  "title": "非同寻常",
+  "singer": "陆毅"
+ },
+ {
+  "title": "不忘",
+  "singer": "陆毅张俪"
+ },
+ {
+  "title": "至少走得比你早",
+  "singer": "陆毅卢巧音"
+ },
+ {
+  "title": "告白",
+  "singer": "陆毅"
+ },
+ {
+  "title": "壮志雄心",
+  "singer": "陆毅"
+ },
+ {
+  "title": "向快乐出发",
+  "singer": "林依轮零点乐队"
+ },
+ {
+  "title": "回心转意",
+  "singer": "零点乐队"
+ },
+ {
+  "title": "粉墨人生",
+  "singer": "零点乐队"
+ },
+ {
+  "title": "相信自己 (Live)",
+  "singer": "零点乐队"
+ },
+ {
+  "title": "爱不爱我",
+  "singer": "零点乐队"
+ },
+ {
+  "title": "春风十里",
+  "singer": "鹿先森乐队"
+ },
+ {
+  "title": "一秒钟两个世界 (粤语)",
+  "singer": "黎明"
+ },
+ {
+  "title": "对不起,我爱谁",
+  "singer": "黎明"
+ },
+ {
+  "title": "爱的承诺",
+  "singer": "黎明"
+ },
+ {
+  "title": "记忆的花园",
+  "singer": "黎明"
+ },
+ {
+  "title": "冲锋陷阵",
+  "singer": "黎明"
+ },
+ {
+  "title": "我把自己交给你",
+  "singer": "黎明"
+ },
+ {
+  "title": "透明",
+  "singer": "黎明"
+ },
+ {
+  "title": "我的情人",
+  "singer": "黎明"
+ },
+ {
+  "title": "Sugar in the Marmalade (国语)",
+  "singer": "黎明"
+ },
+ {
+  "title": "给我一秒钟",
+  "singer": "黎明"
+ },
+ {
+  "title": "妄想非非",
+  "singer": "黎明"
+ },
+ {
+  "title": "排行榜",
+  "singer": "黎明"
+ },
+ {
+  "title": "声音的回响",
+  "singer": "黎明周华健常宽"
+ },
+ {
+  "title": "今生相爱，来生再相聚",
+  "singer": "黎明"
+ },
+ {
+  "title": "及时拥抱",
+  "singer": "黎明"
+ },
+ {
+  "title": "重爱轻友",
+  "singer": "黎明"
+ },
+ {
+  "title": "酸",
+  "singer": "黎明"
+ },
+ {
+  "title": "Sugar In The Marmalade (English & Japanese Version )",
+  "singer": "黎明"
+ },
+ {
+  "title": "青春舞曲",
+  "singer": "刘德华郭富城张学友黎明"
+ },
+ {
+  "title": "100样可能",
+  "singer": "黎明"
+ },
+ {
+  "title": "我的亲爱还是你",
+  "singer": "黎明"
+ },
+ {
+  "title": "爱天爱地",
+  "singer": "黎明"
+ },
+ {
+  "title": "不怕你不爱我",
+  "singer": "黎明"
+ },
+ {
+  "title": "呼吸不说谎",
+  "singer": "黎明"
+ },
+ {
+  "title": "阳光",
+  "singer": "黎明"
+ },
+ {
+  "title": "烟火",
+  "singer": "黎明任贤齐"
+ },
+ {
+  "title": "今生不再",
+  "singer": "黎明"
+ },
+ {
+  "title": "对不起我爱你",
+  "singer": "黎明"
+ },
+ {
+  "title": "非我莫属",
+  "singer": "黎明"
+ },
+ {
+  "title": "等不到天昏地暗",
+  "singer": "黎明"
+ },
+ {
+  "title": "听身体唱歌",
+  "singer": "黎明"
+ },
+ {
+  "title": "大宝",
+  "singer": "张涵予黎明"
+ },
+ {
+  "title": "随梦而飞",
+  "singer": "陈慧琳黎明"
+ },
+ {
+  "title": "我来自北京",
+  "singer": "黎明"
+ },
+ {
+  "title": "Happy 2000",
+  "singer": "黎明"
+ },
+ {
+  "title": "夏日傾情",
+  "singer": "黎明"
+ },
+ {
+  "title": "两位一体",
+  "singer": "黎明"
+ },
+ {
+  "title": "那有一天不想你",
+  "singer": "黎明"
+ },
+ {
+  "title": "我可以忘记你",
+  "singer": "黎明"
+ },
+ {
+  "title": "相逢在雨中",
+  "singer": "黎明"
+ },
+ {
+  "title": "两个人的烟火",
+  "singer": "黎明"
+ },
+ {
+  "title": "如果这是情",
+  "singer": "黎明"
+ },
+ {
+  "title": "看上她",
+  "singer": "黎明"
+ },
+ {
+  "title": "一生痴心",
+  "singer": "黎明"
+ },
+ {
+  "title": "大城小事",
+  "singer": "黎明"
+ },
+ {
+  "title": "我的亲爱",
+  "singer": "黎明"
+ },
+ {
+  "title": "越夜越有机",
+  "singer": "黎明"
+ },
+ {
+  "title": "眼睛想旅行",
+  "singer": "黎明"
+ },
+ {
+  "title": "心在跳",
+  "singer": "黎明"
+ },
+ {
+  "title": "全日爱",
+  "singer": "黎明"
+ },
+ {
+  "title": "今夜你会不会来",
+  "singer": "黎明"
+ },
+ {
+  "title": "Your Money Or Your Life",
+  "singer": "Ice Cube"
+ },
+ {
+  "title": "Stella was a diver and she was always down",
+  "singer": "Interpol"
+ }
+]

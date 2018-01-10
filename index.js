@@ -5,13 +5,19 @@ const jquery = require('jquery');
 const prompt = require('prompt');
 
 const urls = [
-	'https://y.qq.com/n/yqq/playlist/3259424259.html#stat=y_new.profile.create_playlist.click&dirid=2',
-	'https://y.qq.com/n/yqq/playlist/3259424298.html#stat=y_new.profile.create_playlist.click&dirid=3',
-	'https://y.qq.com/n/yqq/playlist/3259424315.html#stat=y_new.profile.create_playlist.click&dirid=4',
-	'https://y.qq.com/n/yqq/playlist/3259424501.html#stat=y_new.profile.create_playlist.click&dirid=5',
-	'https://y.qq.com/n/yqq/playlist/3259424510.html#stat=y_new.profile.create_playlist.click&dirid=6',
-	'https://y.qq.com/n/yqq/playlist/3259424515.html#stat=y_new.profile.create_playlist.click&dirid=7',
-	'https://y.qq.com/n/yqq/playlist/3260357902.html#stat=y_new.profile.create_playlist.click&dirid=8'
+	'https://y.qq.com/n/yqq/playlist/3259424259.html#stat=y_new.profile.create_playlist.click&dirid=2', // a
+	'https://y.qq.com/n/yqq/playlist/3259424298.html#stat=y_new.profile.create_playlist.click&dirid=3', // b
+	'https://y.qq.com/n/yqq/playlist/3259424315.html#stat=y_new.profile.create_playlist.click&dirid=4', // c
+	'https://y.qq.com/n/yqq/playlist/3259424501.html#stat=y_new.profile.create_playlist.click&dirid=5', // d
+	'https://y.qq.com/n/yqq/playlist/3259424510.html#stat=y_new.profile.create_playlist.click&dirid=6', // e
+	'https://y.qq.com/n/yqq/playlist/3259424515.html#stat=y_new.profile.create_playlist.click&dirid=7', // f
+	'https://y.qq.com/n/yqq/playlist/3260357902.html#stat=y_new.profile.create_playlist.click&dirid=8', // musician
+	'https://y.qq.com/n/yqq/playlist/3285999139.html#stat=y_new.profile.create_playlist.click&dirid=10', // g
+	'https://y.qq.com/n/yqq/playlist/3285999152.html#stat=y_new.profile.create_playlist.click&dirid=11', // h
+	'https://y.qq.com/n/yqq/playlist/3285999174.html#stat=y_new.profile.create_playlist.click&dirid=12', // i
+	'https://y.qq.com/n/yqq/playlist/3285999184.html#stat=y_new.profile.create_playlist.click&dirid=13', // j
+	'https://y.qq.com/n/yqq/playlist/3285999204.html#stat=y_new.profile.create_playlist.click&dirid=14', // k
+	'https://y.qq.com/n/yqq/playlist/3285999233.html#stat=y_new.profile.create_playlist.click&dirid=15' // l
 ];
 
 

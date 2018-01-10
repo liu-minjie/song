@@ -1,0 +1,450 @@
+[
+ {
+  "title": "哭砂",
+  "singer": "黄莺莺"
+ },
+ {
+  "title": "轮回",
+  "singer": "杭盖乐队"
+ },
+ {
+  "title": "灰鸟 (Live)",
+  "singer": "灰子"
+ },
+ {
+  "title": "Without You",
+  "singer": "Harry Nilsson"
+ },
+ {
+  "title": "All About You",
+  "singer": "Hilary Duff"
+ },
+ {
+  "title": "Sparks",
+  "singer": "Hilary Duff"
+ },
+ {
+  "title": "Seasons In The Sun - Sound-A-Like",
+  "singer": "Hit Crew Masters"
+ },
+ {
+  "title": "Concerning Hobbits",
+  "singer": "Howard Shore"
+ },
+ {
+  "title": "Longest Night",
+  "singer": "Howie Day"
+ },
+ {
+  "title": "Time",
+  "singer": "Hans Zimmer"
+ },
+ {
+  "title": "The Water",
+  "singer": "Hurts"
+ },
+ {
+  "title": "爱的供养",
+  "singer": "何晟铭向鹰"
+ },
+ {
+  "title": "佛说",
+  "singer": "何晟铭"
+ },
+ {
+  "title": "你一定要幸福",
+  "singer": "何洁"
+ },
+ {
+  "title": "栀子花开",
+  "singer": "何炅王诗龄"
+ },
+ {
+  "title": "月亮偷着哭",
+  "singer": "何静"
+ },
+ {
+  "title": "逃",
+  "singer": "侯旭"
+ },
+ {
+  "title": "心痛2009",
+  "singer": "欢子"
+ },
+ {
+  "title": "伤心的时候可以听情歌",
+  "singer": "欢子"
+ },
+ {
+  "title": "老人与海",
+  "singer": "海鸣威吴琼"
+ },
+ {
+  "title": "给我吧",
+  "singer": "胡兵"
+ },
+ {
+  "title": "夏至未至",
+  "singer": "胡夏"
+ },
+ {
+  "title": "那些年",
+  "singer": "胡夏"
+ },
+ {
+  "title": "包袱",
+  "singer": "胡彦斌"
+ },
+ {
+  "title": "诀别诗",
+  "singer": "胡彦斌"
+ },
+ {
+  "title": "六月的雨",
+  "singer": "胡歌"
+ },
+ {
+  "title": "逍遥叹",
+  "singer": "胡歌"
+ },
+ {
+  "title": "爱不枉",
+  "singer": "胡灵"
+ },
+ {
+  "title": "单飞",
+  "singer": "胡灵"
+ },
+ {
+  "title": "友情岁月",
+  "singer": "黑龙胡铁"
+ },
+ {
+  "title": "爱情天堂",
+  "singer": "唐古贺一航"
+ },
+ {
+  "title": "一个人的寂寞两个人的错",
+  "singer": "贺一航"
+ },
+ {
+  "title": "听说当初你找过我",
+  "singer": "贺一航"
+ },
+ {
+  "title": "突然想到理想这个词",
+  "singer": "郝云"
+ },
+ {
+  "title": "活着",
+  "singer": "郝云"
+ },
+ {
+  "title": "想哭就微笑",
+  "singer": "郝婉彤"
+ },
+ {
+  "title": "天行九歌 (试听版)",
+  "singer": "霍尊"
+ },
+ {
+  "title": "卷珠帘",
+  "singer": "霍尊"
+ },
+ {
+  "title": "不可说",
+  "singer": "霍建华赵丽颖"
+ },
+ {
+  "title": "情歌赛过春江水",
+  "singer": "韩冰云朵"
+ },
+ {
+  "title": "不在",
+  "singer": "韩安旭"
+ },
+ {
+  "title": "多幸运",
+  "singer": "韩安旭"
+ },
+ {
+  "title": "飞蛾扑火",
+  "singer": "韩庚"
+ },
+ {
+  "title": "My Logo",
+  "singer": "韩庚"
+ },
+ {
+  "title": "我让风儿告诉你 (独唱版)",
+  "singer": "韩旭"
+ },
+ {
+  "title": "我想去桂林",
+  "singer": "韩晓"
+ },
+ {
+  "title": "大头皮鞋",
+  "singer": "韩晓"
+ },
+ {
+  "title": "走四方",
+  "singer": "韩磊"
+ },
+ {
+  "title": "走了这么久",
+  "singer": "刘婕韩磊"
+ },
+ {
+  "title": "好男儿",
+  "singer": "韩磊"
+ },
+ {
+  "title": "等待",
+  "singer": "韩磊"
+ },
+ {
+  "title": "向天再借五百年",
+  "singer": "韩磊"
+ },
+ {
+  "title": "那片海",
+  "singer": "韩红"
+ },
+ {
+  "title": "青藏高原",
+  "singer": "韩红"
+ },
+ {
+  "title": "天路 (传统版)",
+  "singer": "韩红"
+ },
+ {
+  "title": "美丽的神话",
+  "singer": "韩红孙楠"
+ },
+ {
+  "title": "天亮了",
+  "singer": "韩红"
+ },
+ {
+  "title": "飘雪",
+  "singer": "韩雪"
+ },
+ {
+  "title": "想起",
+  "singer": "韩雪"
+ },
+ {
+  "title": "那女孩对我说",
+  "singer": "黄义达"
+ },
+ {
+  "title": "爱到才知痛",
+  "singer": "黄乙玲"
+ },
+ {
+  "title": "伤感的恋人",
+  "singer": "黄凯芹"
+ },
+ {
+  "title": "那么爱你为什么",
+  "singer": "黄品源"
+ },
+ {
+  "title": "那么爱你为什么",
+  "singer": "黄品源莫文蔚"
+ },
+ {
+  "title": "海浪",
+  "singer": "黄品源"
+ },
+ {
+  "title": "你怎么舍得我难过",
+  "singer": "黄品源"
+ },
+ {
+  "title": "天使",
+  "singer": "黄国伦"
+ },
+ {
+  "title": "我们这里还有鱼",
+  "singer": "谢霆锋游鸿明黄大炜黄中原"
+ },
+ {
+  "title": "你把我灌醉",
+  "singer": "黄大炜"
+ },
+ {
+  "title": "顺其自然",
+  "singer": "黄小琥"
+ },
+ {
+  "title": "没那么简单",
+  "singer": "黄小琥"
+ },
+ {
+  "title": "爱情诺曼底",
+  "singer": "黄征"
+ },
+ {
+  "title": "爱要说",
+  "singer": "黄格选"
+ },
+ {
+  "title": "对你的爱越深就越来越心痛",
+  "singer": "黄格选"
+ },
+ {
+  "title": "伤心是一种说不出的痛",
+  "singer": "黄格选"
+ },
+ {
+  "title": "春水流",
+  "singer": "黄格选"
+ },
+ {
+  "title": "男人好难",
+  "singer": "沙宝亮黄渤"
+ },
+ {
+  "title": "正义之道",
+  "singer": "黄渤"
+ },
+ {
+  "title": "毕业旅行",
+  "singer": "黄湘怡"
+ },
+ {
+  "title": "恋爱的犀牛",
+  "singer": "黄雨篱"
+ },
+ {
+  "title": "交战",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "上天",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "焚心以火",
+  "singer": "黄沾"
+ },
+ {
+  "title": "狮子山下 (Live)",
+  "singer": "黄沾"
+ },
+ {
+  "title": "索命梵音",
+  "singer": "黄沾"
+ },
+ {
+  "title": "为自己当好汉",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "十里平湖 (电影版)",
+  "singer": "黄沾"
+ },
+ {
+  "title": "独孤九剑",
+  "singer": "黄沾戴乐民"
+ },
+ {
+  "title": "少年十五二十时",
+  "singer": "黄沾胡伟立"
+ },
+ {
+  "title": "菩提树",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "路随人茫茫",
+  "singer": "黄沾"
+ },
+ {
+  "title": "少林雄风",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "十里平湖",
+  "singer": "黄沾"
+ },
+ {
+  "title": "倩",
+  "singer": "黄沾"
+ },
+ {
+  "title": "随遇而安",
+  "singer": "黄沾"
+ },
+ {
+  "title": "天龙八音",
+  "singer": "黄沾"
+ },
+ {
+  "title": "定情",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "开心做出戏",
+  "singer": "黄沾"
+ },
+ {
+  "title": "道",
+  "singer": "黄沾"
+ },
+ {
+  "title": "断情殇",
+  "singer": "黄沾鲍比达"
+ },
+ {
+  "title": "沧海一声笑",
+  "singer": "黄沾罗大佑徐克"
+ },
+ {
+  "title": "一生离不开的是你",
+  "singer": "黄鹤翔"
+ },
+ {
+  "title": "九妹",
+  "singer": "黄鹤翔"
+ },
+ {
+  "title": "惊鸿一面",
+  "singer": "许嵩黄龄"
+ },
+ {
+  "title": "我爱你你却爱着他",
+  "singer": "黑龙"
+ },
+ {
+  "title": "盗心贼",
+  "singer": "黑龙"
+ },
+ {
+  "title": "回心转意",
+  "singer": "黑龙"
+ },
+ {
+  "title": "H.O.T - 幸福",
+  "singer": "H.O.T."
+ },
+ {
+  "title": "A Song For Lady",
+  "singer": "H.O.T."
+ },
+ {
+  "title": "영혼 (Soul) (灵魂)",
+  "singer": "H.O.T."
+ },
+ {
+  "title": "We Are The Future",
+  "singer": "H.O.T."
+ },
+ {
+  "title": "Candy",
+  "singer": "H.O.T."
+ }
+]

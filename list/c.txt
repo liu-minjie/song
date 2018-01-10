@@ -1,5 +1,29 @@
 [
  {
+  "title": "我悄悄蒙上你的眼睛",
+  "singer": "陈艾湄周裕先"
+ },
+ {
+  "title": "We Are One (Live)",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "灯火 (新编版)",
+  "singer": "蔡健雅"
+ },
+ {
+  "title": "Beauty And The Beast",
+  "singer": "Céline Dion"
+ },
+ {
+  "title": "Eyes On Me",
+  "singer": "Céline Dion"
+ },
+ {
+  "title": "相信自己",
+  "singer": "成龙"
+ },
+ {
   "title": "领悟",
   "singer": "草蜢"
  },
@@ -228,7 +252,7 @@
   "singer": "草蜢"
  },
  {
-  "title": "忘情森巴舞",
+  "title": "忘情森巴舞 (粤语)",
   "singer": "草蜢"
  },
  {

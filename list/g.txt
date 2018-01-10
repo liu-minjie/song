@@ -1,0 +1,446 @@
+[
+ {
+  "title": "小小 (Live)",
+  "singer": "苟乃鹏"
+ },
+ {
+  "title": "富城主义",
+  "singer": "郭富城"
+ },
+ {
+  "title": "被你害",
+  "singer": "郭富城"
+ },
+ {
+  "title": "因爱之名",
+  "singer": "郭富城"
+ },
+ {
+  "title": "高涨",
+  "singer": "郭富城"
+ },
+ {
+  "title": "木偶袭地球",
+  "singer": "郭富城"
+ },
+ {
+  "title": "狂恋",
+  "singer": "郭富城"
+ },
+ {
+  "title": "只因你在乎我",
+  "singer": "郭富城"
+ },
+ {
+  "title": "不寻常",
+  "singer": "郭富城"
+ },
+ {
+  "title": "一样",
+  "singer": "郭富城"
+ },
+ {
+  "title": "深深爱你的",
+  "singer": "郭富城"
+ },
+ {
+  "title": "付出",
+  "singer": "郭富城"
+ },
+ {
+  "title": "你牵走我的心",
+  "singer": "郭富城"
+ },
+ {
+  "title": "牺牲",
+  "singer": "郭富城"
+ },
+ {
+  "title": "散场",
+  "singer": "郭富城"
+ },
+ {
+  "title": "I Love You So 太爱你",
+  "singer": "郭富城"
+ },
+ {
+  "title": "游园惊梦 (粤语)",
+  "singer": "郭富城"
+ },
+ {
+  "title": "旅途",
+  "singer": "郭富城"
+ },
+ {
+  "title": "到底有谁能告诉我 (Live)",
+  "singer": "郭富城"
+ },
+ {
+  "title": "着迷",
+  "singer": "郭富城"
+ },
+ {
+  "title": "活得好",
+  "singer": "郭富城"
+ },
+ {
+  "title": "一个人的时候",
+  "singer": "郭富城"
+ },
+ {
+  "title": "越爱越好",
+  "singer": "郭富城"
+ },
+ {
+  "title": "查无此人",
+  "singer": "郭富城"
+ },
+ {
+  "title": "多情总是痛",
+  "singer": "郭富城"
+ },
+ {
+  "title": "三岔口 (国语)",
+  "singer": "郭富城"
+ },
+ {
+  "title": "十指紧扣",
+  "singer": "郭富城"
+ },
+ {
+  "title": "战场上的快乐圣诞",
+  "singer": "郭富城"
+ },
+ {
+  "title": "等我回来",
+  "singer": "郭富城"
+ },
+ {
+  "title": "别说",
+  "singer": "郭富城"
+ },
+ {
+  "title": "把所有的爱都留给你",
+  "singer": "郭富城"
+ },
+ {
+  "title": "你是我心中最爱的人",
+  "singer": "郭富城"
+ },
+ {
+  "title": "青春舞曲",
+  "singer": "刘德华郭富城张学友黎明"
+ },
+ {
+  "title": "无忌 (粤语)",
+  "singer": "郭富城"
+ },
+ {
+  "title": "风云义",
+  "singer": "郭富城郑伊健"
+ },
+ {
+  "title": "唯一色彩",
+  "singer": "郭富城"
+ },
+ {
+  "title": "真的怕了",
+  "singer": "郭富城"
+ },
+ {
+  "title": "到底有谁能够告诉我",
+  "singer": "郭富城"
+ },
+ {
+  "title": "当我知道你们相爱",
+  "singer": "郭富城"
+ },
+ {
+  "title": "我想偷偷对你说我爱你",
+  "singer": "郭富城"
+ },
+ {
+  "title": "谁会记得我",
+  "singer": "郭富城"
+ },
+ {
+  "title": "唱这歌 (粤语)",
+  "singer": "郭富城"
+ },
+ {
+  "title": "狂野之城",
+  "singer": "郭富城"
+ },
+ {
+  "title": "动起来",
+  "singer": "郭富城"
+ },
+ {
+  "title": "爱的呼唤",
+  "singer": "郭富城"
+ },
+ {
+  "title": "Para Para Sakura",
+  "singer": "郭富城"
+ },
+ {
+  "title": "对你爱不完",
+  "singer": "郭富城"
+ },
+ {
+  "title": "我是不是该安静的走开",
+  "singer": "郭富城"
+ },
+ {
+  "title": "Good Life",
+  "singer": "G-EazyKehlani"
+ },
+ {
+  "title": "泡沫",
+  "singer": "G.E.M. 邓紫棋"
+ },
+ {
+  "title": "With You all The Time",
+  "singer": "Gareth Gates"
+ },
+ {
+  "title": "Anyone of Us",
+  "singer": "Gareth Gates"
+ },
+ {
+  "title": "Fire",
+  "singer": "Gavin DeGraw"
+ },
+ {
+  "title": "Nervous (The Ooh Song) (Mark McCabe Remix)",
+  "singer": "Gavin James"
+ },
+ {
+  "title": "Tired (Axollo Remix)",
+  "singer": "Alan WalkerGavin James"
+ },
+ {
+  "title": "I Like Chopin",
+  "singer": "Gazebo"
+ },
+ {
+  "title": "Last Christmas",
+  "singer": "George Michael"
+ },
+ {
+  "title": "Careless Whisper",
+  "singer": "George Michael"
+ },
+ {
+  "title": "Habanera",
+  "singer": "Georges Bizet"
+ },
+ {
+  "title": "门牛勇士之歌",
+  "singer": "Georges Bizet"
+ },
+ {
+  "title": "Carmen - Prelude",
+  "singer": "Georges Bizet"
+ },
+ {
+  "title": "The Fox (Glee Cast Version)",
+  "singer": "Glee CastDemi LovatoAdam Lambert"
+ },
+ {
+  "title": "Whistle (Glee Cast Version)",
+  "singer": "Glee Cast"
+ },
+ {
+  "title": "If You Want Me",
+  "singer": "Marketa IrglovaGlen Hansard"
+ },
+ {
+  "title": "月光奏鸣曲",
+  "singer": "Glenn Gould"
+ },
+ {
+  "title": "Nothing Gonna Change MY Love For you",
+  "singer": "Glenn Medeiros"
+ },
+ {
+  "title": "On The Radio",
+  "singer": "Groove Coverage"
+ },
+ {
+  "title": "She",
+  "singer": "Groove Coverage"
+ },
+ {
+  "title": "Far Away From Home",
+  "singer": "Groove Coverage"
+ },
+ {
+  "title": "God Is A Girl",
+  "singer": "Groove Coverage"
+ },
+ {
+  "title": "你在他乡还好吗",
+  "singer": "光头李进"
+ },
+ {
+  "title": "第一次",
+  "singer": "光良"
+ },
+ {
+  "title": "童话",
+  "singer": "光良"
+ },
+ {
+  "title": "大地恩情",
+  "singer": "关正杰"
+ },
+ {
+  "title": "万水千山纵横",
+  "singer": "关正杰"
+ },
+ {
+  "title": "爱得太迟",
+  "singer": "古巨基"
+ },
+ {
+  "title": "大哥你好吗",
+  "singer": "甘萍"
+ },
+ {
+  "title": "潮湿的心",
+  "singer": "甘萍"
+ },
+ {
+  "title": "中意他 (Live)",
+  "singer": "梁咏琪葛林"
+ },
+ {
+  "title": "林中鸟",
+  "singer": "葛林"
+ },
+ {
+  "title": "雪花飞扬",
+  "singer": "郭峰"
+ },
+ {
+  "title": "有你有我",
+  "singer": "郭峰"
+ },
+ {
+  "title": "不要说走就走",
+  "singer": "郭峰"
+ },
+ {
+  "title": "在你面前我好想流泪",
+  "singer": "郭峰"
+ },
+ {
+  "title": "让世界充满爱",
+  "singer": "郭峰"
+ },
+ {
+  "title": "永远",
+  "singer": "郭峰"
+ },
+ {
+  "title": "移情别恋",
+  "singer": "郭峰"
+ },
+ {
+  "title": "心会跟爱一起走",
+  "singer": "郭峰陈洁仪"
+ },
+ {
+  "title": "甘心情愿",
+  "singer": "郭峰"
+ },
+ {
+  "title": "新娘嫁人了新郎不是我",
+  "singer": "郭津彤"
+ },
+ {
+  "title": "下一个天亮",
+  "singer": "郭静"
+ },
+ {
+  "title": "大雨还在下 (新版)",
+  "singer": "高夫"
+ },
+ {
+  "title": "雨",
+  "singer": "高枫"
+ },
+ {
+  "title": "在你走后的那一夜",
+  "singer": "高枫"
+ },
+ {
+  "title": "丰收",
+  "singer": "高枫"
+ },
+ {
+  "title": "做英雄",
+  "singer": "高枫"
+ },
+ {
+  "title": "大中国",
+  "singer": "高枫"
+ },
+ {
+  "title": "山地情歌",
+  "singer": "高胜美"
+ },
+ {
+  "title": "蝶儿蝶儿满天飞",
+  "singer": "高胜美"
+ },
+ {
+  "title": "我是不是你最疼爱的人",
+  "singer": "高胜美"
+ },
+ {
+  "title": "心湖雨又风",
+  "singer": "高胜美"
+ },
+ {
+  "title": "潇洒的走",
+  "singer": "高胜美"
+ },
+ {
+  "title": "缘",
+  "singer": "高胜美"
+ },
+ {
+  "title": "千年等一回 (Live)",
+  "singer": "高胜美"
+ },
+ {
+  "title": "彩云伴海鸥",
+  "singer": "高胜美"
+ },
+ {
+  "title": "渡情",
+  "singer": "高胜美"
+ },
+ {
+  "title": "青青河边草",
+  "singer": "高胜美"
+ },
+ {
+  "title": "我的好兄弟",
+  "singer": "高进小沈阳"
+ },
+ {
+  "title": "故乡是北京",
+  "singer": "龚爽"
+ },
+ {
+  "title": "星星知我心",
+  "singer": "高胜美"
+ },
+ {
+  "title": "梨山痴情花",
+  "singer": "高胜美"
+ }
+]

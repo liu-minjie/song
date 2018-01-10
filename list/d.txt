@@ -1,5 +1,17 @@
 [
  {
+  "title": "某某 (Live)",
+  "singer": "杜秋"
+ },
+ {
+  "title": "Survivor",
+  "singer": "Destiny's Child"
+ },
+ {
+  "title": "Emotion",
+  "singer": "Destiny's Child"
+ },
+ {
   "title": "Mystic Tides",
   "singer": "Dan Gibson's Solitudes"
  },
@@ -8,7 +20,7 @@
   "singer": "Dan Gibson's Solitudes"
  },
  {
-  "title": "B What U Wanna B",
+  "title": "Be What You Wanna Be",
   "singer": "Darin"
  },
  {
@@ -29,7 +41,7 @@
  },
  {
   "title": "The Next Episode",
-  "singer": "Dr. Dre"
+  "singer": "Dr. DreSnoop DoggKuruptNate Dogg"
  },
  {
   "title": "跟着我一辈子",

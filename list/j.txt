@@ -1,0 +1,350 @@
+[
+ {
+  "title": "SexyBack",
+  "singer": "Justin TimberlakeTimbaland"
+ },
+ {
+  "title": "Fly",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "I Am Australian",
+  "singer": "Taylor HendersonSamantha JadeNathanielJustice Crew"
+ },
+ {
+  "title": "I Love My Life",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "Best Night",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "Everybody",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "Boom Boom",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "Que Sera",
+  "singer": "Justice Crew"
+ },
+ {
+  "title": "Never On Sunday",
+  "singer": "Julie London"
+ },
+ {
+  "title": "The End of the World",
+  "singer": "Julie London"
+ },
+ {
+  "title": "The Lonely Goatherd",
+  "singer": "Julie AndrewsCharmian CarrHeather MenziesNicholas Hammond"
+ },
+ {
+  "title": "Do-Re-Mi",
+  "singer": "Julie AndrewsCharmian CarrHeather MenziesNicholas Hammond"
+ },
+ {
+  "title": "Don't Stop Believin'",
+  "singer": "Journey"
+ },
+ {
+  "title": "Step Out (The Chainsmokers Remix)",
+  "singer": "The ChainsmokersJosé González"
+ },
+ {
+  "title": "Pen Pineapple Apple Pen",
+  "singer": "José BazThe Harmony Group"
+ },
+ {
+  "title": "Theme From Schindler's List",
+  "singer": "John WilliamsBoston Symphony OrchestraItzhak Perlman"
+ },
+ {
+  "title": "Imagine",
+  "singer": "John Lennon"
+ },
+ {
+  "title": "Waiting For Love",
+  "singer": "AviciiMartin GarrixJohn Legend"
+ },
+ {
+  "title": "Take Me Home，Country Road",
+  "singer": "John Denver"
+ },
+ {
+  "title": "Arioso (咏叹调)",
+  "singer": "János Starker"
+ },
+ {
+  "title": "Rondean (回旋曲)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Prelude from Prelude and Fugue in C Major, BWV 846",
+  "singer": "Marisa Robles"
+ },
+ {
+  "title": "Minuets (小步舞曲)",
+  "singer": "Edward Gerbard"
+ },
+ {
+  "title": "Violin Concerto No. 1 in A Minor, BWV 1041 - I. Allegro moderato (A小调小提琴第1号协奏曲，作品1041 - 第一乐章，中庸的快板)",
+  "singer": "Julia FischerAcademy of St. Martin in the Fields"
+ },
+ {
+  "title": "Unaccompanied Cello Suite No. 1 in G Major, BWV. 1007 - I. Prélude (G大调第1号大提琴无伴奏组曲，作品1007 - 第1首 前奏曲)",
+  "singer": "马友友"
+ },
+ {
+  "title": "Menuet (小步舞曲)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "HumorseQue (幽默曲)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Orchestral Suite No. 2 in B Minor, BWV. 1067 - II. Rondeau (B小调第2号管弦乐团组曲，作品1067 - 第二乐章 回旋曲)",
+  "singer": "Drottningholm Baroque EnsemblePenelope Evison"
+ },
+ {
+  "title": "小步舞曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "The Well - Tempered Clavier - Prelude in C Major, BWV. 846 (十二平均律钢琴曲集 - C大调前奏曲，作品846)",
+  "singer": "Michael Kieran Harvey"
+ },
+ {
+  "title": "Hailmary (圣母颂)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Air Sul G (G弦上的咏叹调)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "梦幻曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Ave Maria (圣母颂)",
+  "singer": "马友友Kathryn Stott"
+ },
+ {
+  "title": "Cello Suite No. 1 in G Major, BWV. 1007 - I. Prélude",
+  "singer": "马友友"
+ },
+ {
+  "title": "Cannon In D Major (D大调卡农)",
+  "singer": "Johann Pachelbel"
+ },
+ {
+  "title": "Stay Here Forever",
+  "singer": "Jewel"
+ },
+ {
+  "title": "Shine On",
+  "singer": "Jet"
+ },
+ {
+  "title": "Price Tag",
+  "singer": "Jessie JB.o.B"
+ },
+ {
+  "title": "Bang Bang",
+  "singer": "Jessie JAriana GrandeNicki Minaj"
+ },
+ {
+  "title": "Never be the Same",
+  "singer": "Jessica Mauboy"
+ },
+ {
+  "title": "A Whole New World",
+  "singer": "Nick LacheyJessica Simpson"
+ },
+ {
+  "title": "On the Floor",
+  "singer": "Jennifer Lopez"
+ },
+ {
+  "title": "It's Amazing",
+  "singer": "Jem"
+ },
+ {
+  "title": "Yellow",
+  "singer": "Jem"
+ },
+ {
+  "title": "Jealousy",
+  "singer": "Queen"
+ },
+ {
+  "title": "Lucky",
+  "singer": "Jason MrazColbie Caillat"
+ },
+ {
+  "title": "Sealed With a Kiss",
+  "singer": "Jason Donovan"
+ },
+ {
+  "title": "A Morning In Cornwall",
+  "singer": "James Last"
+ },
+ {
+  "title": "You're Beautiful",
+  "singer": "James Blunt"
+ },
+ {
+  "title": "Otherwise",
+  "singer": "MOKSJames Arthur"
+ },
+ {
+  "title": "Naked (CADE Remix)",
+  "singer": "James Arthur"
+ },
+ {
+  "title": "Impossible",
+  "singer": "James Arthur"
+ },
+ {
+  "title": "Timeless",
+  "singer": "Justin Guarini"
+ },
+ {
+  "title": "Despacito (Remix)",
+  "singer": "Luis FonsiDaddy YankeeJustin Bieber"
+ },
+ {
+  "title": "Five Hundred Miles",
+  "singer": "Justin TimberlakeCarey MulliganStark Sands"
+ },
+ {
+  "title": "重生",
+  "singer": "姜昕"
+ },
+ {
+  "title": "野罂粟",
+  "singer": "姜昕"
+ },
+ {
+  "title": "回忆总想哭",
+  "singer": "南宫嘉骏姜玉阳"
+ },
+ {
+  "title": "情难枕",
+  "singer": "姜育恒"
+ },
+ {
+  "title": "驿动的心",
+  "singer": "姜育恒"
+ },
+ {
+  "title": "梅花三弄",
+  "singer": "姜育恒"
+ },
+ {
+  "title": "再回首",
+  "singer": "姜育恒"
+ },
+ {
+  "title": "回家的人",
+  "singer": "江涛"
+ },
+ {
+  "title": "愚公移山",
+  "singer": "江涛"
+ },
+ {
+  "title": "生日礼物",
+  "singer": "江涛"
+ },
+ {
+  "title": "过把瘾",
+  "singer": "王志文江珊"
+ },
+ {
+  "title": "我悄悄地蒙上你的眼睛",
+  "singer": "王志文江珊"
+ },
+ {
+  "title": "想说爱你不容易",
+  "singer": "王志文江珊"
+ },
+ {
+  "title": "糊涂的爱",
+  "singer": "王志文江珊"
+ },
+ {
+  "title": "梦里水乡",
+  "singer": "江珊"
+ },
+ {
+  "title": "亲爱的你怎么不在我身边",
+  "singer": "江美琪"
+ },
+ {
+  "title": "敢问路在何方",
+  "singer": "蒋大为"
+ },
+ {
+  "title": "北国之春",
+  "singer": "蒋大为"
+ },
+ {
+  "title": "爱的故事上集",
+  "singer": "蒋雅文李逸朗"
+ },
+ {
+  "title": "晨曦",
+  "singer": "贾巴阿叁"
+ },
+ {
+  "title": "远走高飞 (独唱版)",
+  "singer": "金志文"
+ },
+ {
+  "title": "大妹子 (Live)",
+  "singer": "金波"
+ },
+ {
+  "title": "把耳朵叫醒",
+  "singer": "金海心"
+ },
+ {
+  "title": "爱呀 (Live)",
+  "singer": "金玟岐"
+ },
+ {
+  "title": "被风吹过的夏天",
+  "singer": "金莎林俊杰"
+ },
+ {
+  "title": "我不漂亮吗",
+  "singer": "金钰儿"
+ },
+ {
+  "title": "明天也要作伴",
+  "singer": "锦绣二重唱"
+ },
+ {
+  "title": "鸿雁",
+  "singer": "降央卓玛"
+ },
+ {
+  "title": "走天涯",
+  "singer": "降央卓玛"
+ },
+ {
+  "title": "西海情歌",
+  "singer": "降央卓玛"
+ },
+ {
+  "title": "香槟酒",
+  "singer": "江玲"
+ }
+]
