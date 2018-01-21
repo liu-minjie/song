@@ -1,5 +1,21 @@
 [
  {
+  "title": "舞女",
+  "singer": "陈小云"
+ },
+ {
+  "title": "爱人跟人走",
+  "singer": "陈小云"
+ },
+ {
+  "title": "爱情的骗子我问你",
+  "singer": "陈小云"
+ },
+ {
+  "title": "爱情骗子我问你",
+  "singer": "陈小云"
+ },
+ {
   "title": "我悄悄蒙上你的眼睛",
   "singer": "陈艾湄周裕先"
  },
@@ -165,7 +181,7 @@
  },
  {
   "title": "My Heart Will Go On",
-  "singer": "James HornerCéline Dion"
+  "singer": "Céline Dion"
  },
  {
   "title": "一无所有",

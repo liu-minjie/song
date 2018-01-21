@@ -1,5 +1,1585 @@
 [
  {
+  "title": "男朋友 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "Bad Romance",
+  "singer": "Lady Gaga"
+ },
+ {
+  "title": "Poker Face",
+  "singer": "Lady Gaga"
+ },
+ {
+  "title": "Trouble Is a Friend",
+  "singer": "Lenka"
+ },
+ {
+  "title": "More Than I Can Say",
+  "singer": "Leo Sayer"
+ },
+ {
+  "title": "Hello",
+  "singer": "Lionel Richie"
+ },
+ {
+  "title": "Tender Heart",
+  "singer": "Lionel Richie"
+ },
+ {
+  "title": "Say You, Say Me",
+  "singer": "Lionel Richie"
+ },
+ {
+  "title": "Yellow Flicker Beat",
+  "singer": "Lorde"
+ },
+ {
+  "title": "Monday",
+  "singer": "Ludovico Einaudi"
+ },
+ {
+  "title": "Fly",
+  "singer": "Ludovico Einaudi"
+ },
+ {
+  "title": "Una Mattina",
+  "singer": "Ludovico Einaudi"
+ },
+ {
+  "title": "没有你陪伴我真的好孤单",
+  "singer": "冷漠"
+ },
+ {
+  "title": "父亲",
+  "singer": "刘和刚"
+ },
+ {
+  "title": "傻妹妹",
+  "singer": "刘尊"
+ },
+ {
+  "title": "花火 (Live)",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "顺时针",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "向左走向右走",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "有时候",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "爱情海",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "许愿",
+  "singer": "梁咏琪古巨基"
+ },
+ {
+  "title": "中意他",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "胆小鬼",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "短发",
+  "singer": "梁咏琪"
+ },
+ {
+  "title": "爱你没问题",
+  "singer": "刘德华"
+ },
+ {
+  "title": "明天同一时间",
+  "singer": "刘德华"
+ },
+ {
+  "title": "火烫",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天空",
+  "singer": "刘德华"
+ },
+ {
+  "title": "教你如何不爱他 (Radio Edit)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我唔识字",
+  "singer": "刘德华"
+ },
+ {
+  "title": "新好情人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "漂流",
+  "singer": "刘德华"
+ },
+ {
+  "title": "的士司机",
+  "singer": "刘德华"
+ },
+ {
+  "title": "人间愁",
+  "singer": "刘德华"
+ },
+ {
+  "title": "马龙白兰度",
+  "singer": "刘德华"
+ },
+ {
+  "title": "江河颂 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "红颜自闭",
+  "singer": "刘德华"
+ },
+ {
+  "title": "真心话",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我学会",
+  "singer": "刘德华"
+ },
+ {
+  "title": "未知数",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最好的朋友 (国语)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱不死",
+  "singer": "刘德华"
+ },
+ {
+  "title": "完美",
+  "singer": "刘德华"
+ },
+ {
+  "title": "美丽的回忆 (国语)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "茧人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "永远是",
+  "singer": "刘德华"
+ },
+ {
+  "title": "将自己给你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "模范生 (Radio Edit)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "不用人陪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "多想你好",
+  "singer": "刘德华"
+ },
+ {
+  "title": "左岸",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱我吧！",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一块钱",
+  "singer": "刘德华"
+ },
+ {
+  "title": "不再爱了",
+  "singer": "刘德华"
+ },
+ {
+  "title": "虹桥机场的咖啡厅",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你震憾我的心灵",
+  "singer": "刘德华"
+ },
+ {
+  "title": "跟我两辈子",
+  "singer": "刘德华"
+ },
+ {
+  "title": "冬季不下雪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "愿意",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天人水",
+  "singer": "刘德华"
+ },
+ {
+  "title": "张开眼睛 (2006道地绿茶广告主题曲)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情在呼吸里",
+  "singer": "刘德华"
+ },
+ {
+  "title": "听话了",
+  "singer": "刘德华"
+ },
+ {
+  "title": "汗",
+  "singer": "刘德华"
+ },
+ {
+  "title": "单纯女孩",
+  "singer": "刘德华"
+ },
+ {
+  "title": "夜了, 好吗？",
+  "singer": "刘德华"
+ },
+ {
+  "title": "十二个为什么",
+  "singer": "刘德华"
+ },
+ {
+  "title": "灯红酒绿",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我是一只牛",
+  "singer": "刘德华"
+ },
+ {
+  "title": "太多太多的抱歉",
+  "singer": "刘德华"
+ },
+ {
+  "title": "还记得我吗 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "甘心",
+  "singer": "刘德华"
+ },
+ {
+  "title": "无心人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "害怕爱一回",
+  "singer": "刘德华"
+ },
+ {
+  "title": "魔鬼在恋爱 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "影帝无用",
+  "singer": "刘德华"
+ },
+ {
+  "title": "桃花源",
+  "singer": "刘德华"
+ },
+ {
+  "title": "等我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "萍水相逢",
+  "singer": "刘德华"
+ },
+ {
+  "title": "现实是场梦",
+  "singer": "刘德华"
+ },
+ {
+  "title": "如果看到她，请告诉我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "亲爱的妈妈",
+  "singer": "刘德华"
+ },
+ {
+  "title": "苦命梁祝",
+  "singer": "刘德华"
+ },
+ {
+  "title": "城市的两边 (录音室版新曲)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "为了你请留下我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "下次不敢",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我爱的是你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "人生捕手",
+  "singer": "刘德华"
+ },
+ {
+  "title": "超人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "按摩女郎",
+  "singer": "刘德华"
+ },
+ {
+  "title": "没有翅膀的天使 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "梦中见",
+  "singer": "刘德华"
+ },
+ {
+  "title": "痴",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱君如梦 (粤语)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "痴心不再流行",
+  "singer": "刘德华"
+ },
+ {
+  "title": "大男人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我的心不流泪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "因为爱",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天生天养 (粤语)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "真爱是苦味",
+  "singer": "刘德华"
+ },
+ {
+  "title": "原来你才是天堂",
+  "singer": "刘德华"
+ },
+ {
+  "title": "I Miss You",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我的心只可容纳妳",
+  "singer": "刘德华"
+ },
+ {
+  "title": "无须担心",
+  "singer": "刘德华"
+ },
+ {
+  "title": "想要飞",
+  "singer": "刘德华"
+ },
+ {
+  "title": "友谊历久一样浓",
+  "singer": "刘德华"
+ },
+ {
+  "title": "空心",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我得你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最受欢迎男歌手",
+  "singer": "刘德华曾志伟"
+ },
+ {
+  "title": "大地恩情",
+  "singer": "刘德华"
+ },
+ {
+  "title": "狠心的一课",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一晚长大",
+  "singer": "刘德华"
+ },
+ {
+  "title": "享用我的姓",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最爱是谁 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "心如止水",
+  "singer": "刘德华"
+ },
+ {
+  "title": "给你们的一封信",
+  "singer": "刘德华"
+ },
+ {
+  "title": "死剩把口",
+  "singer": "刘德华"
+ },
+ {
+  "title": "如果我有事",
+  "singer": "刘德华"
+ },
+ {
+  "title": "腻了",
+  "singer": "刘德华"
+ },
+ {
+  "title": "这一生是给你一个",
+  "singer": "刘德华"
+ },
+ {
+  "title": "继续谈情",
+  "singer": "刘德华"
+ },
+ {
+  "title": "小情人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "长途伴侣",
+  "singer": "刘德华"
+ },
+ {
+  "title": "末世天使",
+  "singer": "刘德华"
+ },
+ {
+  "title": "原来我有爱",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你说他是你想嫁的人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "这一生是给你一个 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "谁的心忘了收",
+  "singer": "刘德华"
+ },
+ {
+  "title": "老鼠爱上猫",
+  "singer": "刘德华"
+ },
+ {
+  "title": "偷回忆的人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "挂念 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "凭什么 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "痴心错付",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最孤单的人是我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一个人睡",
+  "singer": "刘德华"
+ },
+ {
+  "title": "只知道此刻爱你 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "该说的我已说",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一个人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "浪花",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你是我所有",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你震撼我的心灵",
+  "singer": "刘德华"
+ },
+ {
+  "title": "偷听女孩心",
+  "singer": "刘德华"
+ },
+ {
+  "title": "夏日Fiesta",
+  "singer": "刘德华"
+ },
+ {
+  "title": "倒转地球 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "忘了隐藏",
+  "singer": "刘德华"
+ },
+ {
+  "title": "珍爱舞台 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "风中的歌",
+  "singer": "刘德华"
+ },
+ {
+  "title": "回来吧！好吗",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我的心也有寂寞的时候",
+  "singer": "刘德华"
+ },
+ {
+  "title": "美人痛",
+  "singer": "刘德华"
+ },
+ {
+  "title": "幸福.这么远.那么甜",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情人Happy Birthday",
+  "singer": "刘德华"
+ },
+ {
+  "title": "峰回路转",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天马行空",
+  "singer": "刘德华"
+ },
+ {
+  "title": "观世音",
+  "singer": "刘德华"
+ },
+ {
+  "title": "等你爱你到最后",
+  "singer": "刘德华"
+ },
+ {
+  "title": "没有你没有我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天各一方",
+  "singer": "刘德华"
+ },
+ {
+  "title": "念旧",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最怕你跟别人睡",
+  "singer": "刘德华"
+ },
+ {
+  "title": "潮水",
+  "singer": "刘德华"
+ },
+ {
+  "title": "朱颜记",
+  "singer": "刘德华"
+ },
+ {
+  "title": "北国之春",
+  "singer": "刘德华"
+ },
+ {
+  "title": "结婚进行曲",
+  "singer": "刘德华"
+ },
+ {
+  "title": "流浪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "常言道",
+  "singer": "刘德华"
+ },
+ {
+  "title": "心照",
+  "singer": "刘德华"
+ },
+ {
+  "title": "最后...你也走了",
+  "singer": "刘德华"
+ },
+ {
+  "title": "如果天有情",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我的心只可容纳你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "每次醒来",
+  "singer": "刘德华"
+ },
+ {
+  "title": "月老",
+  "singer": "刘德华"
+ },
+ {
+  "title": "去年烟花特别多",
+  "singer": "刘德华"
+ },
+ {
+  "title": "再说一次 我爱你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "不可不信...缘",
+  "singer": "刘德华"
+ },
+ {
+  "title": "男人眼泪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "言不由衷",
+  "singer": "刘德华"
+ },
+ {
+  "title": "太想爱",
+  "singer": "刘德华"
+ },
+ {
+  "title": "会说话的哑巴",
+  "singer": "刘德华"
+ },
+ {
+  "title": "投名状",
+  "singer": "刘德华"
+ },
+ {
+  "title": "是我吗？",
+  "singer": "刘德华"
+ },
+ {
+  "title": "真情难收",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情义两心坚 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "马桶",
+  "singer": "刘德华"
+ },
+ {
+  "title": "花花世界 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "永远记得你 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "Everyone Is No 1",
+  "singer": "刘德华"
+ },
+ {
+  "title": "自作自受",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我终于失去了你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "别说爱情苦",
+  "singer": "刘德华梅艳芳"
+ },
+ {
+  "title": "累斗累",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天比高 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "铁了心爱你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "未到伤心处",
+  "singer": "刘德华"
+ },
+ {
+  "title": "不需要爱情",
+  "singer": "刘德华"
+ },
+ {
+  "title": "错的都是我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "给我一点真的爱",
+  "singer": "刘德华"
+ },
+ {
+  "title": "踢出个未来",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱人皇后",
+  "singer": "刘德华"
+ },
+ {
+  "title": "心只有你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "回到你身边",
+  "singer": "刘德华"
+ },
+ {
+  "title": "城市猎人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一生一次",
+  "singer": "刘德华"
+ },
+ {
+  "title": "真永远",
+  "singer": "刘德华"
+ },
+ {
+  "title": "浪淘沙",
+  "singer": "刘德华"
+ },
+ {
+  "title": "十年 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一",
+  "singer": "刘德华"
+ },
+ {
+  "title": "再会了",
+  "singer": "刘德华"
+ },
+ {
+  "title": "不该爱上你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "简单是福",
+  "singer": "谭咏麟刘德华"
+ },
+ {
+  "title": "归宿",
+  "singer": "刘德华"
+ },
+ {
+  "title": "等你忘了我是谁",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你是我一生中最大的骄傲 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "回家真好",
+  "singer": "刘德华"
+ },
+ {
+  "title": "难免有错",
+  "singer": "刘德华"
+ },
+ {
+  "title": "旧情人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "男儿志",
+  "singer": "刘德华"
+ },
+ {
+  "title": "心蓝",
+  "singer": "刘德华"
+ },
+ {
+  "title": "记不住你的容颜",
+  "singer": "刘德华"
+ },
+ {
+  "title": "相思成灾",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情深的一句",
+  "singer": "刘德华"
+ },
+ {
+  "title": "如果有一天",
+  "singer": "刘德华"
+ },
+ {
+  "title": "长夜多浪漫",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱火烧不尽",
+  "singer": "刘德华"
+ },
+ {
+  "title": "谁人知",
+  "singer": "刘德华"
+ },
+ {
+  "title": "藕断丝连",
+  "singer": "刘德华"
+ },
+ {
+  "title": "肉麻情歌",
+  "singer": "刘德华"
+ },
+ {
+  "title": "三月里的小雨",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情是那么笨",
+  "singer": "刘德华"
+ },
+ {
+  "title": "他的女人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "牧笛",
+  "singer": "刘德华"
+ },
+ {
+  "title": "东方之珠",
+  "singer": "刘德华那英"
+ },
+ {
+  "title": "心肝宝贝 (首届全国爱肝日主题曲)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "秋意中等我",
+  "singer": "刘德华吴婉芳"
+ },
+ {
+  "title": "我不够爱你",
+  "singer": "刘德华陈慧琳"
+ },
+ {
+  "title": "没有人可以像你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我和我追逐的梦",
+  "singer": "刘德华"
+ },
+ {
+  "title": "木鱼与金鱼 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "真我的风采",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你是我的温柔",
+  "singer": "刘德华"
+ },
+ {
+  "title": "再吻我吧",
+  "singer": "刘德华"
+ },
+ {
+  "title": "亲爱的小孩",
+  "singer": "刘德华"
+ },
+ {
+  "title": "相约到永久",
+  "singer": "关之琳刘德华"
+ },
+ {
+  "title": "钻石眼泪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "再说一次我爱你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "小丑",
+  "singer": "刘德华"
+ },
+ {
+  "title": "假装",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱不完",
+  "singer": "刘德华"
+ },
+ {
+  "title": "原谅我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "回家的路 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "可不可以",
+  "singer": "刘德华"
+ },
+ {
+  "title": "缠绵",
+  "singer": "刘德华"
+ },
+ {
+  "title": "黑蝙蝠中队",
+  "singer": "刘德华"
+ },
+ {
+  "title": "你是我的女人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "鸽子情缘",
+  "singer": "刘德华"
+ },
+ {
+  "title": "开心的马骝 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "中国人",
+  "singer": "刘德华"
+ },
+ {
+  "title": "悟",
+  "singer": "刘德华"
+ },
+ {
+  "title": "漫步人生路",
+  "singer": "刘德华"
+ },
+ {
+  "title": "孤星泪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "上海滩 (Live)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "情感的禁区",
+  "singer": "刘德华"
+ },
+ {
+  "title": "慢慢习惯",
+  "singer": "刘德华"
+ },
+ {
+  "title": "我恨我痴心",
+  "singer": "刘德华"
+ },
+ {
+  "title": "独自去偷欢",
+  "singer": "刘德华"
+ },
+ {
+  "title": "都怪我",
+  "singer": "刘德华"
+ },
+ {
+  "title": "当我遇上你",
+  "singer": "刘德华"
+ },
+ {
+  "title": "爱你一万年",
+  "singer": "刘德华"
+ },
+ {
+  "title": "恭喜发财 2016",
+  "singer": "刘德华李宇春"
+ },
+ {
+  "title": "无间道",
+  "singer": "梁朝伟刘德华"
+ },
+ {
+  "title": "男人哭吧不是罪",
+  "singer": "刘德华"
+ },
+ {
+  "title": "笨小孩",
+  "singer": "刘德华柯受良吴宗宪"
+ },
+ {
+  "title": "如果你是我的传说",
+  "singer": "刘德华"
+ },
+ {
+  "title": "天意",
+  "singer": "刘德华"
+ },
+ {
+  "title": "恭喜发财",
+  "singer": "刘德华"
+ },
+ {
+  "title": "今天",
+  "singer": "刘德华"
+ },
+ {
+  "title": "17岁",
+  "singer": "刘德华"
+ },
+ {
+  "title": "暗里着迷",
+  "singer": "刘德华"
+ },
+ {
+  "title": "世界第一等",
+  "singer": "刘德华"
+ },
+ {
+  "title": "谢谢你的爱 (国语)",
+  "singer": "刘德华"
+ },
+ {
+  "title": "练习",
+  "singer": "刘德华"
+ },
+ {
+  "title": "兄弟",
+  "singer": "刘德华陈奕迅"
+ },
+ {
+  "title": "忘情水",
+  "singer": "刘德华"
+ },
+ {
+  "title": "冰雨",
+  "singer": "刘德华"
+ },
+ {
+  "title": "一起走过的日子",
+  "singer": "刘德华"
+ },
+ {
+  "title": "走在冷风中",
+  "singer": "刘思涵"
+ },
+ {
+  "title": "我很快乐",
+  "singer": "刘惜君"
+ },
+ {
+  "title": "野菊花 (Live)",
+  "singer": "林志颖"
+ },
+ {
+  "title": "芹菜 (Live)",
+  "singer": "林志颖王玎"
+ },
+ {
+  "title": "礼物",
+  "singer": "林志颖"
+ },
+ {
+  "title": "胜利滋味",
+  "singer": "林志颖"
+ },
+ {
+  "title": "恭喜恭喜",
+  "singer": "钟镇涛林志颖"
+ },
+ {
+  "title": "用我的真心宝贝你的心",
+  "singer": "林志颖"
+ },
+ {
+  "title": "全新的爱",
+  "singer": "林志颖"
+ },
+ {
+  "title": "用心相信",
+  "singer": "林志颖"
+ },
+ {
+  "title": "我的爱情算什么",
+  "singer": "林志颖"
+ },
+ {
+  "title": "去走走",
+  "singer": "林志颖"
+ },
+ {
+  "title": "是不是你",
+  "singer": "林志颖"
+ },
+ {
+  "title": "梦在前方",
+  "singer": "林志颖"
+ },
+ {
+  "title": "生日礼物",
+  "singer": "林志颖"
+ },
+ {
+  "title": "火热的心",
+  "singer": "林志颖"
+ },
+ {
+  "title": "永不回头",
+  "singer": "林志颖"
+ },
+ {
+  "title": "今年夏天",
+  "singer": "林志颖"
+ },
+ {
+  "title": "我对天空说爱你",
+  "singer": "林志颖"
+ },
+ {
+  "title": "牵挂你的我",
+  "singer": "林志颖"
+ },
+ {
+  "title": "戏梦",
+  "singer": "林志颖"
+ },
+ {
+  "title": "不是每个恋曲都有美好回忆",
+  "singer": "林志颖"
+ },
+ {
+  "title": "快乐至上",
+  "singer": "林志颖"
+ },
+ {
+  "title": "心云",
+  "singer": "林志颖"
+ },
+ {
+  "title": "我不后悔",
+  "singer": "林志颖"
+ },
+ {
+  "title": "为什么受伤的总是我",
+  "singer": "林志颖"
+ },
+ {
+  "title": "稻草人",
+  "singer": "林志颖"
+ },
+ {
+  "title": "十七岁的雨季",
+  "singer": "林志颖"
+ },
+ {
+  "title": "迟到",
+  "singer": "刘文正"
+ },
+ {
+  "title": "当那一天来临",
+  "singer": "彭丽媛刘斌"
+ },
+ {
+  "title": "咱当兵的人",
+  "singer": "刘斌"
+ },
+ {
+  "title": "夜 (Live)",
+  "singer": "刘欢"
+ },
+ {
+  "title": "唱我的歌 (Live)",
+  "singer": "刘欢蔡健雅周华健羽泉"
+ },
+ {
+  "title": "千万次地问",
+  "singer": "刘欢"
+ },
+ {
+  "title": "糊涂的爱",
+  "singer": "刘欢"
+ },
+ {
+  "title": "过把瘾",
+  "singer": "那英刘欢"
+ },
+ {
+  "title": "我和你",
+  "singer": "刘欢Sarah Brightman"
+ },
+ {
+  "title": "难说再见",
+  "singer": "成龙刘欢刘德华周华健"
+ },
+ {
+  "title": "亚洲雄风",
+  "singer": "刘欢韦唯"
+ },
+ {
+  "title": "不能这样活",
+  "singer": "刘欢"
+ },
+ {
+  "title": "我欲成仙",
+  "singer": "刘欢"
+ },
+ {
+  "title": "在路上",
+  "singer": "刘欢"
+ },
+ {
+  "title": "弯弯的月亮",
+  "singer": "刘欢"
+ },
+ {
+  "title": "少年壮志不言愁",
+  "singer": "刘欢"
+ },
+ {
+  "title": "千万次的问",
+  "singer": "刘欢"
+ },
+ {
+  "title": "好汉歌",
+  "singer": "刘欢"
+ },
+ {
+  "title": "从头再来",
+  "singer": "刘欢"
+ },
+ {
+  "title": "人之初",
+  "singer": "刘若英"
+ },
+ {
+  "title": "花季未了",
+  "singer": "刘若英"
+ },
+ {
+  "title": "熊",
+  "singer": "刘若英"
+ },
+ {
+  "title": "我等你",
+  "singer": "刘若英"
+ },
+ {
+  "title": "24楼",
+  "singer": "刘若英杨坤"
+ },
+ {
+  "title": "听！是谁在唱歌",
+  "singer": "刘若英黄韵玲"
+ },
+ {
+  "title": "蝴蝶",
+  "singer": "刘若英"
+ },
+ {
+  "title": "光",
+  "singer": "刘若英"
+ },
+ {
+  "title": "知道不知道",
+  "singer": "刘若英"
+ },
+ {
+  "title": "幸福就是",
+  "singer": "刘若英"
+ },
+ {
+  "title": "亲爱的路人",
+  "singer": "刘若英"
+ },
+ {
+  "title": "一辈子的孤单",
+  "singer": "刘若英"
+ },
+ {
+  "title": "我们没有在一起",
+  "singer": "刘若英"
+ },
+ {
+  "title": "分开旅行",
+  "singer": "刘若英黄立行"
+ },
+ {
+  "title": "很爱很爱你",
+  "singer": "刘若英"
+ },
+ {
+  "title": "为爱痴狂",
+  "singer": "刘若英"
+ },
+ {
+  "title": "当爱在靠近",
+  "singer": "刘若英"
+ },
+ {
+  "title": "原来你也在这里",
+  "singer": "刘若英"
+ },
+ {
+  "title": "成全",
+  "singer": "刘若英"
+ },
+ {
+  "title": "后来",
+  "singer": "刘若英"
+ },
+ {
+  "title": "几许风雨",
+  "singer": "罗文"
+ },
+ {
+  "title": "再回首",
+  "singer": "罗文"
+ },
+ {
+  "title": "好心分手 (合唱版)",
+  "singer": "卢巧音王力宏"
+ },
+ {
+  "title": "爱不释手",
+  "singer": "李丽芬"
+ },
+ {
+  "title": "得意的笑",
+  "singer": "李丽芬"
+ },
+ {
+  "title": "爱江山更爱美人",
+  "singer": "李丽芬"
+ },
+ {
+  "title": "自作自受",
+  "singer": "李克勤"
+ },
+ {
+  "title": "再一次想你",
+  "singer": "李克勤"
+ },
+ {
+  "title": "爱可以问谁",
+  "singer": "李克勤"
+ },
+ {
+  "title": "左邻右里 (Live)",
+  "singer": "李克勤谭咏麟"
+ },
+ {
+  "title": "为你流泪",
+  "singer": "李克勤"
+ },
+ {
+  "title": "没有你赢了世界又如何",
+  "singer": "李克勤"
+ },
+ {
+  "title": "姐姐",
+  "singer": "李克勤"
+ },
+ {
+  "title": "一生何求",
+  "singer": "李克勤"
+ },
+ {
+  "title": "世界真细小",
+  "singer": "李克勤容祖儿"
+ },
+ {
+  "title": "大雨 (Live)",
+  "singer": "李克勤陈冰"
+ },
+ {
+  "title": "遥远的她",
+  "singer": "李克勤"
+ },
+ {
+  "title": "爱不释手",
+  "singer": "李克勤"
+ },
+ {
+  "title": "深深深",
+  "singer": "李克勤"
+ },
+ {
+  "title": "一生中最爱 (Live)",
+  "singer": "谭咏麟李克勤"
+ },
+ {
+  "title": "傻女 (Live)",
+  "singer": "李克勤"
+ },
+ {
+  "title": "旧欢如梦",
+  "singer": "李克勤"
+ },
+ {
+  "title": "合久必婚",
+  "singer": "李克勤"
+ },
+ {
+  "title": "一生不变",
+  "singer": "李克勤"
+ },
+ {
+  "title": "护花使者",
+  "singer": "李克勤"
+ },
+ {
+  "title": "红日 (粤语)",
+  "singer": "李克勤"
+ },
+ {
+  "title": "月半小夜曲",
+  "singer": "李克勤"
+ },
+ {
+  "title": "最近",
+  "singer": "李圣杰"
+ },
+ {
+  "title": "手放开",
+  "singer": "李圣杰"
+ },
+ {
+  "title": "你那么爱她",
+  "singer": "李圣杰林隆璇"
+ },
+ {
+  "title": "痴心绝对",
+  "singer": "李圣杰"
+ },
+ {
+  "title": "恭喜发财发大财",
+  "singer": "李娅莎"
+ },
+ {
+  "title": "青藏高原",
+  "singer": "李娜"
+ },
+ {
+  "title": "好人一生平安",
+  "singer": "李娜"
+ },
+ {
+  "title": "忙与盲",
+  "singer": "李宗盛"
+ },
+ {
+  "title": "听见有人叫你宝贝",
+  "singer": "李宗盛"
+ },
+ {
+  "title": "凡人歌",
+  "singer": "李宗盛"
+ },
+ {
+  "title": "何时梦醒",
+  "singer": "李度周华健"
+ },
+ {
+  "title": "为爱犯了罪",
+  "singer": "李度"
+ },
+ {
+  "title": "难以抗拒",
+  "singer": "李度周华健"
+ },
+ {
+  "title": "一封家书",
+  "singer": "李春波"
+ },
+ {
+  "title": "小芳",
+  "singer": "李春波"
+ },
+ {
+  "title": "朋友的酒",
+  "singer": "李晓杰"
+ },
+ {
   "title": "好姑娘",
   "singer": "李晓杰"
  },
