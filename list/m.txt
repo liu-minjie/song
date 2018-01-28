@@ -1,0 +1,394 @@
+[
+ {
+  "title": "像我这样的人 (Live)",
+  "singer": "毛不易"
+ },
+ {
+  "title": "Mirror Mirror",
+  "singer": "M2M"
+ },
+ {
+  "title": "The Day You Went Away",
+  "singer": "M2M"
+ },
+ {
+  "title": "Pretty Boy",
+  "singer": "M2M"
+ },
+ {
+  "title": "Wonderland (仙境)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Still Water",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "The Flight of the Bumble-Bee",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Exodus (出埃及记)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Croatian Rhapsody (克罗地亚狂想曲)",
+  "singer": "Maksim Mrvica"
+ },
+ {
+  "title": "Without You",
+  "singer": "Mariah Carey"
+ },
+ {
+  "title": "When You Believe",
+  "singer": "Mariah CareyWhitney Houston"
+ },
+ {
+  "title": "Hero (Album Version)",
+  "singer": "Mariah Carey"
+ },
+ {
+  "title": "If You Want Me",
+  "singer": "Marketa IrglovaGlen Hansard"
+ },
+ {
+  "title": "Moves Like Jagger",
+  "singer": "Maroon 5Christina Aguilera"
+ },
+ {
+  "title": "One More Night",
+  "singer": "Maroon 5"
+ },
+ {
+  "title": "One Day",
+  "singer": "MatisYahu"
+ },
+ {
+  "title": "Panama",
+  "singer": "Matteo"
+ },
+ {
+  "title": "One I Love",
+  "singer": "meav"
+ },
+ {
+  "title": "African And Tribal Sounds For Meditation & Healing (40 Mins)",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Cosmic Influence",
+  "singer": "Kundalini: YogaMeditationRelaxation"
+ },
+ {
+  "title": "Buddhist Meditation",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Arabian Sounds For Meditation And Healing (42 Mins)",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Meditation Flutes",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Early Morning Centering",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Youtube Meditation",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Night Meditation",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Tibetan Bells For Meditation And Relaxtion (39 Mins)",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Yoga Meditation (Healthful)",
+  "singer": "Meditation"
+ },
+ {
+  "title": "Said I Loved You...But I Lied",
+  "singer": "Michael Bolton"
+ },
+ {
+  "title": "Black Or White",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Bad",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "They Don't Care About Us",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Heal The World",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Smooth Criminal",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Dangerous",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Earth Song",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "You Are Not Alone",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Billie Jean",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "Beat It",
+  "singer": "Michael Jackson"
+ },
+ {
+  "title": "That's Why You Go Away",
+  "singer": "Michael Learns To Rock"
+ },
+ {
+  "title": "We Can't Stop",
+  "singer": "Miley Cyrus"
+ },
+ {
+  "title": "Wrecking Ball",
+  "singer": "Miley Cyrus"
+ },
+ {
+  "title": "You're My Heart, You're My Soul (New Version)",
+  "singer": "Modern Talking"
+ },
+ {
+  "title": "Cheri Cheri Lady (New Version)",
+  "singer": "Modern Talking"
+ },
+ {
+  "title": "Sexy Sexy Lover",
+  "singer": "Modern Talking"
+ },
+ {
+  "title": "Brother Louie",
+  "singer": "Modern Talking"
+ },
+ {
+  "title": "野百合也有春天",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "你看你看月亮的脸",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "你究竟有几个好妹妹",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "没有情人的情人节",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "谁的眼泪在飞",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "羞答答的玫瑰静悄悄地开",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "冬季到台北来看雨",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "风中有朵雨做的云",
+  "singer": "孟庭苇"
+ },
+ {
+  "title": "黄梅戏",
+  "singer": "慕容晓晓"
+ },
+ {
+  "title": "玻璃杯",
+  "singer": "慕容萱"
+ },
+ {
+  "title": "一生爱你千百回",
+  "singer": "梅艳芳"
+ },
+ {
+  "title": "亲密爱人",
+  "singer": "梅艳芳"
+ },
+ {
+  "title": "一生爱你千百回",
+  "singer": "梅艳芳"
+ },
+ {
+  "title": "相爱很难",
+  "singer": "梅艳芳张学友"
+ },
+ {
+  "title": "女人花",
+  "singer": "梅艳芳"
+ },
+ {
+  "title": "洗衣歌",
+  "singer": "梦之旅组合"
+ },
+ {
+  "title": "蓝蓝的夜蓝蓝的梦",
+  "singer": "毛宁"
+ },
+ {
+  "title": "晚秋",
+  "singer": "毛宁"
+ },
+ {
+  "title": "涛声依旧",
+  "singer": "毛宁"
+ },
+ {
+  "title": "心雨",
+  "singer": "毛宁杨钰莹"
+ },
+ {
+  "title": "篱笆墙的影子",
+  "singer": "毛阿敏"
+ },
+ {
+  "title": "相思",
+  "singer": "毛阿敏"
+ },
+ {
+  "title": "渴望",
+  "singer": "毛阿敏"
+ },
+ {
+  "title": "一笔勾销",
+  "singer": "满文军"
+ },
+ {
+  "title": "闻笛",
+  "singer": "满文军"
+ },
+ {
+  "title": "那一年那一天",
+  "singer": "满文军"
+ },
+ {
+  "title": "我需要你",
+  "singer": "满文军"
+ },
+ {
+  "title": "懂你",
+  "singer": "满文军"
+ },
+ {
+  "title": "望乡",
+  "singer": "满文军"
+ },
+ {
+  "title": "爱情",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "那么爱你为什么",
+  "singer": "莫文蔚黄品源"
+ },
+ {
+  "title": "广岛之恋",
+  "singer": "莫文蔚张洪量"
+ },
+ {
+  "title": "爱",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "电台情歌",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "一生所爱",
+  "singer": "卢冠廷莫文蔚"
+ },
+ {
+  "title": "如果没有你",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "阴天",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "盛夏的果实",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "忽然之间",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "他不爱我",
+  "singer": "莫文蔚"
+ },
+ {
+  "title": "天籁之爱",
+  "singer": "莫斯满"
+ },
+ {
+  "title": "雨花石",
+  "singer": "莫斯满"
+ },
+ {
+  "title": "要死就一定要死在你手里 (Live)",
+  "singer": "莫西子诗郑钧"
+ },
+ {
+  "title": "夏洛特烦恼",
+  "singer": "沈腾马丽"
+ },
+ {
+  "title": "该死的温柔",
+  "singer": "马天宇"
+ },
+ {
+  "title": "最远的你是我最近的爱",
+  "singer": "马旭成车继铃"
+ },
+ {
+  "title": "傻瓜",
+  "singer": "马条"
+ },
+ {
+  "title": "所有人都在玩手机",
+  "singer": "马赛克乐队"
+ },
+ {
+  "title": "如今你在谁的身边",
+  "singer": "马郁"
+ },
+ {
+  "title": "下辈子如果我还记得你 (Live)",
+  "singer": "马郁"
+ },
+ {
+  "title": "少年梦",
+  "singer": "麦子杰"
+ },
+ {
+  "title": "她 (Live)",
+  "singer": "马上又杨坤"
+ }
+]

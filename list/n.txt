@@ -1,0 +1,126 @@
+[
+ {
+  "title": "Bye Bye Bye",
+  "singer": "*NSYNC"
+ },
+ {
+  "title": "Remember The Time",
+  "singer": "NANA"
+ },
+ {
+  "title": "Lonely",
+  "singer": "NANA"
+ },
+ {
+  "title": "Let Go",
+  "singer": "Natasha Bedingfield"
+ },
+ {
+  "title": "Just Give Me a Reason",
+  "singer": "P!NKNate Ruess"
+ },
+ {
+  "title": "Oh! Carol",
+  "singer": "Neil Sedaka"
+ },
+ {
+  "title": "Dilemma",
+  "singer": "NellyKelly Rowland"
+ },
+ {
+  "title": "Love Theme From The Godfather",
+  "singer": "Nino RotaCarlo Savina"
+ },
+ {
+  "title": "London Bridge is Falling Down (Nursery Rhyme)",
+  "singer": "London Bridge Is Falling DownSongs For KidsNursery Rhymes"
+ },
+ {
+  "title": "让泪化作相思雨",
+  "singer": "南合文斗"
+ },
+ {
+  "title": "回忆总想哭",
+  "singer": "南宫嘉骏姜玉阳"
+ },
+ {
+  "title": "我的天空",
+  "singer": "南征北战NZBZ"
+ },
+ {
+  "title": "翻身农奴把歌唱",
+  "singer": "宁可"
+ },
+ {
+  "title": "从你的全世界路过",
+  "singer": "牛奶咖啡"
+ },
+ {
+  "title": "明天，你好",
+  "singer": "牛奶咖啡"
+ },
+ {
+  "title": "花桥流水 (合唱)",
+  "singer": "纳兰珠儿高安"
+ },
+ {
+  "title": "We Are One",
+  "singer": "那英张惠妹林忆莲蔡健雅"
+ },
+ {
+  "title": "愿赌服输 (Live)",
+  "singer": "那英"
+ },
+ {
+  "title": "东方之珠",
+  "singer": "刘德华那英"
+ },
+ {
+  "title": "祝你平安",
+  "singer": "那英"
+ },
+ {
+  "title": "山不转水转",
+  "singer": "那英"
+ },
+ {
+  "title": "雾里看花",
+  "singer": "那英"
+ },
+ {
+  "title": "出卖",
+  "singer": "那英"
+ },
+ {
+  "title": "相约一九九八",
+  "singer": "那英王菲"
+ },
+ {
+  "title": "一笑而过",
+  "singer": "那英"
+ },
+ {
+  "title": "白天不懂夜的黑",
+  "singer": "那英"
+ },
+ {
+  "title": "征服",
+  "singer": "那英"
+ },
+ {
+  "title": "梦一场",
+  "singer": "那英"
+ },
+ {
+  "title": "只要有你",
+  "singer": "那英孙楠"
+ },
+ {
+  "title": "默",
+  "singer": "那英"
+ },
+ {
+  "title": "漂 (Live)",
+  "singer": "那吾克热LIL-EM"
+ }
+]

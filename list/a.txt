@@ -1,5 +1,9 @@
 [
  {
+  "title": "Barbie Girl",
+  "singer": "Aqua"
+ },
+ {
   "title": "Set Fire to the Rain",
   "singer": "Adele"
  },
@@ -405,7 +409,7 @@
  },
  {
   "title": "一路歌唱",
-  "singer": "阿宝"
+  "singer": "阿宝张冬玲"
  },
  {
   "title": "做你的雪莲",
