@@ -3,6 +3,7 @@ const fs = require('fs');
 const jsdom = require("jsdom/lib/old-api");
 const jquery = require('jquery');
 const prompt = require('prompt');
+const json = require('./password.json');
 
 const urls = [
 	'https://y.qq.com/n/yqq/playlist/3259424259.html#stat=y_new.profile.create_playlist.click&dirid=2', // a
@@ -67,6 +68,7 @@ function handleDom (window, content, html, url, success) {
 }
 
 
+/*
 prompt.get(['password'], function (err, result) {
 	if (err) {
 		console.error(err);
@@ -76,8 +78,9 @@ prompt.get(['password'], function (err, result) {
 		console.log('no password');
 		return
 	}
+*/
 
-	const server = require('./email').createServer(result.password);
+	const server = require('./email').createServer(json.email);
 
 	jsdom.env("", function(err, window) {
 		if (err) {
@@ -127,7 +130,7 @@ prompt.get(['password'], function (err, result) {
 		let html = '<table><tbody>';
 		helper.request(html);
 	});
-})
+//})
 
 
 
