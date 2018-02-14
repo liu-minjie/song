@@ -1,5 +1,9 @@
 [
  {
+  "title": "Take It Off",
+  "singer": "Kesha"
+ },
+ {
   "title": "一个人 (Live)",
   "singer": "黄铃凯吴青峰"
  },
@@ -252,7 +256,7 @@
   "singer": "Skygod Entertainment CompilationKyla La Grange"
  },
  {
-  "title": "Can't Get You Out of My Head",
+  "title": "Can't Get You Out Of My Head",
   "singer": "Kylie Minogue"
  },
  {

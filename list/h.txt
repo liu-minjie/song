@@ -1,5 +1,17 @@
 [
  {
+  "title": "Dans les yeux d'une fille",
+  "singer": "Hélène Rollès"
+ },
+ {
+  "title": "Je m'appelle Hélène",
+  "singer": "Hélène Rollès"
+ },
+ {
+  "title": "Amour secret",
+  "singer": "Hélène Rollès"
+ },
+ {
   "title": "哭砂",
   "singer": "黄莺莺"
  },

@@ -1,0 +1,290 @@
+[
+ {
+  "title": "Just Give Me a Reason",
+  "singer": "P!NKNate Ruess"
+ },
+ {
+  "title": "Canon in D Major (D大调卡农)",
+  "singer": "Pachelbel"
+ },
+ {
+  "title": "La Vie En Rose - Sound-A-Like As Made Famous By Edith Piaf",
+  "singer": "Paradis Français"
+ },
+ {
+  "title": "Let Her Go",
+  "singer": "Passenger"
+ },
+ {
+  "title": "The Heart of the Ocean",
+  "singer": "Pat Benesta"
+ },
+ {
+  "title": "Coco Jambo",
+  "singer": "Pat Benesta"
+ },
+ {
+  "title": "Do Re Mi (Voice)",
+  "singer": "Frederick DvonchMary MartinPatricia NewayLauri Peters"
+ },
+ {
+  "title": "Guiding Light",
+  "singer": "Patrick Kelly"
+ },
+ {
+  "title": "Changing Partners",
+  "singer": "Patti Page"
+ },
+ {
+  "title": "ELCONDOR PASA 老鹰之歌",
+  "singer": "Paul Mauriat"
+ },
+ {
+  "title": "Alla Figaro",
+  "singer": "Paul Mauriat"
+ },
+ {
+  "title": "Love Is Blue",
+  "singer": "Paul Mauriat"
+ },
+ {
+  "title": "Let It Be",
+  "singer": "Paul McCartney"
+ },
+ {
+  "title": "Hey Jude",
+  "singer": "Paul McCartney"
+ },
+ {
+  "title": "老鹰之歌",
+  "singer": "Paul Simon"
+ },
+ {
+  "title": "The Sound of Silence",
+  "singer": "Paul Simon"
+ },
+ {
+  "title": "If Ever You're In My Arms Again",
+  "singer": "Peabo Bryson"
+ },
+ {
+  "title": "Tonight, I Celebrate My Love",
+  "singer": "Peabo Bryson"
+ },
+ {
+  "title": "A Whole New World",
+  "singer": "Peabo BrysonRegina Belle"
+ },
+ {
+  "title": "You'll Be In My Heart",
+  "singer": "Phil Collins"
+ },
+ {
+  "title": "Another Day In Paradise",
+  "singer": "Phil Collins"
+ },
+ {
+  "title": "天鹅湖 “情景”",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "June - Barcarolle, Op. 37 No. 6 from Tchaikovsky: The Seasons, Piano Suite (六月 - 船歌，作品37 第6首选自柴可夫斯基：四季，钢琴组曲)",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "哄我入睡",
+  "singer": "品冠"
+ },
+ {
+  "title": "我一个人记得就好",
+  "singer": "品冠"
+ },
+ {
+  "title": "最近比较烦",
+  "singer": "品冠李宗盛周华健"
+ },
+ {
+  "title": "我以为",
+  "singer": "品冠"
+ },
+ {
+  "title": "无可救药",
+  "singer": "品冠"
+ },
+ {
+  "title": "门没锁",
+  "singer": "品冠"
+ },
+ {
+  "title": "掌心 (Live)",
+  "singer": "品冠"
+ },
+ {
+  "title": "那些女孩教我的事",
+  "singer": "品冠"
+ },
+ {
+  "title": "明明很爱你",
+  "singer": "品冠梁静茹"
+ },
+ {
+  "title": "天仙配 (Live)",
+  "singer": "平安余平潘柠静陈邦靓"
+ },
+ {
+  "title": "洋葱",
+  "singer": "平安"
+ },
+ {
+  "title": "倒转人生",
+  "singer": "平安"
+ },
+ {
+  "title": "两只蝴蝶",
+  "singer": "庞龙"
+ },
+ {
+  "title": "兄弟抱一下",
+  "singer": "庞龙"
+ },
+ {
+  "title": "父老乡亲",
+  "singer": "彭丽媛"
+ },
+ {
+  "title": "走在红毯那一天",
+  "singer": "彭佳慧"
+ },
+ {
+  "title": "喜欢两个人",
+  "singer": "彭佳慧"
+ },
+ {
+  "title": "听说爱情回来过",
+  "singer": "彭佳慧"
+ },
+ {
+  "title": "心之火",
+  "singer": "飞儿乐团彭佳慧"
+ },
+ {
+  "title": "相见恨晚",
+  "singer": "彭佳慧"
+ },
+ {
+  "title": "囚鸟",
+  "singer": "彭羚"
+ },
+ {
+  "title": "穿过生命散发的芬芳",
+  "singer": "李柏凝彭钧"
+ },
+ {
+  "title": "不了了之",
+  "singer": "彭钧李柏凝"
+ },
+ {
+  "title": "白桦林",
+  "singer": "朴树"
+ },
+ {
+  "title": "生如夏花",
+  "singer": "朴树"
+ },
+ {
+  "title": "那些花儿",
+  "singer": "朴树"
+ },
+ {
+  "title": "平凡之路",
+  "singer": "朴树"
+ },
+ {
+  "title": "外婆的澎湖湾",
+  "singer": "潘安邦"
+ },
+ {
+  "title": "高手",
+  "singer": "潘玮柏张敖杰（铁竹堂）"
+ },
+ {
+  "title": "反转地球",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "我们都会错",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "壁虎漫步",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "我的麦克风",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "路太弯",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "Tell Me",
+  "singer": "潘玮柏徐洁儿"
+ },
+ {
+  "title": "亲爱的",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "爱上未来的你",
+  "singer": "潘玮柏"
+ },
+ {
+  "title": "快乐崇拜",
+  "singer": "潘玮柏张韶涵"
+ },
+ {
+  "title": "不得不爱",
+  "singer": "潘玮柏弦子"
+ },
+ {
+  "title": "我想有个家",
+  "singer": "潘美辰"
+ },
+ {
+  "title": "我曾用心爱着你",
+  "singer": "潘美辰"
+ },
+ {
+  "title": "离人",
+  "singer": "潘裕文"
+ },
+ {
+  "title": "近在眼前",
+  "singer": "潘裕文"
+ },
+ {
+  "title": "是否",
+  "singer": "潘越云周华健"
+ },
+ {
+  "title": "痴情不是一种罪过",
+  "singer": "潘越云"
+ },
+ {
+  "title": "我是不是你最疼爱的人",
+  "singer": "潘越云"
+ },
+ {
+  "title": "天造地设",
+  "singer": "胖胖胖"
+ },
+ {
+  "title": "爱到万年",
+  "singer": "刘庭羽蒲巴甲"
+ },
+ {
+  "title": "节奏爱 (Live)",
+  "singer": "潘高峰"
+ }
+]

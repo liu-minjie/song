@@ -1,5 +1,9 @@
 [
  {
+  "title": "LaLa Love On My Mind",
+  "singer": "Ann Winsborn"
+ },
+ {
   "title": "Barbie Girl",
   "singer": "Aqua"
  },
@@ -221,7 +225,7 @@
  },
  {
   "title": "Tik Tok",
-  "singer": "Various Artists"
+  "singer": "Avril Lavigne"
  },
  {
   "title": "Always On The Run (Amazon Exclusive)",

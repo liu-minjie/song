@@ -1,5 +1,17 @@
 [
  {
+  "title": "Inline-Outline",
+  "singer": "Mr.President"
+ },
+ {
+  "title": "Happy People",
+  "singer": "Mr.President"
+ },
+ {
+  "title": "Coco Jamboo",
+  "singer": "Mr.President"
+ },
+ {
   "title": "像我这样的人 (Live)",
   "singer": "毛不易"
  },

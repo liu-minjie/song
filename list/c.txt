@@ -1,5 +1,13 @@
 [
  {
+  "title": "There’s A Kind Of Hush",
+  "singer": "Carpenters"
+ },
+ {
+  "title": "欢喜就好",
+  "singer": "陈雷"
+ },
+ {
   "title": "追光者",
   "singer": "岑宁儿"
  },
@@ -257,7 +265,7 @@
  },
  {
   "title": "真心英雄",
-  "singer": "成龙周华健李宗盛黄耀明"
+  "singer": ""
  },
  {
   "title": "美丽的神话",

@@ -1,0 +1,910 @@
+[
+ {
+  "title": "I Believe I Can Fly",
+  "singer": "R. Kelly"
+ },
+ {
+  "title": "Fantasia on Greensleeves (绿袖子幻想曲)",
+  "singer": "Ralph Vaughan Williams"
+ },
+ {
+  "title": "Salut d'amour, Op. 12 (Version for Violin and Piano)",
+  "singer": "Edward ElgarRalph Vaughan WilliamsNew Zealand Symphony OrchestraJames Judd"
+ },
+ {
+  "title": "Touch & Go - Straight To... Number One",
+  "singer": "Ravin"
+ },
+ {
+  "title": "Tunak Tunak Tun",
+  "singer": "Red Baraat"
+ },
+ {
+  "title": "Exodus",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "僻静的大街",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "飞天",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "埃莉娜",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "达依女士",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "自由的生活",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Lemon tree",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Music Box Dancer",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "落叶",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Lyphard Melodie",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "拉.梅尔",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "古莉斯朗布斯",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "The Butterfly Lovers",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的喜悦",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "四季组曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Souvenirs d'enfance",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "异国情",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Liberstraum",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Les larmes de joie",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "G弦上之歌",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Greensleeves",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Ave Maria",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Coup De Coeur",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Lettre à ma mère",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "野花",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "情感",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦的传说",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "玫瑰色的人生",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Histoire d'Lln Reve",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梁山伯与祝英台",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Love Story",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Love Theme from \"Romeo & Julia\"",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱之梦",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "你微笑的影子",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "忘却的悲伤",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "少女的祈祷",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Childhood Memories",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "土耳其进行曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "冷藏的爱",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦里的故事",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Pour Else",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "亲爱的，你听",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "命运",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "林中散步",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Souvevirs d'Enfance",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "德朗的微笑",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "威尼斯之旅",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "伤感乐曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "天鹅",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "欢乐颂",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的誓言",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "小步舞曲 (巴赫版)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "海边的祈祷",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "海边的星空",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "瓦妮莎的微笑",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "记忆",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "布拉姆斯摇篮曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "À Comme Amour",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的旋律",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "午后的旅行",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梁祝",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "拉拉主题曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "夜曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "给母亲的信",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "摇篮曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "秘密的庭院",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Mariage d'amour",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Ballade Pour Adeline (水边的阿狄丽娜)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "柔如彩虹",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "思乡曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱情的故事",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "星星小夜曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "蓝色的爱",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦中的鸟",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "绿袖子",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "致爱丽丝",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的纪念",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "爱的协奏曲",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "水边的阿狄丽娜",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "罗密欧与朱丽叶 (钢琴曲)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "星空",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "秋日的私语",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "梦中的婚礼 (钢琴曲)",
+  "singer": "Richard Clayderman"
+ },
+ {
+  "title": "Right Here Waiting",
+  "singer": "Richard Marx"
+ },
+ {
+  "title": "Reality",
+  "singer": "Richard Sanderson"
+ },
+ {
+  "title": "La Copa De La Vida",
+  "singer": "Ricky Martin"
+ },
+ {
+  "title": "Only Girl (In The World)",
+  "singer": "Rihanna"
+ },
+ {
+  "title": "The Monster",
+  "singer": "EminemRihanna"
+ },
+ {
+  "title": "For You (Fifty Shades Freed)",
+  "singer": "Liam PayneRita Ora"
+ },
+ {
+  "title": "The Days",
+  "singer": "AviciiRobbie Williams"
+ },
+ {
+  "title": "Better Man",
+  "singer": "Robbie Williams"
+ },
+ {
+  "title": "Children",
+  "singer": "Robert Miles"
+ },
+ {
+  "title": "OK",
+  "singer": "Robin SchulzJames Blunt"
+ },
+ {
+  "title": "Send Me A Letter",
+  "singer": "Robin Spielberg"
+ },
+ {
+  "title": "Sailing",
+  "singer": "Rod Stewart"
+ },
+ {
+  "title": "Love Song",
+  "singer": "Ronan Hardiman"
+ },
+ {
+  "title": "Lullaby",
+  "singer": "Raimond Lap"
+ },
+ {
+  "title": "Wind Song",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "Triade",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "Wild side",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "Oceano",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "Sillaba",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "Wild Sea",
+  "singer": "Roberto Cacciapaglia"
+ },
+ {
+  "title": "加油",
+  "singer": "任承浩"
+ },
+ {
+  "title": "凉城",
+  "singer": "任然"
+ },
+ {
+  "title": "空空如也",
+  "singer": "任然"
+ },
+ {
+  "title": "我要你",
+  "singer": "任素汐"
+ },
+ {
+  "title": "不止伤心",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "再问一次",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "永远",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "别想",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "本来也可以",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "今晚我要唱歌",
+  "singer": "江蕙任贤齐"
+ },
+ {
+  "title": "烧得厉害",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "猎人传奇",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱怎么放手",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱的路上只有你和我 (Live)",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "再一次好吗？",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "好说话",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "只要跟你好",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "不单爱你这些",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "彩虹沙漠",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱你在伤口",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "拥挤的城市",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "举杯",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "I Feel Good",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "冲绳之恋",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "浪漫手牵手",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "美丽坏女人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "拯救心田",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "走了千万里",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "一条龙",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "绝望的生鱼片",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "开心就好",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "想飞",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "来不及告诉你",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "冰力十足",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "指挥家",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱我爱我",
+  "singer": "任贤齐莫文蔚"
+ },
+ {
+  "title": "圣诞快来了",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "出去就别回来",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "睡到十二点",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "不要变",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "你在说谎",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱过才心痛",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "功夫恰恰",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "为自己骄傲",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "没良心的",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "永夜",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "美丽的坏女人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "不信邪",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "她要我 她不爱我",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱，怎么会是这样",
+  "singer": "任贤齐小虫"
+ },
+ {
+  "title": "再出发",
+  "singer": "任贤齐阿牛"
+ },
+ {
+  "title": "我是有钱人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "匆匆",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "你愿意我愿意",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "好聚好散",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "希望你明年冬天会回来",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "珍惜",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "有梦的人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "这样也好",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "不再让你孤单",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "心情车站",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "如果没有你",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "烟火",
+  "singer": "黎明任贤齐"
+ },
+ {
+  "title": "两极",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "赶不走",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "一个男人的眼泪",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "活着",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "外婆桥",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "那一年，这一天",
+  "singer": "任贤齐舒淇"
+ },
+ {
+  "title": "你是我老婆",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "天使也一样",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "永不退缩",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "烛光",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "很受伤",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "小狼狗",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "给你幸福",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "呢喃",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "少年游",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "诛仙 我回来",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "飞鸟",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "诛仙恋",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱的路上只有我和你",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "小雪 (深情演绎版)",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "一个人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "我是一只小小鸟",
+  "singer": "任贤齐李宗盛"
+ },
+ {
+  "title": "依靠",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "橘子香水",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "老地方",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "死不了",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "任逍遥",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "风云决",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "水晶",
+  "singer": "任贤齐徐怀钰"
+ },
+ {
+  "title": "哭个痛快",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "春天花会开",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "心肝宝贝",
+  "singer": "任贤齐徐熙媛"
+ },
+ {
+  "title": "爱你的最后一天",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "花太香",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "对面的女孩看过来",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "只爱你一个人",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "流着泪的你的脸",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "浪花一朵朵",
+  "singer": "任贤齐阿牛光良"
+ },
+ {
+  "title": "我是一只鱼",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "沧海一声笑",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "星语心愿",
+  "singer": "任贤齐张柏芝"
+ },
+ {
+  "title": "兄弟",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "心太软",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "天涯",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "花好月圆夜",
+  "singer": "任贤齐杨千嬅"
+ },
+ {
+  "title": "还有我",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "伤心太平洋",
+  "singer": "任贤齐"
+ },
+ {
+  "title": "爱人",
+  "singer": "付笛声任静"
+ },
+ {
+  "title": "你是幸福的 我是快乐的",
+  "singer": "付笛声任静"
+ },
+ {
+  "title": "知心爱人",
+  "singer": "付笛声任静"
+ },
+ {
+  "title": "向往神鹰",
+  "singer": "容中尔甲"
+ },
+ {
+  "title": "神奇的九寨",
+  "singer": "容中尔甲"
+ },
+ {
+  "title": "高原红",
+  "singer": "容中尔甲"
+ },
+ {
+  "title": "挥着翅膀的女孩",
+  "singer": "容祖儿"
+ },
+ {
+  "title": "天籁之爱",
+  "singer": "旺姆容中尔甲"
+ },
+ {
+  "title": "S&M",
+  "singer": "Rihanna"
+ }
+]

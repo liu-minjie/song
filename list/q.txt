@@ -1,0 +1,138 @@
+[
+ {
+  "title": "We Are The Champions",
+  "singer": "Queen"
+ },
+ {
+  "title": "We Will Rock You",
+  "singer": "Queen"
+ },
+ {
+  "title": "走过咖啡屋",
+  "singer": "千百惠"
+ },
+ {
+  "title": "殿书",
+  "singer": "奇然"
+ },
+ {
+  "title": "琵琶行",
+  "singer": "奇然沈谧仁"
+ },
+ {
+  "title": "外滩十八号",
+  "singer": "袁成杰戚薇"
+ },
+ {
+  "title": "我的歌声里",
+  "singer": "曲婉婷"
+ },
+ {
+  "title": "没有什么不同",
+  "singer": "曲婉婷"
+ },
+ {
+  "title": "该",
+  "singer": "曲肖冰"
+ },
+ {
+  "title": "注定孤独终老",
+  "singer": "曲肖冰半阳"
+ },
+ {
+  "title": "叙世",
+  "singer": "Aki阿杰清弄"
+ },
+ {
+  "title": "一万个舍不得",
+  "singer": "庄心妍祁隆"
+ },
+ {
+  "title": "纠缠",
+  "singer": "裘海正"
+ },
+ {
+  "title": "爱你十分泪七分",
+  "singer": "裘海正"
+ },
+ {
+  "title": "爱我的人和我爱的人",
+  "singer": "裘海正"
+ },
+ {
+  "title": "你的一切都是我的风格 (Live)",
+  "singer": "邱比"
+ },
+ {
+  "title": "快乐宝贝 (2009新版)",
+  "singer": "青春美少女"
+ },
+ {
+  "title": "小跳蛙",
+  "singer": "青蛙乐队"
+ },
+ {
+  "title": "直到世界末日",
+  "singer": "齐秦"
+ },
+ {
+  "title": "丝路",
+  "singer": "齐秦"
+ },
+ {
+  "title": "狂流",
+  "singer": "齐秦"
+ },
+ {
+  "title": "袖手旁观",
+  "singer": "齐秦"
+ },
+ {
+  "title": "窗外",
+  "singer": "齐秦"
+ },
+ {
+  "title": "狼",
+  "singer": "齐秦"
+ },
+ {
+  "title": "无情的雨无情的你",
+  "singer": "齐秦"
+ },
+ {
+  "title": "火柴天堂",
+  "singer": "齐秦"
+ },
+ {
+  "title": "外面的世界",
+  "singer": "齐秦"
+ },
+ {
+  "title": "不让我的眼泪陪我过夜",
+  "singer": "齐秦"
+ },
+ {
+  "title": "往事随风",
+  "singer": "齐秦"
+ },
+ {
+  "title": "夜夜夜夜",
+  "singer": "齐秦"
+ },
+ {
+  "title": "大约在冬季",
+  "singer": "齐秦"
+ },
+ {
+  "title": "橄榄树",
+  "singer": "齐豫"
+ },
+ {
+  "title": "天下有情人",
+  "singer": "周华健齐豫"
+ },
+ {
+  "title": "我不需要 (Live)",
+  "singer": "邱振哲"
+ }
+]
