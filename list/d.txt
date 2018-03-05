@@ -1,5 +1,9 @@
 [
  {
+  "title": "Purple Passion",
+  "singer": "Diana Boncheva"
+ },
+ {
   "title": "某某 (Live)",
   "singer": "杜秋"
  },
