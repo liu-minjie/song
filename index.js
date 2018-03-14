@@ -24,7 +24,10 @@ const urls = [
 	'https://y.qq.com/n/yqq/playlist/3285999266.html#stat=y_new.profile.create_playlist.click&dirid=18', // o
 	'https://y.qq.com/n/yqq/playlist/3285999273.html#stat=y_new.profile.create_playlist.click&dirid=19', // p
 	'https://y.qq.com/n/yqq/playlist/3285999287.html#stat=y_new.profile.create_playlist.click&dirid=20', // q
-	'https://y.qq.com/n/yqq/playlist/3285999296.html#stat=y_new.profile.create_playlist.click&dirid=21' // r
+	'https://y.qq.com/n/yqq/playlist/3285999296.html#stat=y_new.profile.create_playlist.click&dirid=21', // r
+	'https://y.qq.com/n/yqq/playlist/3285999308.html#stat=y_new.profile.create_playlist.click&dirid=22', // s
+	'https://y.qq.com/n/yqq/playlist/3285999320.html#stat=y_new.profile.create_playlist.click&dirid=23'
+
 ];
 
 

@@ -1,6 +1,10 @@
 [
  {
-  "title": "Purple Passion",
+  "title": "Five More Hours",
+  "singer": "DeorroChris Brown"
+ },
+ {
+  "title": "Purple Passion (紫色激情)",
   "singer": "Diana Boncheva"
  },
  {

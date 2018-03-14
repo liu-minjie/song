@@ -44,11 +44,11 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "Lemon tree",
+  "title": "Lemon tree (柠檬树)",
   "singer": "Richard Clayderman"
  },
  {
-  "title": "Music Box Dancer",
+  "title": "Music Box Dancer (音乐盒舞者)",
   "singer": "Richard Clayderman"
  },
  {
@@ -80,7 +80,7 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "Souvenirs d'enfance",
+  "title": "Souvenirs d'enfance (儿时回忆)",
   "singer": "Richard Clayderman"
  },
  {
@@ -148,7 +148,7 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "爱之梦",
+  "title": "爱之梦 (Live)",
   "singer": "Richard Clayderman"
  },
  {

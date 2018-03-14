@@ -1,0 +1,278 @@
+[
+ {
+  "title": "Love Story",
+  "singer": "Taylor Swift"
+ },
+ {
+  "title": "I Don’t Want To Say Goodbye",
+  "singer": "Teddy Thompson"
+ },
+ {
+  "title": "Let It Be (Remastered 2015)",
+  "singer": "The Beatles"
+ },
+ {
+  "title": "Rhythm of the Rain",
+  "singer": "The Cascades"
+ },
+ {
+  "title": "Something Just Like This",
+  "singer": "The ChainsmokersColdplay"
+ },
+ {
+  "title": "Zombie",
+  "singer": "The Cranberries"
+ },
+ {
+  "title": "500 Miles",
+  "singer": "The Journeymen"
+ },
+ {
+  "title": "This Is The Moment",
+  "singer": "The Moody Blues"
+ },
+ {
+  "title": "Only You (And You Alone)",
+  "singer": "The Platters"
+ },
+ {
+  "title": "Unchained Melody",
+  "singer": "The Righteous Brothers"
+ },
+ {
+  "title": "Trouble I'm In",
+  "singer": "Twinbed"
+ },
+ {
+  "title": "青春修炼手册",
+  "singer": "TFBOYS"
+ },
+ {
+  "title": "风筝与风",
+  "singer": "Twins"
+ },
+ {
+  "title": "见习爱神",
+  "singer": "Twins"
+ },
+ {
+  "title": "恋爱大过天",
+  "singer": "Twins"
+ },
+ {
+  "title": "我很想爱他",
+  "singer": "Twins"
+ },
+ {
+  "title": "莫斯科没有眼泪",
+  "singer": "Twins"
+ },
+ {
+  "title": "丁香花",
+  "singer": "唐磊"
+ },
+ {
+  "title": "好人好梦",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "心要让你听见",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "一千零一夜",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "找一个字代替",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "九百九十九朵玫瑰",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "千纸鹤",
+  "singer": "邰正宵"
+ },
+ {
+  "title": "达坂城的姑娘",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "藏龙卧虎",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "我心为谁动",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "爱人",
+  "singer": "屠洪刚王菲菲"
+ },
+ {
+  "title": "江山无限",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "中国功夫",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "霸王别姬",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "精忠报国",
+  "singer": "屠洪刚"
+ },
+ {
+  "title": "幸福万年长",
+  "singer": "汤灿"
+ },
+ {
+  "title": "开门红",
+  "singer": "火风汤灿"
+ },
+ {
+  "title": "爱不后悔",
+  "singer": "田震"
+ },
+ {
+  "title": "水姻缘",
+  "singer": "田震"
+ },
+ {
+  "title": "好大一棵树",
+  "singer": "田震"
+ },
+ {
+  "title": "风雨彩虹 铿锵玫瑰",
+  "singer": "田震"
+ },
+ {
+  "title": "执着 (原版)",
+  "singer": "田震"
+ },
+ {
+  "title": "耶利亚女郎",
+  "singer": "童安格"
+ },
+ {
+  "title": "把根留住",
+  "singer": "童安格"
+ },
+ {
+  "title": "其实你不懂我的心",
+  "singer": "童安格"
+ },
+ {
+  "title": "明天你是否依然爱我",
+  "singer": "童安格"
+ },
+ {
+  "title": "在那遥远的地方",
+  "singer": "腾格尔"
+ },
+ {
+  "title": "大男人",
+  "singer": "腾格尔"
+ },
+ {
+  "title": "天堂",
+  "singer": "腾格尔"
+ },
+ {
+  "title": "神的传说",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "情人",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "夜未央",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "半梦半醒",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "也曾相识",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "活得潇洒",
+  "singer": "谭咏麟陈慧娴"
+ },
+ {
+  "title": "难舍难分",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "水中花 (粤语)",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "披着羊皮的狼 (国语)",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "爱多一次痛多一次",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "爱在深秋",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "朋友",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "一生中最爱",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "讲不出再见",
+  "singer": "谭咏麟"
+ },
+ {
+  "title": "我期待",
+  "singer": "张雨生陶晶莹"
+ },
+ {
+  "title": "走路去纽约",
+  "singer": "陶晶莹"
+ },
+ {
+  "title": "女人心事",
+  "singer": "陶晶莹"
+ },
+ {
+  "title": "流沙",
+  "singer": "陶喆"
+ },
+ {
+  "title": "爱我还是他",
+  "singer": "陶喆"
+ },
+ {
+  "title": "Melody",
+  "singer": "陶喆"
+ },
+ {
+  "title": "今天你要嫁给我",
+  "singer": "陶喆蔡依林"
+ },
+ {
+  "title": "爱，很简单",
+  "singer": "陶喆"
+ },
+ {
+  "title": "就是爱你",
+  "singer": "陶喆"
+ }
+]

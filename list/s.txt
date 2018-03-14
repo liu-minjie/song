@@ -1,0 +1,742 @@
+[
+ {
+  "title": "Don't Cry For Me Argentina",
+  "singer": "Sarah Brightman"
+ },
+ {
+  "title": "The Phantom Of The Opera",
+  "singer": "Sarah Brightman"
+ },
+ {
+  "title": "Time To Say Goodbye (告别的时刻)",
+  "singer": "Sarah BrightmanAndrea Bocelli"
+ },
+ {
+  "title": "我和你",
+  "singer": "刘欢Sarah Brightman"
+ },
+ {
+  "title": "Scarborough Fair (斯卡布罗集市)",
+  "singer": "Sarah Brightman"
+ },
+ {
+  "title": "The Single Life",
+  "singer": "Sarina Paris"
+ },
+ {
+  "title": "Just About Enough",
+  "singer": "Sarina Paris"
+ },
+ {
+  "title": "Half A World Away 走了地球的一半",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Always There 永驻",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Greenwaves",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Dreamcatcher 追梦人",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "sona",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Fairytale",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Song At The End Of The Day",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Dawn of a new century",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "En Passant",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Evensong",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "steps",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "ode to simplicity",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Silence Speaks",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Fields Of Fortune",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Frozen In Time",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "lllumination",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Prayer",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Awakening",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Silent Wings",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "sanctuary",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "appassionata",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Song For A New Beginning",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Song for a stormy night",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "elan",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Lotus",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "蝴蝶犬",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Make A Wish",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Duo",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Gates Of Dawn",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Heartstrings",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Belonging",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Papillon",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Pastorale",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "windancer",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "chaconne",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "reflection",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Lament For A Frozen Flower",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "passacaglia",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "hymn to hope",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Anticipation",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Adagio",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Sometimes When It Rains",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Nocturne",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Sleepsong",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "You Raise Me Up",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Songs From A Secret Garden",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "The Promise",
+  "singer": "Secret Garden"
+ },
+ {
+  "title": "Waka Waka (Esto Es África)",
+  "singer": "Shakira"
+ },
+ {
+  "title": "I'm Gonna Getcha Good",
+  "singer": "Shania Twain"
+ },
+ {
+  "title": "The End Of The World",
+  "singer": "Skeeter Davis"
+ },
+ {
+  "title": "Butterfly",
+  "singer": "Smile.DK"
+ },
+ {
+  "title": "Beautiful Ones",
+  "singer": "Suede"
+ },
+ {
+  "title": "Don't You Worry Child",
+  "singer": "Swedish House Mafia"
+ },
+ {
+  "title": "Blanc",
+  "singer": "Sylvain Chauveau"
+ },
+ {
+  "title": "五月天 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "花都开好了",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "美丽新世界 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "波斯猫 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "恋人未满 (Live)",
+  "singer": "S.H.E动力火车"
+ },
+ {
+  "title": "他还是不懂 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "不想长大 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "中国话 (Live)",
+  "singer": "S.H.E"
+ },
+ {
+  "title": "因为你因为我",
+  "singer": "苏芮"
+ },
+ {
+  "title": "牵手",
+  "singer": "苏芮"
+ },
+ {
+  "title": "谁可相依",
+  "singer": "苏芮"
+ },
+ {
+  "title": "奉献",
+  "singer": "苏芮"
+ },
+ {
+  "title": "是否",
+  "singer": "苏芮"
+ },
+ {
+  "title": "跟着感觉走",
+  "singer": "苏芮"
+ },
+ {
+  "title": "亲爱的小孩",
+  "singer": "苏芮"
+ },
+ {
+  "title": "酒干倘卖无",
+  "singer": "苏芮"
+ },
+ {
+  "title": "牵手",
+  "singer": "苏芮"
+ },
+ {
+  "title": "仍然喜欢你",
+  "singer": "孙耀威"
+ },
+ {
+  "title": "爱的故事上集",
+  "singer": "孙耀威"
+ },
+ {
+  "title": "乘虚而入",
+  "singer": "苏永康"
+ },
+ {
+  "title": "有心",
+  "singer": "苏永康田震"
+ },
+ {
+  "title": "我愿等",
+  "singer": "苏永康"
+ },
+ {
+  "title": "我不是爱过就算的人",
+  "singer": "苏永康"
+ },
+ {
+  "title": "有过你",
+  "singer": "苏永康"
+ },
+ {
+  "title": "爱似狂潮",
+  "singer": "苏永康"
+ },
+ {
+  "title": "相遇太早",
+  "singer": "苏永康"
+ },
+ {
+  "title": "我为你伤心",
+  "singer": "苏永康"
+ },
+ {
+  "title": "忘了怎样说我爱你",
+  "singer": "苏永康"
+ },
+ {
+  "title": "爱得正好",
+  "singer": "苏永康陈洁仪"
+ },
+ {
+  "title": "越吻越伤心",
+  "singer": "苏永康"
+ },
+ {
+  "title": "男人不该让女人流泪",
+  "singer": "苏永康"
+ },
+ {
+  "title": "爱一个人好难",
+  "singer": "苏永康"
+ },
+ {
+  "title": "小情歌",
+  "singer": "苏打绿"
+ },
+ {
+  "title": "我好想你",
+  "singer": "苏打绿"
+ },
+ {
+  "title": "闯天涯",
+  "singer": "赵真司徒兰芳"
+ },
+ {
+  "title": "雄鹰",
+  "singer": "孙国庆"
+ },
+ {
+  "title": "咱们的领袖毛泽东",
+  "singer": "孙国庆"
+ },
+ {
+  "title": "篱笆墙的影子",
+  "singer": "孙国庆"
+ },
+ {
+  "title": "篱笆女人和狗",
+  "singer": "孙国庆"
+ },
+ {
+  "title": "伙伴",
+  "singer": "孙悦"
+ },
+ {
+  "title": "心情不错",
+  "singer": "孙悦"
+ },
+ {
+  "title": "大家一起来",
+  "singer": "孙悦"
+ },
+ {
+  "title": "好人好梦",
+  "singer": "孙悦邰正宵"
+ },
+ {
+  "title": "欢乐中国年",
+  "singer": "孙悦"
+ },
+ {
+  "title": "无愧于心",
+  "singer": "孙楠"
+ },
+ {
+  "title": "燃烧",
+  "singer": "孙楠"
+ },
+ {
+  "title": "为江山",
+  "singer": "孙楠"
+ },
+ {
+  "title": "是否爱过我",
+  "singer": "孙楠"
+ },
+ {
+  "title": "红旗飘飘",
+  "singer": "孙楠"
+ },
+ {
+  "title": "不见不散",
+  "singer": "孙楠"
+ },
+ {
+  "title": "缘分的天空",
+  "singer": "孙楠"
+ },
+ {
+  "title": "爱你爱不够",
+  "singer": "孙楠"
+ },
+ {
+  "title": "你快回来",
+  "singer": "孙楠"
+ },
+ {
+  "title": "留什么给你",
+  "singer": "孙楠"
+ },
+ {
+  "title": "风往北吹",
+  "singer": "孙楠"
+ },
+ {
+  "title": "拯救",
+  "singer": "孙楠"
+ },
+ {
+  "title": "只要有你",
+  "singer": "孙楠那英"
+ },
+ {
+  "title": "美丽的神话",
+  "singer": "孙楠韩红"
+ },
+ {
+  "title": "中华民谣",
+  "singer": "孙浩"
+ },
+ {
+  "title": "神奇",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "同类",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "愚人的国度",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "不是真的爱我",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "直来直往",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "第一天",
+  "singer": "孙燕姿阿信 (五月天)"
+ },
+ {
+  "title": "逆光",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "我也很想他",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "眼泪成诗",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "Honey Honey",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "我的爱",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "原点",
+  "singer": "孙燕姿蔡健雅"
+ },
+ {
+  "title": "开始懂了",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "天黑黑",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "绿光",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "我不难过",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "我怀念的",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "遇见",
+  "singer": "孙燕姿"
+ },
+ {
+  "title": "亲爱的姑娘",
+  "singer": "宋晓峰"
+ },
+ {
+  "title": "美丽的心情",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "我的祖国",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "洪湖水浪打浪",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "映山红",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "十送红军",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "茉莉花",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "长大后我就成了你",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "浏阳河",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "蝴蝶泉边",
+  "singer": "宋祖英吕继宏"
+ },
+ {
+  "title": "康定情歌 (Live)",
+  "singer": "宋祖英周杰伦周华健"
+ },
+ {
+  "title": "十八弯水路到我家",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "越来越好",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "好日子",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "辣妹子",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "九九艳阳天",
+  "singer": "宋祖英吕继宏"
+ },
+ {
+  "title": "大地飞歌",
+  "singer": "宋祖英"
+ },
+ {
+  "title": "眼泪花儿把心淹了",
+  "singer": "山水组合"
+ },
+ {
+  "title": "猜",
+  "singer": "斯琴高丽顾峰"
+ },
+ {
+  "title": "犯错",
+  "singer": "斯琴高丽顾峰"
+ },
+ {
+  "title": "拜访春天",
+  "singer": "施孝荣"
+ },
+ {
+  "title": "世界上最美的花",
+  "singer": "水木年华"
+ },
+ {
+  "title": "爱上你我很快乐",
+  "singer": "水木年华"
+ },
+ {
+  "title": "在他乡",
+  "singer": "水木年华"
+ },
+ {
+  "title": "一生有你",
+  "singer": "水木年华"
+ },
+ {
+  "title": "幸福恋人",
+  "singer": "沈丹丹郑源"
+ },
+ {
+  "title": "男人好难",
+  "singer": "沙宝亮黄渤"
+ },
+ {
+  "title": "暗香",
+  "singer": "沙宝亮"
+ },
+ {
+  "title": "雨花石",
+  "singer": "石头李玉刚"
+ },
+ {
+  "title": "郎啊郎",
+  "singer": "索朗扎西"
+ },
+ {
+  "title": "姑娘我爱你",
+  "singer": "索朗扎西"
+ },
+ {
+  "title": "歌在飞",
+  "singer": "苏勒亚其其格"
+ },
+ {
+  "title": "鸭子",
+  "singer": "苏慧伦"
+ },
+ {
+  "title": "大不了",
+  "singer": "苏有朋"
+ },
+ {
+  "title": "爱 (Live)",
+  "singer": "羽泉苏有朋"
+ },
+ {
+  "title": "我只要你爱我",
+  "singer": "苏有朋"
+ },
+ {
+  "title": "真心痴心换你的心",
+  "singer": "苏有朋"
+ },
+ {
+  "title": "背包",
+  "singer": "苏有朋"
+ },
+ {
+  "title": "珍惜",
+  "singer": "苏有朋"
+ },
+ {
+  "title": "萤火虫 (Live)",
+  "singer": "苏运莹"
+ },
+ {
+  "title": "咚吧啦",
+  "singer": "萨顶顶"
+ },
+ {
+  "title": "自由行走的花",
+  "singer": "萨顶顶"
+ },
+ {
+  "title": "万物生",
+  "singer": "萨顶顶"
+ },
+ {
+  "title": "回家",
+  "singer": "顺子"
+ },
+ {
+  "title": "野子 (Live)",
+  "singer": "苏运莹"
+ },
+ {
+  "title": "败家新媳妇儿 (Live)",
+  "singer": "毕福剑苏丹"
+ },
+ {
+  "title": "寂静森林 (Live)",
+  "singer": "苏诗丁"
+ }
+]

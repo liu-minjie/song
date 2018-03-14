@@ -60,7 +60,7 @@
   "singer": "Maksim Mrvica"
  },
  {
-  "title": "The Flight of the Bumble-Bee",
+  "title": "The Flight of the Bumble-Bee (野蜂飞舞)",
   "singer": "Maksim Mrvica"
  },
  {
@@ -384,7 +384,7 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "Music Box Dancer",
+  "title": "Music Box Dancer (音乐盒舞者)",
   "singer": "Richard Clayderman"
  },
  {
@@ -424,7 +424,7 @@
   "singer": "Richard Clayderman"
  },
  {
-  "title": "爱之梦",
+  "title": "爱之梦 (Live)",
   "singer": "Richard Clayderman"
  },
  {

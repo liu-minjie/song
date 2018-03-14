@@ -32,11 +32,11 @@
   "singer": "Maksim Mrvica"
  },
  {
-  "title": "Still Water",
+  "title": "Still Water (澄镜之水)",
   "singer": "Maksim Mrvica"
  },
  {
-  "title": "The Flight of the Bumble-Bee",
+  "title": "The Flight of the Bumble-Bee (野蜂飞舞)",
   "singer": "Maksim Mrvica"
  },
  {

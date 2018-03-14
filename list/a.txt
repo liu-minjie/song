@@ -1,5 +1,9 @@
 [
  {
+  "title": "Sofia",
+  "singer": "Alvaro Soler"
+ },
+ {
   "title": "LaLa Love On My Mind",
   "singer": "Ann Winsborn"
  },
@@ -684,7 +688,7 @@
   "singer": "Andrea Bocelli"
  },
  {
-  "title": "Canto Della Terra",
+  "title": "Canto Della Terra (大地之歌|大地情歌)",
   "singer": "Andrea Bocelli"
  },
  {

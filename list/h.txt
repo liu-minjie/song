@@ -260,7 +260,7 @@
   "singer": "黄凯芹"
  },
  {
-  "title": "那么爱你为什么",
+  "title": "那么爱你为什么 (Live)",
   "singer": "黄品源"
  },
  {
@@ -440,7 +440,7 @@
   "singer": "黑龙"
  },
  {
-  "title": "H.O.T - 幸福",
+  "title": "행복 (Full Of Happiness) (幸福)",
   "singer": "H.O.T."
  },
  {
