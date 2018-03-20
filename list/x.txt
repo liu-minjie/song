@@ -1,0 +1,1106 @@
+[
+ {
+  "title": "每日一禁果 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "寂寞的人有福了 (Live)",
+  "singer": "谢霆锋达明一派"
+ },
+ {
+  "title": "伤心没什么",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "没有E-Mail的日子",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "寂寞捕手",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "片",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "吸",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "女扮男生 (Live)",
+  "singer": "达明一派谢霆锋"
+ },
+ {
+  "title": "欲望号快车",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "今生今世 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "无端端一个人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Viva la Diva (Live)",
+  "singer": "谢霆锋达明一派"
+ },
+ {
+  "title": "初生之犊",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "基本需要",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Your Song (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Come Together (Live)",
+  "singer": "谢霆锋恭硕良"
+ },
+ {
+  "title": "展品五 – 谢霆锋",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "隆重登场 (Live)",
+  "singer": "达明一派谢霆锋"
+ },
+ {
+  "title": "达明一派对 (Live)",
+  "singer": "谢霆锋达明一派"
+ },
+ {
+  "title": "继续唱",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "近视",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "蓝雨 (试听版)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Forget Me Not",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "快",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我的小宇宙",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "I Don't Want To Miss A Thing (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "如果给我一百岁",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "余兴节目",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "了结他",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "双手插袋 + 逃避你 + 曝光 + 你说得对 + 打得火热",
+  "singer": "陈冠希容祖儿谢霆锋陈奕迅"
+ },
+ {
+  "title": "星雅廊",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "给我爱过的女孩们 (Live)",
+  "singer": "达明一派谢霆锋"
+ },
+ {
+  "title": "露西 (Live)",
+  "singer": "达明一派谢霆锋"
+ },
+ {
+  "title": "大路上有微生物",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "青春之最",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "邮寄睡眠",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "没有外套的Angelina",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不稀罕",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "如果你是骗子",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "为你好",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "透视 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "西部大开发",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一个都不能少",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "别管我",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "天公地道",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "纠缠",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "对不起我爱谁 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "好样",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "黑暗时代",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "入口爱情",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "基因改造.阿门",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "庸人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "等 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "对付我",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "怕黑",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱的跷板",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "呆滞",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "万诱引力",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "先发制人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "残酷的爱情实录",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "心底话",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "战",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "继续发育",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "弹开",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "同在蓝色星球上",
+  "singer": "谢霆锋容祖儿"
+ },
+ {
+  "title": "狮子山下",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一一 (Live)",
+  "singer": "达明一派谢霆锋"
+ },
+ {
+  "title": "告密者",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "重生",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "蔓延",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Opening Announcement (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "阿门 (Live)",
+  "singer": "谢霆锋容祖儿"
+ },
+ {
+  "title": "苏三想说",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "后遗",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "恐龙化石",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "最后审判",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "谁哭了",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "400 Gig",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "为你疯狂",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不幸的人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "拾荒蛋糕",
+  "singer": "叶佩雯谢霆锋"
+ },
+ {
+  "title": "想得到得不到",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一毫子",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "所有人是傻",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "别怕",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "第一眼",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "河水倒流",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "好好世界",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "逃离世界",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "撤",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱的逃兵 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "上一次下一次",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "瘟疫",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "小宇宙",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "日月",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "巴斯光年",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "天下不乱",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "下手太重",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "真的爱你 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "暴风飞奔2001",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "勇敢做人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱回来",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "体无完肤",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Tonight (粤语)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "搏击会",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "秋千",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "怕什么",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "黑夜马戏团",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "活该",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "夜光杯",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "讲一千次我爱你",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "多得你少",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "影迷",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "定律",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "孔雀",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "伴我同行",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "你看我看你",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "狼 (粤语)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "烛光",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一不爱以后",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "投降",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "正义大朋友",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "鹰",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我们",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "摇晃",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "欺骗观众",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "I Believe",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "个别意见 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我错了",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "模特儿",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "你情人在哪里",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "无形",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不要刻意改变",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "今天你生日",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "谢谢你等我",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一点红",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "当年情 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "天煞孤星 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "谁比我真",
+  "singer": "泳儿谢霆锋"
+ },
+ {
+  "title": "小强",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Let Me Die",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱没疆界",
+  "singer": "谢霆锋叶佩雯"
+ },
+ {
+  "title": "对你爱不完 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "纸飞机",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "零度寂寞",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "毋忘我",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "让爱一切成空 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "寂寞堂口",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一窝疯",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "别说狠",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "黑夜",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "大海",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "对牛弹琴",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "停电一日",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "同门",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我想飞",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "完美启示录",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "大世界",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不耐烦",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "慌",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "细路",
+  "singer": "谢霆锋陈奕迅"
+ },
+ {
+  "title": "天使",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一厢情愿",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不爱跳舞",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "金刚",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "蒸发",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Senses",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "魔鬼的主意",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Without Me",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "罗生门",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "曝光",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "忍爱",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱在蔓延中《美女与野兽》主题曲",
+  "singer": "谢霆锋梅琳"
+ },
+ {
+  "title": "很难",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "跨过世界的人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "终点站",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "白衣天使",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不是定理",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "回忆是后镜里的公路",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "最爱之后",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "塞车",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "从前以后",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "最快到达的梦",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "给天使看的戏",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "开放日",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "第二世 (独唱版)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "勇者之歌",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "天空这么大",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "短剧",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "冥想",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "拒绝孤独",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "独自去偷欢 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "中国人 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "末世纪的呼声",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱的味道",
+  "singer": "谢霆锋林忆莲"
+ },
+ {
+  "title": "不败的天才",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "成者为王",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "谁明浪子心 + 玉蝴蝶 (Live)",
+  "singer": "王杰谢霆锋"
+ },
+ {
+  "title": "Better Man (Live)",
+  "singer": "谢霆锋陈奕迅"
+ },
+ {
+  "title": "不需要安慰",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "烈女 (Live)",
+  "singer": "谢霆锋达明一派"
+ },
+ {
+  "title": "够了没有",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱",
+  "singer": "谢霆锋蔡卓妍"
+ },
+ {
+  "title": "至少还有你 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我没有",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "如果没有感觉",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "坏习惯",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "可以▪可以吗",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "假天真 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "冰河",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不散",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "放不低 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Making Love Out Of Nothing At All (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "苦海孤雏",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "别来无恙",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "爱最大",
+  "singer": "谢霆锋廿四味"
+ },
+ {
+  "title": "潜龙勿用",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "早知 (粤语)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "未签收 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "启示录",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "漫漫人生路",
+  "singer": "谢霆锋钟镇涛"
+ },
+ {
+  "title": "一了百了",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "如果只得一星期",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "回甘",
+  "singer": "谢霆锋羽泉陈伟霆马苏"
+ },
+ {
+  "title": "黄",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不可一世 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "夜了醉了就想哭",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "光辉岁月 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "点歌",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "旧伤口",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "改造人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我存在",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "Medley：一了百了 + 无声彷有声 + 一击即中 (Live)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "如果一开始你爱上的人是我",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我什么都不是",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我的爱只为了你存在",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "活火山",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "情圣",
+  "singer": "谢霆锋蔡卓妍"
+ },
+ {
+  "title": "异想天开",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "你微笑时好美",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "边走边爱 (粤语)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "一击即中",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "不要说谎",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "让我们走下去",
+  "singer": "谢霆锋容祖儿"
+ },
+ {
+  "title": "锋味",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "罪人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "你不会了解",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "冲破",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "281公里",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "估计错误",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "前前后后左左右右",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "玉蝴蝶",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "今生共相伴 (2000年春晚现场版)",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "我们这里还有鱼",
+  "singer": "谢霆锋游鸿明黄大炜黄中原"
+ },
+ {
+  "title": "爱后余生",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "无声仿有声",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "非走不可",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "只要为你活一天",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "要我怎么忘了他",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "活着Viva",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "香水",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "游乐场",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "有火",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "猪之歌",
+  "singer": "香香"
+ },
+ {
+  "title": "香飘飘",
+  "singer": "香香"
+ },
+ {
+  "title": "味道",
+  "singer": "辛晓琪"
+ },
+ {
+  "title": "领悟",
+  "singer": "辛晓琪"
+ },
+ {
+  "title": "俩俩相忘",
+  "singer": "辛晓琪"
+ },
+ {
+  "title": "女人何苦为难女人",
+  "singer": "辛晓琪"
+ },
+ {
+  "title": "因为爱所以爱",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "谢谢你的爱1999",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "穿越火线",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "黄种人",
+  "singer": "谢霆锋"
+ },
+ {
+  "title": "自己",
+  "singer": "许钧"
+ },
+ {
+  "title": "伤 (新编版)",
+  "singer": "项亚蕻"
+ },
+ {
+  "title": "如果爱死去 (Live)",
+  "singer": "谢晖"
+ }
+]

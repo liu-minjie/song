@@ -1,5 +1,9 @@
 [
  {
+  "title": "长安",
+  "singer": "胡不一"
+ },
+ {
   "title": "Dans les yeux d'une fille",
   "singer": "Hélène Rollès"
  },

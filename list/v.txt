@@ -1,0 +1,122 @@
+[
+ {
+  "title": "Carry On",
+  "singer": "Valencia"
+ },
+ {
+  "title": "Where Do We Go From Here",
+  "singer": "Vanessa Williams"
+ },
+ {
+  "title": "Love Is",
+  "singer": "Brian McKnightVanessa Williams"
+ },
+ {
+  "title": "The Sweetest Days",
+  "singer": "Vanessa Williams"
+ },
+ {
+  "title": "Save The Best For Last",
+  "singer": "Vanessa Williams"
+ },
+ {
+  "title": "Colors Of The Wind",
+  "singer": "Vanessa Williams"
+ },
+ {
+  "title": "Chariots Of Fire",
+  "singer": "Vangelis"
+ },
+ {
+  "title": "Titans",
+  "singer": "Vangelis"
+ },
+ {
+  "title": "Alpha",
+  "singer": "Vangelis"
+ },
+ {
+  "title": "Conquest Of Paradise",
+  "singer": "Vangelis"
+ },
+ {
+  "title": "Kimi Wo Omou Melodi",
+  "singer": "Various Artists"
+ },
+ {
+  "title": "The Seaside of Your Dreams",
+  "singer": "Vasilis Saleas"
+ },
+ {
+  "title": "Kiss (when the Sun Don't Shine)",
+  "singer": "Vengaboys"
+ },
+ {
+  "title": "Shalala Lala",
+  "singer": "Vengaboys"
+ },
+ {
+  "title": "Boom Boom Boom",
+  "singer": "Vengaboys"
+ },
+ {
+  "title": "Despacito (Versión Salsa)",
+  "singer": "Luis FonsiVictor Manuelle"
+ },
+ {
+  "title": "Could This Be Love",
+  "singer": "Victoria Acosta"
+ },
+ {
+  "title": "Waltz Op. 364 Wo Die Zitronen Blühen (Where The Lemon Trees Blossom)",
+  "singer": "Vienna Opera Orchestra"
+ },
+ {
+  "title": "Artists Life Waltz",
+  "singer": "Vienna Opera Orchestra"
+ },
+ {
+  "title": "Y.M.C.A.",
+  "singer": "Village People"
+ },
+ {
+  "title": "Sabre Dance",
+  "singer": "Virgil Fox"
+ },
+ {
+  "title": "Prelude No. 1 In C (From The Well-Tempered Clavier Book I)",
+  "singer": "Virgil Fox"
+ },
+ {
+  "title": "The Marriage Of Figaro Overture",
+  "singer": "Virgil Fox"
+ },
+ {
+  "title": "Prelude No. 1 In C Major (From The Well-Tempered Clavier Book I)",
+  "singer": "Virgil Fox"
+ },
+ {
+  "title": "Звезда",
+  "singer": "Vitas"
+ },
+ {
+  "title": "星星",
+  "singer": "Vitas"
+ },
+ {
+  "title": "Opera 2 (歌剧2)",
+  "singer": "Vitas"
+ },
+ {
+  "title": "Si Seulement Je Pouvais Lui Manquer",
+  "singer": "Vox Angeli"
+ },
+ {
+  "title": "Moonlight Shadow",
+  "singer": "Vox Angeli"
+ },
+ {
+  "title": "New Soul",
+  "singer": "Vox Angeli"
+ }
+]

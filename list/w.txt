@@ -1,0 +1,690 @@
+[
+ {
+  "title": "I Lay My Love On You",
+  "singer": "Westlife"
+ },
+ {
+  "title": "Soledad",
+  "singer": "Westlife"
+ },
+ {
+  "title": "Seasons In The Sun",
+  "singer": "Westlife"
+ },
+ {
+  "title": "Beautiful In White (Demo)",
+  "singer": "Westlife"
+ },
+ {
+  "title": "You Raise Me Up",
+  "singer": "Westlife"
+ },
+ {
+  "title": "Nothing's Gonna Change My Love For You",
+  "singer": "Westlife"
+ },
+ {
+  "title": "My Love",
+  "singer": "Westlife"
+ },
+ {
+  "title": "Last Christmas",
+  "singer": "Wham!"
+ },
+ {
+  "title": "Careless Whisper",
+  "singer": "Wham!"
+ },
+ {
+  "title": "Run to You",
+  "singer": "Whitney Houston"
+ },
+ {
+  "title": "All At Once",
+  "singer": "Whitney Houston"
+ },
+ {
+  "title": "Greatest Love Of All",
+  "singer": "Whitney Houston"
+ },
+ {
+  "title": "Like I Never Left",
+  "singer": "Whitney HoustonAkon"
+ },
+ {
+  "title": "I Have Nothing",
+  "singer": "Whitney Houston"
+ },
+ {
+  "title": "When You Believe",
+  "singer": "Whitney HoustonMariah Carey"
+ },
+ {
+  "title": "I Will Always Love You",
+  "singer": "Whitney Houston"
+ },
+ {
+  "title": "Shot In The Dark",
+  "singer": "Within Temptation"
+ },
+ {
+  "title": "小夜曲",
+  "singer": "Classical Artists"
+ },
+ {
+  "title": "Piano Sonata No. 11 in A Major, K. 331 - III. Rondo \"alla Turca\" - Allegretto \"Turkish March\" (A大调第11号钢琴奏鸣曲，作品331 - 第三乐章 土耳其风格回旋曲 - 小快板 “土耳其进行曲”) (Live)",
+  "singer": "郎朗"
+ },
+ {
+  "title": "Symphony No. 40 In G Minor, K. 550 - I. Molto allegro",
+  "singer": "Herbert von KarajanBerliner Philharmoniker"
+ },
+ {
+  "title": "土耳其进行曲",
+  "singer": "尤大淳"
+ },
+ {
+  "title": "Symphony No. 41 in C Major, K. 551 \"Jupiter\" - I. Allegro vivace (C大调第41号交响曲，作品551 “朱庇特” - 第一乐章 活泼的快板)",
+  "singer": "Gunter WandNDR Symphony Orchestra"
+ },
+ {
+  "title": "新不了情",
+  "singer": "万芳"
+ },
+ {
+  "title": "套马杆",
+  "singer": "乌兰托娅"
+ },
+ {
+  "title": "缘分",
+  "singer": "五月"
+ },
+ {
+  "title": "恋爱ing",
+  "singer": "五月天"
+ },
+ {
+  "title": "离开地球表面",
+  "singer": "五月天"
+ },
+ {
+  "title": "天使",
+  "singer": "五月天"
+ },
+ {
+  "title": "你不是真正的快乐",
+  "singer": "五月天"
+ },
+ {
+  "title": "知足",
+  "singer": "五月天"
+ },
+ {
+  "title": "温柔",
+  "singer": "五月天"
+ },
+ {
+  "title": "倔强",
+  "singer": "五月天"
+ },
+ {
+  "title": "突然好想你",
+  "singer": "五月天"
+ },
+ {
+  "title": "什么歌",
+  "singer": "五月天"
+ },
+ {
+  "title": "梦的河流",
+  "singer": "伍佰"
+ },
+ {
+  "title": "爱你越来越多",
+  "singer": "伍佰"
+ },
+ {
+  "title": "枫叶 (Live)",
+  "singer": "伍佰"
+ },
+ {
+  "title": "钢铁男子",
+  "singer": "伍佰"
+ },
+ {
+  "title": "背叛",
+  "singer": "伍佰"
+ },
+ {
+  "title": "如果这都不算爱 (Live)",
+  "singer": "伍佰"
+ },
+ {
+  "title": "被动 (Live首藏版)",
+  "singer": "伍佰"
+ },
+ {
+  "title": "孤星泪 (Live)",
+  "singer": "伍佰"
+ },
+ {
+  "title": "美丽新世界",
+  "singer": "伍佰"
+ },
+ {
+  "title": "牵挂",
+  "singer": "伍佰"
+ },
+ {
+  "title": "冰雨",
+  "singer": "伍佰"
+ },
+ {
+  "title": "一生最爱的人",
+  "singer": "伍佰"
+ },
+ {
+  "title": "与你到永久",
+  "singer": "伍佰"
+ },
+ {
+  "title": "白鸽",
+  "singer": "伍佰"
+ },
+ {
+  "title": "爱你一万年",
+  "singer": "伍佰"
+ },
+ {
+  "title": "晚风",
+  "singer": "伍佰"
+ },
+ {
+  "title": "痛哭的人",
+  "singer": "伍佰"
+ },
+ {
+  "title": "世界第一等",
+  "singer": "伍佰"
+ },
+ {
+  "title": "浪人情歌",
+  "singer": "伍佰"
+ },
+ {
+  "title": "挪威的森林",
+  "singer": "伍佰"
+ },
+ {
+  "title": "突然的自我",
+  "singer": "伍佰China Blue"
+ },
+ {
+  "title": "特别的爱给特别的你",
+  "singer": "伍思凯"
+ },
+ {
+  "title": "大舌头",
+  "singer": "吴克群"
+ },
+ {
+  "title": "将军令",
+  "singer": "吴克群"
+ },
+ {
+  "title": "祝你一路顺风",
+  "singer": "吴奇隆"
+ },
+ {
+  "title": "窗外",
+  "singer": "吴宗宪"
+ },
+ {
+  "title": "屋顶",
+  "singer": "吴宗宪温岚"
+ },
+ {
+  "title": "是不是这样的夜晚你才会这样的想起我",
+  "singer": "吴宗宪"
+ },
+ {
+  "title": "越难越爱 (粤语)",
+  "singer": "吴若希"
+ },
+ {
+  "title": "大雨",
+  "singer": "娃娃"
+ },
+ {
+  "title": "漂洋过海来看你",
+  "singer": "娃娃"
+ },
+ {
+  "title": "让我跟你走",
+  "singer": "彭羚巫启贤"
+ },
+ {
+  "title": "团圆",
+  "singer": "巫启贤"
+ },
+ {
+  "title": "爱那么重",
+  "singer": "巫启贤"
+ },
+ {
+  "title": "等你等到我心痛",
+  "singer": "巫启贤"
+ },
+ {
+  "title": "想着你的感觉",
+  "singer": "巫启贤高胜美"
+ },
+ {
+  "title": "我没有钱我不要脸",
+  "singer": "巫启贤"
+ },
+ {
+  "title": "太傻",
+  "singer": "巫启贤"
+ },
+ {
+  "title": "多心",
+  "singer": "无印良品"
+ },
+ {
+  "title": "想见你",
+  "singer": "无印良品"
+ },
+ {
+  "title": "掌心",
+  "singer": "无印良品"
+ },
+ {
+  "title": "一起摇摆",
+  "singer": "汪峰"
+ },
+ {
+  "title": "存在",
+  "singer": "汪峰"
+ },
+ {
+  "title": "无处安放",
+  "singer": "汪峰"
+ },
+ {
+  "title": "飞得更高",
+  "singer": "汪峰"
+ },
+ {
+  "title": "光明",
+  "singer": "汪峰"
+ },
+ {
+  "title": "勇敢的心",
+  "singer": "汪峰"
+ },
+ {
+  "title": "北京北京",
+  "singer": "汪峰"
+ },
+ {
+  "title": "春天里",
+  "singer": "汪峰"
+ },
+ {
+  "title": "当我想你的时候",
+  "singer": "汪峰"
+ },
+ {
+  "title": "怒放的生命",
+  "singer": "汪峰"
+ },
+ {
+  "title": "万水千山总是情",
+  "singer": "汪明荃"
+ },
+ {
+  "title": "超越梦想",
+  "singer": "汪正正"
+ },
+ {
+  "title": "有点甜",
+  "singer": "汪苏泷BY2"
+ },
+ {
+  "title": "借口",
+  "singer": "温兆伦"
+ },
+ {
+  "title": "正义柔情永在",
+  "singer": "陈松伶温兆伦"
+ },
+ {
+  "title": "天地情缘",
+  "singer": "温兆伦"
+ },
+ {
+  "title": "说谎",
+  "singer": "温兆伦"
+ },
+ {
+  "title": "随缘",
+  "singer": "温兆伦"
+ },
+ {
+  "title": "飞舞",
+  "singer": "王冰洋"
+ },
+ {
+  "title": "心中的日月",
+  "singer": "王力宏"
+ },
+ {
+  "title": "Forever Love",
+  "singer": "王力宏"
+ },
+ {
+  "title": "Kiss Goodbye",
+  "singer": "王力宏"
+ },
+ {
+  "title": "一首简单的歌",
+  "singer": "王力宏"
+ },
+ {
+  "title": "唯一 (国语)",
+  "singer": "王力宏"
+ },
+ {
+  "title": "龙的传人",
+  "singer": "王力宏"
+ },
+ {
+  "title": "另一个天堂",
+  "singer": "王力宏张靓颖"
+ },
+ {
+  "title": "心跳",
+  "singer": "王力宏"
+ },
+ {
+  "title": "你是我心内的一首歌",
+  "singer": "王力宏Selina"
+ },
+ {
+  "title": "爱的就是你 (浪漫版)",
+  "singer": "王力宏"
+ },
+ {
+  "title": "需要人陪",
+  "singer": "王力宏"
+ },
+ {
+  "title": "改变自己",
+  "singer": "王力宏"
+ },
+ {
+  "title": "你不知道的事",
+  "singer": "王力宏"
+ },
+ {
+  "title": "我们的歌",
+  "singer": "王力宏"
+ },
+ {
+  "title": "大城小爱",
+  "singer": "王力宏"
+ },
+ {
+  "title": "好心分手",
+  "singer": "王力宏卢巧音"
+ },
+ {
+  "title": "在人间",
+  "singer": "王建房"
+ },
+ {
+  "title": "花儿爱上忘情草",
+  "singer": "王强"
+ },
+ {
+  "title": "不想让你哭",
+  "singer": "王强"
+ },
+ {
+  "title": "秋天不回来",
+  "singer": "王强"
+ },
+ {
+  "title": "我会好好的",
+  "singer": "王心凌"
+ },
+ {
+  "title": "睫毛弯弯",
+  "singer": "王心凌"
+ },
+ {
+  "title": "爱你",
+  "singer": "王心凌"
+ },
+ {
+  "title": "当你",
+  "singer": "王心凌"
+ },
+ {
+  "title": "第一次爱的人",
+  "singer": "王心凌"
+ },
+ {
+  "title": "再见吧 喵小姐 (Live)",
+  "singer": "王晓天"
+ },
+ {
+  "title": "我",
+  "singer": "王杰"
+ },
+ {
+  "title": "祈祷",
+  "singer": "王杰王韵婵"
+ },
+ {
+  "title": "回家",
+  "singer": "王杰"
+ },
+ {
+  "title": "心痛",
+  "singer": "王杰"
+ },
+ {
+  "title": "她的背影",
+  "singer": "王杰"
+ },
+ {
+  "title": "英雄泪",
+  "singer": "王杰"
+ },
+ {
+  "title": "一无所有",
+  "singer": "王杰"
+ },
+ {
+  "title": "伤心1999",
+  "singer": "王杰"
+ },
+ {
+  "title": "忘了你忘了我",
+  "singer": "王杰"
+ },
+ {
+  "title": "安妮",
+  "singer": "王杰"
+ },
+ {
+  "title": "是否我真的一无所有",
+  "singer": "王杰"
+ },
+ {
+  "title": "一场游戏一场梦",
+  "singer": "王杰"
+ },
+ {
+  "title": "谁明浪子心",
+  "singer": "王杰"
+ },
+ {
+  "title": "不浪漫罪名",
+  "singer": "王杰"
+ },
+ {
+  "title": "康定情歌",
+  "singer": "王洛宾"
+ },
+ {
+  "title": "青春舞曲",
+  "singer": "王洛宾李毓敏"
+ },
+ {
+  "title": "掀起你的盖头来",
+  "singer": "王洛宾"
+ },
+ {
+  "title": "达坂城的姑娘",
+  "singer": "王洛宾"
+ },
+ {
+  "title": "在那遥远的地方",
+  "singer": "王洛宾"
+ },
+ {
+  "title": "丫头",
+  "singer": "王童语"
+ },
+ {
+  "title": "我们都是好孩子",
+  "singer": "王筝"
+ },
+ {
+  "title": "迷魂记",
+  "singer": "王菲"
+ },
+ {
+  "title": "因为爱情 (Live)",
+  "singer": "陈奕迅王菲"
+ },
+ {
+  "title": "棋子",
+  "singer": "王菲"
+ },
+ {
+  "title": "给自己的情书",
+  "singer": "王菲"
+ },
+ {
+  "title": "我愿意 (管弦乐版)",
+  "singer": "王菲"
+ },
+ {
+  "title": "清风徐来",
+  "singer": "王菲"
+ },
+ {
+  "title": "但愿人长久",
+  "singer": "王菲"
+ },
+ {
+  "title": "流年",
+  "singer": "王菲"
+ },
+ {
+  "title": "暧昧",
+  "singer": "王菲"
+ },
+ {
+  "title": "笑忘书",
+  "singer": "王菲"
+ },
+ {
+  "title": "相约一九九八",
+  "singer": "王菲那英"
+ },
+ {
+  "title": "人间",
+  "singer": "王菲"
+ },
+ {
+  "title": "传奇",
+  "singer": "王菲"
+ },
+ {
+  "title": "红豆",
+  "singer": "王菲"
+ },
+ {
+  "title": "匆匆那年",
+  "singer": "王菲"
+ },
+ {
+  "title": "时间都去哪儿了",
+  "singer": "王铮亮"
+ },
+ {
+  "title": "只是没有如果",
+  "singer": "张靓颖王铮亮"
+ },
+ {
+  "title": "别问我是谁",
+  "singer": "王馨平"
+ },
+ {
+  "title": "风景旧曾谙",
+  "singer": "韦礼安郭静"
+ },
+ {
+  "title": "最美的情缘",
+  "singer": "魏新雨"
+ },
+ {
+  "title": "恋人心",
+  "singer": "魏新雨"
+ },
+ {
+  "title": "Evergreen",
+  "singer": "Westlife"
+ },
+ {
+  "title": "See You Again",
+  "singer": "Wiz KhalifaCharlie Puth"
+ },
+ {
+  "title": "她妈妈不喜欢我",
+  "singer": "王矜霖"
+ },
+ {
+  "title": "如果爱死去 (Live)",
+  "singer": "谢晖"
+ },
+ {
+  "title": "灯火",
+  "singer": "吴极"
+ },
+ {
+  "title": "城堡 (Live)",
+  "singer": "王飞"
+ },
+ {
+  "title": "再见吧 喵小姐 (Live)",
+  "singer": "王晓天"
+ },
+ {
+  "title": "荣耀",
+  "singer": "王晓天"
+ },
+ {
+  "title": "她",
+  "singer": "王思远"
+ },
+ {
+  "title": "谁让你流泪",
+  "singer": "吴建豪"
+ }
+]

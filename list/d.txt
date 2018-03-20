@@ -1,5 +1,13 @@
 [
  {
+  "title": "春景色 (春景色)",
+  "singer": "渡边雅二 (MASAJI WATANABE)"
+ },
+ {
+  "title": "追憶",
+  "singer": "渡边雅二 (MASAJI WATANABE)"
+ },
+ {
   "title": "Five More Hours",
   "singer": "DeorroChris Brown"
  },

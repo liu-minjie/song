@@ -1,0 +1,30 @@
+[
+ {
+  "title": "I Like Chopin",
+  "singer": "Udo Jürgens"
+ },
+ {
+  "title": "Ich war noch niemals in New York",
+  "singer": "Udo Jürgens"
+ },
+ {
+  "title": "Cats In The Cradle",
+  "singer": "Ugly Kid Joe"
+ },
+ {
+  "title": "It Could Have Been (Es Waere Schoen Gewesen)",
+  "singer": "Ulli Bogershausen"
+ },
+ {
+  "title": "Eyes of Illusion",
+  "singer": "UltraHype"
+ },
+ {
+  "title": "Unstoppable",
+  "singer": "The Score"
+ },
+ {
+  "title": "Tsugaru (津轻三味)",
+  "singer": "Uttara-Kuru"
+ }
+]
