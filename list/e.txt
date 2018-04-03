@@ -60,7 +60,7 @@
   "singer": "The Philadelphia OrchestraEugene Ormandy"
  },
  {
-  "title": "Palladio (帕拉迪奥)",
+  "title": "Palladio (守护神)",
   "singer": "Escala"
  },
  {

@@ -1,5 +1,17 @@
 [
  {
+  "title": "Serenity",
+  "singer": "Capo Productions"
+ },
+ {
+  "title": "问情",
+  "singer": "蔡幸娟"
+ },
+ {
+  "title": "一支金钗续前缘",
+  "singer": "新白娘子传奇"
+ },
+ {
   "title": "There’s A Kind Of Hush",
   "singer": "Carpenters"
  },

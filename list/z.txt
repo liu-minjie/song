@@ -1,0 +1,1746 @@
+[
+ {
+  "title": "暖风",
+  "singer": "周传雄"
+ },
+ {
+  "title": "再见北极雪",
+  "singer": "周传雄陈慧琳"
+ },
+ {
+  "title": "末班车",
+  "singer": "周传雄"
+ },
+ {
+  "title": "花香",
+  "singer": "周传雄"
+ },
+ {
+  "title": "记事本",
+  "singer": "周传雄"
+ },
+ {
+  "title": "出卖",
+  "singer": "周传雄"
+ },
+ {
+  "title": "蓝色土耳其",
+  "singer": "周传雄"
+ },
+ {
+  "title": "青花",
+  "singer": "周传雄"
+ },
+ {
+  "title": "男人海洋",
+  "singer": "周传雄"
+ },
+ {
+  "title": "我的心太乱",
+  "singer": "周传雄"
+ },
+ {
+  "title": "寂寞沙洲冷",
+  "singer": "周传雄"
+ },
+ {
+  "title": "关不上的窗",
+  "singer": "周传雄"
+ },
+ {
+  "title": "黄昏",
+  "singer": "周传雄"
+ },
+ {
+  "title": "真的好想你",
+  "singer": "周冰倩"
+ },
+ {
+  "title": "应该",
+  "singer": "周华健"
+ },
+ {
+  "title": "新天长地久之男大当恋女大当爱 (Live)",
+  "singer": "周华健"
+ },
+ {
+  "title": "等我一秒钟",
+  "singer": "周华健"
+ },
+ {
+  "title": "今夜该有的心情",
+  "singer": "周华健"
+ },
+ {
+  "title": "健忘",
+  "singer": "周华健"
+ },
+ {
+  "title": "现在才说我爱你",
+  "singer": "周华健"
+ },
+ {
+  "title": "爱情路",
+  "singer": "周华健"
+ },
+ {
+  "title": "月光光",
+  "singer": "周华健"
+ },
+ {
+  "title": "疏远",
+  "singer": "周华健"
+ },
+ {
+  "title": "感动",
+  "singer": "张卫健周华健"
+ },
+ {
+  "title": "我们不哭",
+  "singer": "周华健"
+ },
+ {
+  "title": "何必",
+  "singer": "周华健"
+ },
+ {
+  "title": "我站在全世界的屋顶",
+  "singer": "周华健"
+ },
+ {
+  "title": "旧伤新痕",
+  "singer": "周华健"
+ },
+ {
+  "title": "送你回家",
+  "singer": "周华健"
+ },
+ {
+  "title": "我的情歌",
+  "singer": "周华健"
+ },
+ {
+  "title": "为爱情受伤",
+  "singer": "周华健"
+ },
+ {
+  "title": "海角天涯",
+  "singer": "周华健"
+ },
+ {
+  "title": "何时梦醒",
+  "singer": "周华健李度"
+ },
+ {
+  "title": "身在梁山",
+  "singer": "周华健"
+ },
+ {
+  "title": "谁叫我",
+  "singer": "周华健"
+ },
+ {
+  "title": "的确比他好",
+  "singer": "周华健"
+ },
+ {
+  "title": "终于",
+  "singer": "周华健"
+ },
+ {
+  "title": "情深为谁",
+  "singer": "周华健"
+ },
+ {
+  "title": "寂寞的眼",
+  "singer": "周华健"
+ },
+ {
+  "title": "小天堂",
+  "singer": "周华健"
+ },
+ {
+  "title": "不可能是不可能的事",
+  "singer": "周华健苏慧伦"
+ },
+ {
+  "title": "伤心的歌",
+  "singer": "周华健"
+ },
+ {
+  "title": "你在我心里面",
+  "singer": "周华健"
+ },
+ {
+  "title": "难兄难弟",
+  "singer": "周华健杜德伟"
+ },
+ {
+  "title": "泼墨",
+  "singer": "周华健张大春"
+ },
+ {
+  "title": "不愿一个人",
+  "singer": "周华健"
+ },
+ {
+  "title": "南泥湾",
+  "singer": "周华健"
+ },
+ {
+  "title": "寡妇村传奇",
+  "singer": "周华健"
+ },
+ {
+  "title": "最后圆舞曲",
+  "singer": "周华健"
+ },
+ {
+  "title": "在云端",
+  "singer": "周华健"
+ },
+ {
+  "title": "痛苦过",
+  "singer": "周华健莫文蔚"
+ },
+ {
+  "title": "心的方向",
+  "singer": "周华健"
+ },
+ {
+  "title": "再爱我吧",
+  "singer": "周华健"
+ },
+ {
+  "title": "浓情化不开",
+  "singer": "周华健"
+ },
+ {
+  "title": "唱我的歌 (Live)",
+  "singer": "刘欢蔡健雅周华健羽泉"
+ },
+ {
+  "title": "我是真的付出我的爱",
+  "singer": "周华健"
+ },
+ {
+  "title": "纹身 (Live)",
+  "singer": "周华健"
+ },
+ {
+  "title": "海阔天空",
+  "singer": "周华健"
+ },
+ {
+  "title": "有故事的人",
+  "singer": "周华健"
+ },
+ {
+  "title": "你现在还好吗",
+  "singer": "周华健"
+ },
+ {
+  "title": "我是明星",
+  "singer": "周华健"
+ },
+ {
+  "title": "若不是因为你",
+  "singer": "周华健"
+ },
+ {
+  "title": "来自你.来自我.来自他 (Live)",
+  "singer": "罗大佑赵传李宗盛周华健"
+ },
+ {
+  "title": "怎么了",
+  "singer": "周华健"
+ },
+ {
+  "title": "怕黑",
+  "singer": "周华健"
+ },
+ {
+  "title": "难以抗拒",
+  "singer": "周华健李度"
+ },
+ {
+  "title": "花旦",
+  "singer": "周华健"
+ },
+ {
+  "title": "少年强",
+  "singer": "成龙周华健"
+ },
+ {
+  "title": "上上签",
+  "singer": "周华健"
+ },
+ {
+  "title": "别傻了",
+  "singer": "周华健任贤齐"
+ },
+ {
+  "title": "鬼迷心窍",
+  "singer": "周华健"
+ },
+ {
+  "title": "难说再见",
+  "singer": "成龙刘欢刘德华周华健"
+ },
+ {
+  "title": "刀剑若梦 (粤语)",
+  "singer": "周华健"
+ },
+ {
+  "title": "真心英雄 (Live)",
+  "singer": "胡歌靳东李宗盛周华健"
+ },
+ {
+  "title": "明天我要嫁给你",
+  "singer": "周华健"
+ },
+ {
+  "title": "雨人",
+  "singer": "周华健"
+ },
+ {
+  "title": "一起吃苦的幸福",
+  "singer": "周华健"
+ },
+ {
+  "title": "妙手空空",
+  "singer": "成龙周华健张震岳"
+ },
+ {
+  "title": "江湖笑",
+  "singer": "周华健黄晓明胡军小虫"
+ },
+ {
+  "title": "忘忧草",
+  "singer": "周华健"
+ },
+ {
+  "title": "最近比较烦",
+  "singer": "周华健品冠李宗盛"
+ },
+ {
+  "title": "最真的梦",
+  "singer": "周华健"
+ },
+ {
+  "title": "孤枕难眠",
+  "singer": "周华健"
+ },
+ {
+  "title": "亲亲我的宝贝",
+  "singer": "周华健"
+ },
+ {
+  "title": "爱相随",
+  "singer": "周华健"
+ },
+ {
+  "title": "天下有情人",
+  "singer": "周华健齐豫"
+ },
+ {
+  "title": "其实不想走",
+  "singer": "周华健"
+ },
+ {
+  "title": "刀剑如梦 (国语)",
+  "singer": "周华健"
+ },
+ {
+  "title": "让我欢喜让我忧",
+  "singer": "周华健"
+ },
+ {
+  "title": "花心",
+  "singer": "周华健"
+ },
+ {
+  "title": "有没有一首歌会让你想起我",
+  "singer": "周华健"
+ },
+ {
+  "title": "风雨无阻",
+  "singer": "周华健"
+ },
+ {
+  "title": "朋友",
+  "singer": "周华健"
+ },
+ {
+  "title": "难念的经",
+  "singer": "周华健"
+ },
+ {
+  "title": "痴心换情深",
+  "singer": "周慧敏"
+ },
+ {
+  "title": "最后的战役",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "蜗牛 (Live)",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "爱在西元前",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "星晴",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "借口",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "半岛铁盒",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "退后",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "珊瑚海",
+  "singer": "周杰伦梁心颐"
+ },
+ {
+  "title": "搁浅",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "菊花台",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "发如雪",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "龙卷风",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "东风破",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "听妈妈的话",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "甜甜的",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "夜曲",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "安静",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "七里香",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "简单爱",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "青花瓷",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "告白气球",
+  "singer": "周杰伦"
+ },
+ {
+  "title": "为你执着 (Album Version)",
+  "singer": "周渝民"
+ },
+ {
+  "title": "Make A Wish",
+  "singer": "周渝民"
+ },
+ {
+  "title": "最特别的存在 (Album Version)",
+  "singer": "周渝民"
+ },
+ {
+  "title": "笔记 (Live)",
+  "singer": "周笔畅"
+ },
+ {
+  "title": "岁月神偷",
+  "singer": "周笔畅"
+ },
+ {
+  "title": "最美的期待",
+  "singer": "周笔畅"
+ },
+ {
+  "title": "约定",
+  "singer": "周蕙"
+ },
+ {
+  "title": "看海",
+  "singer": "周迅"
+ },
+ {
+  "title": "飘摇",
+  "singer": "周迅"
+ },
+ {
+  "title": "似夜流月",
+  "singer": "宗次郎 (そうじろう)"
+ },
+ {
+  "title": "いつも何度でも (永远同在)",
+  "singer": "宗次郎 (そうじろう)"
+ },
+ {
+  "title": "故乡的原风景",
+  "singer": "宗次郎 (そうじろう)"
+ },
+ {
+  "title": "纠缠 (二胡独奏)",
+  "singer": "左宏元"
+ },
+ {
+  "title": "望儿面",
+  "singer": "左宏元庄蕙茹"
+ },
+ {
+  "title": "白素贞",
+  "singer": "左宏元"
+ },
+ {
+  "title": "踏青 采茶",
+  "singer": "左宏元"
+ },
+ {
+  "title": "情与法",
+  "singer": "左宏元"
+ },
+ {
+  "title": "神仙歌",
+  "singer": "张真吕祯晃尤景仰左宏元"
+ },
+ {
+  "title": "前世今生",
+  "singer": "左宏元"
+ },
+ {
+  "title": "幻化人形 蛾眉上香 青城山下白素贞 四句箴言",
+  "singer": "左宏元庄蕙茹"
+ },
+ {
+  "title": "天也不懂情",
+  "singer": "左宏元"
+ },
+ {
+  "title": "渡情",
+  "singer": "左宏元张慧清"
+ },
+ {
+  "title": "再见只是陌生人",
+  "singer": "庄心妍"
+ },
+ {
+  "title": "万事如意",
+  "singer": "张也"
+ },
+ {
+  "title": "天大地大",
+  "singer": "郑少秋"
+ },
+ {
+  "title": "下一个永远",
+  "singer": "张信哲"
+ },
+ {
+  "title": "到处留情",
+  "singer": "张信哲"
+ },
+ {
+  "title": "我好想",
+  "singer": "张信哲"
+ },
+ {
+  "title": "错过你错过爱",
+  "singer": "张信哲于台烟"
+ },
+ {
+  "title": "爱转动",
+  "singer": "张信哲庾澄庆"
+ },
+ {
+  "title": "找钥匙",
+  "singer": "张信哲"
+ },
+ {
+  "title": "爱情余味",
+  "singer": "张信哲"
+ },
+ {
+  "title": "忘情忘爱",
+  "singer": "张信哲"
+ },
+ {
+  "title": "直觉",
+  "singer": "张信哲"
+ },
+ {
+  "title": "不做你的爱人",
+  "singer": "张信哲"
+ },
+ {
+  "title": "某某某",
+  "singer": "张信哲"
+ },
+ {
+  "title": "难以抗拒你的容颜 (前半 Live)",
+  "singer": "张信哲"
+ },
+ {
+  "title": "回来",
+  "singer": "张信哲"
+ },
+ {
+  "title": "爱不留",
+  "singer": "张信哲"
+ },
+ {
+  "title": "让我忘记你的脸",
+  "singer": "张信哲"
+ },
+ {
+  "title": "逃生",
+  "singer": "张信哲"
+ },
+ {
+  "title": "爱已成风",
+  "singer": "张信哲"
+ },
+ {
+  "title": "我们爱这个错",
+  "singer": "张信哲"
+ },
+ {
+  "title": "曾经爱过",
+  "singer": "张信哲"
+ },
+ {
+  "title": "不会让你后悔",
+  "singer": "张信哲"
+ },
+ {
+  "title": "宽容",
+  "singer": "张信哲"
+ },
+ {
+  "title": "用情",
+  "singer": "张信哲"
+ },
+ {
+  "title": "做你的男人",
+  "singer": "张信哲"
+ },
+ {
+  "title": "说谎",
+  "singer": "张信哲"
+ },
+ {
+  "title": "别让情两难",
+  "singer": "范文芳张信哲"
+ },
+ {
+  "title": "白月光 (Live)",
+  "singer": "张碧晨张信哲"
+ },
+ {
+  "title": "不要对他说",
+  "singer": "张信哲"
+ },
+ {
+  "title": "I Believe",
+  "singer": "张信哲"
+ },
+ {
+  "title": "我是真的爱你",
+  "singer": "张信哲"
+ },
+ {
+  "title": "太想爱你 (Live)",
+  "singer": "张信哲"
+ },
+ {
+  "title": "难以抗拒你容颜",
+  "singer": "张信哲"
+ },
+ {
+  "title": "从开始到现在",
+  "singer": "张信哲"
+ },
+ {
+  "title": "爱就一个字",
+  "singer": "张信哲"
+ },
+ {
+  "title": "信仰 (Live)",
+  "singer": "张信哲"
+ },
+ {
+  "title": "有一点动心",
+  "singer": "张信哲刘嘉玲"
+ },
+ {
+  "title": "过火 (Live)",
+  "singer": "张信哲"
+ },
+ {
+  "title": "别怕我伤心",
+  "singer": "张信哲"
+ },
+ {
+  "title": "爱如潮水",
+  "singer": "张信哲"
+ },
+ {
+  "title": "高高在下 (国语)",
+  "singer": "刘德华张卫健"
+ },
+ {
+  "title": "少年梦",
+  "singer": "张卫健"
+ },
+ {
+  "title": "一辈子一场梦",
+  "singer": "张卫健"
+ },
+ {
+  "title": "你爱我像谁",
+  "singer": "张卫健"
+ },
+ {
+  "title": "共同渡过",
+  "singer": "张国荣"
+ },
+ {
+  "title": "风再起时",
+  "singer": "张国荣"
+ },
+ {
+  "title": "我 (国语)",
+  "singer": "张国荣"
+ },
+ {
+  "title": "风继续吹",
+  "singer": "张国荣"
+ },
+ {
+  "title": "当年情",
+  "singer": "张国荣"
+ },
+ {
+  "title": "倩女幽魂",
+  "singer": "张国荣"
+ },
+ {
+  "title": "当爱已成往事",
+  "singer": "张国荣"
+ },
+ {
+  "title": "沉默是金",
+  "singer": "张国荣"
+ },
+ {
+  "title": "潮水的诺言",
+  "singer": "张学友"
+ },
+ {
+  "title": "壮志骄阳",
+  "singer": "张学友"
+ },
+ {
+  "title": "不老的传说",
+  "singer": "张学友"
+ },
+ {
+  "title": "这个冬天不太冷",
+  "singer": "张学友"
+ },
+ {
+  "title": "只有你不知道",
+  "singer": "张学友"
+ },
+ {
+  "title": "结束不是我要的结果",
+  "singer": "张学友"
+ },
+ {
+  "title": "轻抚你的脸",
+  "singer": "张学友"
+ },
+ {
+  "title": "道道道",
+  "singer": "张学友"
+ },
+ {
+  "title": "偷心",
+  "singer": "张学友"
+ },
+ {
+  "title": "停格 (试听版)",
+  "singer": "张学友"
+ },
+ {
+  "title": "爱和承诺",
+  "singer": "张学友陈慧娴"
+ },
+ {
+  "title": "忘了哭",
+  "singer": "张学友"
+ },
+ {
+  "title": "Corazon de Melao",
+  "singer": "张学友"
+ },
+ {
+  "title": "别问",
+  "singer": "张学友"
+ },
+ {
+  "title": "如果·爱",
+  "singer": "张学友"
+ },
+ {
+  "title": "情系半生",
+  "singer": "张学友"
+ },
+ {
+  "title": "谁是大英雄",
+  "singer": "张学友"
+ },
+ {
+  "title": "咖啡",
+  "singer": "张学友"
+ },
+ {
+  "title": "蓝雨",
+  "singer": "张学友"
+ },
+ {
+  "title": "还是觉得你最好",
+  "singer": "张学友"
+ },
+ {
+  "title": "爱是永恒 (粤语)",
+  "singer": "张学友"
+ },
+ {
+  "title": "心碎了无痕",
+  "singer": "张学友"
+ },
+ {
+  "title": "你好毒",
+  "singer": "张学友"
+ },
+ {
+  "title": "对你的爱越深就越来越心痛",
+  "singer": "张学友"
+ },
+ {
+  "title": "离开以后",
+  "singer": "张学友"
+ },
+ {
+  "title": "爱得比你深",
+  "singer": "张学友"
+ },
+ {
+  "title": "每次都想呼喊你的名字",
+  "singer": "张学友"
+ },
+ {
+  "title": "忘情冷雨夜",
+  "singer": "张学友"
+ },
+ {
+  "title": "烦恼歌",
+  "singer": "张学友"
+ },
+ {
+  "title": "我等到花儿也谢了 (国语)",
+  "singer": "张学友"
+ },
+ {
+  "title": "想和你去吹吹风",
+  "singer": "张学友"
+ },
+ {
+  "title": "情网",
+  "singer": "张学友"
+ },
+ {
+  "title": "祝福",
+  "singer": "张学友"
+ },
+ {
+  "title": "只愿一生爱一人",
+  "singer": "张学友"
+ },
+ {
+  "title": "相爱很难",
+  "singer": "张学友梅艳芳"
+ },
+ {
+  "title": "秋意浓",
+  "singer": "张学友"
+ },
+ {
+  "title": "每天爱你多一些",
+  "singer": "张学友"
+ },
+ {
+  "title": "李香兰",
+  "singer": "张学友"
+ },
+ {
+  "title": "情书",
+  "singer": "张学友"
+ },
+ {
+  "title": "夕阳醉了",
+  "singer": "张学友"
+ },
+ {
+  "title": "旧情绵绵",
+  "singer": "张学友"
+ },
+ {
+  "title": "回头太难",
+  "singer": "张学友"
+ },
+ {
+  "title": "心如刀割",
+  "singer": "张学友"
+ },
+ {
+  "title": "忘记你我做不到",
+  "singer": "张学友"
+ },
+ {
+  "title": "她来听我的演唱会",
+  "singer": "张学友"
+ },
+ {
+  "title": "相思风雨中",
+  "singer": "张学友汤宝如"
+ },
+ {
+  "title": "我真的受伤了",
+  "singer": "张学友"
+ },
+ {
+  "title": "你最珍贵",
+  "singer": "张学友高慧君"
+ },
+ {
+  "title": "等你等到我心痛",
+  "singer": "张学友"
+ },
+ {
+  "title": "一路上有你",
+  "singer": "张学友"
+ },
+ {
+  "title": "饿狼传说",
+  "singer": "张学友"
+ },
+ {
+  "title": "遥远的她 (粤语)",
+  "singer": "张学友"
+ },
+ {
+  "title": "一千个伤心的理由",
+  "singer": "张学友"
+ },
+ {
+  "title": "吻别",
+  "singer": "张学友"
+ },
+ {
+  "title": "只想一生跟你走",
+  "singer": "张学友"
+ },
+ {
+  "title": "慢慢",
+  "singer": "张学友"
+ },
+ {
+  "title": "如果这都不算爱",
+  "singer": "张学友"
+ },
+ {
+  "title": "沙漠海",
+  "singer": "张宇"
+ },
+ {
+  "title": "爱情条约",
+  "singer": "张宇"
+ },
+ {
+  "title": "消息",
+  "singer": "张宇"
+ },
+ {
+  "title": "替身",
+  "singer": "张宇"
+ },
+ {
+  "title": "伞下",
+  "singer": "张宇"
+ },
+ {
+  "title": "情有独钟",
+  "singer": "张宇"
+ },
+ {
+  "title": "回心转意",
+  "singer": "张宇"
+ },
+ {
+  "title": "单恋一枝花",
+  "singer": "张宇"
+ },
+ {
+  "title": "走样",
+  "singer": "张宇"
+ },
+ {
+  "title": "回头太难",
+  "singer": "张宇"
+ },
+ {
+  "title": "心术",
+  "singer": "张宇"
+ },
+ {
+  "title": "一个人的天荒地老",
+  "singer": "张宇"
+ },
+ {
+  "title": "大女人",
+  "singer": "张宇"
+ },
+ {
+  "title": "囚鸟",
+  "singer": "张宇"
+ },
+ {
+  "title": "男人的好",
+  "singer": "张宇"
+ },
+ {
+  "title": "一言难尽",
+  "singer": "张宇"
+ },
+ {
+  "title": "小小的太阳",
+  "singer": "张宇"
+ },
+ {
+  "title": "用心良苦",
+  "singer": "张宇"
+ },
+ {
+  "title": "曲终人散",
+  "singer": "张宇"
+ },
+ {
+  "title": "趁早 (2005版)",
+  "singer": "张宇"
+ },
+ {
+  "title": "月亮惹的祸",
+  "singer": "张宇"
+ },
+ {
+  "title": "雨一直下",
+  "singer": "张宇"
+ },
+ {
+  "title": "给你们",
+  "singer": "张宇"
+ },
+ {
+  "title": "认真地老去",
+  "singer": "张希曹方"
+ },
+ {
+  "title": "牵手 With Boxing (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "给我感觉 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "姊妹 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "相亲相爱",
+  "singer": "陈慧琳张惠妹孙楠古卓文"
+ },
+ {
+  "title": "原来你什么都不要 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "站在高岗上 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "解脱 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "趁早 (Live)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "我可以抱你吗 (并四版)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "最爱的人伤我最深",
+  "singer": "张惠妹张雨生"
+ },
+ {
+  "title": "听海 (剧场版)",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "记得",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "我最亲爱的",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "如果你也听说",
+  "singer": "张惠妹"
+ },
+ {
+  "title": "想念你的歌",
+  "singer": "张惠春"
+ },
+ {
+  "title": "爱的故事上集 (Live)",
+  "singer": "张敬轩孙耀威"
+ },
+ {
+  "title": "吻得太逼真",
+  "singer": "张敬轩"
+ },
+ {
+  "title": "断点",
+  "singer": "张敬轩"
+ },
+ {
+  "title": "我的中国心",
+  "singer": "张明敏"
+ },
+ {
+  "title": "天梯 (Live)",
+  "singer": "张智霖"
+ },
+ {
+  "title": "现代爱情故事",
+  "singer": "张智霖许秋怡"
+ },
+ {
+  "title": "十指紧扣",
+  "singer": "张智霖"
+ },
+ {
+  "title": "三生三世",
+  "singer": "张杰"
+ },
+ {
+  "title": "最新形象",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "乱了感觉",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "一直挂念",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "任何天气",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "不一样的我",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "忘了忘不了",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "该是时候",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "星语心愿",
+  "singer": "张柏芝"
+ },
+ {
+  "title": "当你孤单你会想起谁",
+  "singer": "张栋梁"
+ },
+ {
+  "title": "美丽的花蝴蝶",
+  "singer": "张洪量"
+ },
+ {
+  "title": "你知道我在等你吗",
+  "singer": "张洪量"
+ },
+ {
+  "title": "广岛之恋",
+  "singer": "张洪量莫文蔚"
+ },
+ {
+  "title": "原谅",
+  "singer": "张玉华"
+ },
+ {
+  "title": "偏爱",
+  "singer": "张芸京"
+ },
+ {
+  "title": "我们不该这样的",
+  "singer": "张赫宣"
+ },
+ {
+  "title": "好男人",
+  "singer": "张镐哲"
+ },
+ {
+  "title": "再回到从前",
+  "singer": "张镐哲"
+ },
+ {
+  "title": "别放弃希望",
+  "singer": "张雨生"
+ },
+ {
+  "title": "带我去月球",
+  "singer": "张雨生"
+ },
+ {
+  "title": "烈火青春",
+  "singer": "张雨生"
+ },
+ {
+  "title": "永远不回头",
+  "singer": "张雨生王杰姚可杰邰正宵"
+ },
+ {
+  "title": "还是朋友",
+  "singer": "张雨生"
+ },
+ {
+  "title": "我期待",
+  "singer": "张雨生"
+ },
+ {
+  "title": "天天想你",
+  "singer": "张雨生"
+ },
+ {
+  "title": "一天到晚游泳的鱼",
+  "singer": "张雨生"
+ },
+ {
+  "title": "我的未来不是梦",
+  "singer": "张雨生"
+ },
+ {
+  "title": "大海",
+  "singer": "张雨生"
+ },
+ {
+  "title": "爱的初体验",
+  "singer": "张震岳"
+ },
+ {
+  "title": "爱我别走",
+  "singer": "张震岳"
+ },
+ {
+  "title": "再见",
+  "singer": "张震岳"
+ },
+ {
+  "title": "手心的太阳",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "潘朵拉",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "香水百合",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "寓言",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "如果的事",
+  "singer": "范玮琪张韶涵"
+ },
+ {
+  "title": "欧若拉",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "梦里花 (Live)",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "亲爱的，那不是爱情",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "隐形的翅膀",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "淋雨一直走",
+  "singer": "张韶涵"
+ },
+ {
+  "title": "大海啊故乡",
+  "singer": "朱明瑛"
+ },
+ {
+  "title": "彩云追月",
+  "singer": "朱明瑛"
+ },
+ {
+  "title": "回娘家",
+  "singer": "朱明瑛"
+ },
+ {
+  "title": "鲁冰花",
+  "singer": "甄妮"
+ },
+ {
+  "title": "世间始终你好",
+  "singer": "甄妮罗文"
+ },
+ {
+  "title": "铁血丹心",
+  "singer": "罗文甄妮"
+ },
+ {
+  "title": "勇敢一点",
+  "singer": "赵传"
+ },
+ {
+  "title": "我很丑，可是我很温柔 (节奏版)",
+  "singer": "赵传"
+ },
+ {
+  "title": "我是一只小小鸟",
+  "singer": "赵传"
+ },
+ {
+  "title": "我终于失去了你",
+  "singer": "赵传"
+ },
+ {
+  "title": "爱要怎么说出口",
+  "singer": "赵传"
+ },
+ {
+  "title": "最浪漫的事",
+  "singer": "赵咏华"
+ },
+ {
+  "title": "好先生",
+  "singer": "赵斌"
+ },
+ {
+  "title": "爱情大魔咒 (Live)",
+  "singer": "赵薇"
+ },
+ {
+  "title": "渐渐",
+  "singer": "赵薇"
+ },
+ {
+  "title": "微小的部分",
+  "singer": "赵薇"
+ },
+ {
+  "title": "搏浪鼓",
+  "singer": "赵薇"
+ },
+ {
+  "title": "有一个姑娘",
+  "singer": "赵薇"
+ },
+ {
+  "title": "我和上官燕",
+  "singer": "赵薇"
+ },
+ {
+  "title": "不能和你分手",
+  "singer": "赵薇"
+ },
+ {
+  "title": "自从有了你",
+  "singer": "赵薇"
+ },
+ {
+  "title": "小冤家",
+  "singer": "赵薇"
+ },
+ {
+  "title": "一直下雨的星期天",
+  "singer": "赵薇"
+ },
+ {
+  "title": "烟雨濛濛 (慢三版)",
+  "singer": "赵薇"
+ },
+ {
+  "title": "好想好想",
+  "singer": "赵薇"
+ },
+ {
+  "title": "离别的车站",
+  "singer": "赵薇"
+ },
+ {
+  "title": "情深深雨濛濛",
+  "singer": "赵薇"
+ },
+ {
+  "title": "许多年以后",
+  "singer": "赵鑫"
+ },
+ {
+  "title": "可惜我是水瓶座 (Live)",
+  "singer": "郑中基"
+ },
+ {
+  "title": "别爱我",
+  "singer": "郑中基"
+ },
+ {
+  "title": "甲乙丙丁",
+  "singer": "郑中基张学友许志安"
+ },
+ {
+  "title": "左右为难",
+  "singer": "郑中基张学友"
+ },
+ {
+  "title": "绝口不提！爱你",
+  "singer": "郑中基"
+ },
+ {
+  "title": "制造浪漫",
+  "singer": "郑中基陈慧琳"
+ },
+ {
+  "title": "你的眼睛背叛你的心",
+  "singer": "郑中基"
+ },
+ {
+  "title": "答应不爱你",
+  "singer": "郑中基"
+ },
+ {
+  "title": "无赖",
+  "singer": "郑中基"
+ },
+ {
+  "title": "重逢",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "感动害人",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "我是你未来",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "爸爸的汽水",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "愈战愈勇",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "天涯海角",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "但愿你知道",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "无处不在",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "偏爱你",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "有你便有我",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "有了你",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "风云义",
+  "singer": "郭富城郑伊健"
+ },
+ {
+  "title": "老友万岁",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "敢作敢为",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "直至消失天与地",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "极速",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "风云",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "一于奉陪",
+  "singer": "郑伊健陈小春"
+ },
+ {
+  "title": "天煞孤星",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "感激我遇见",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "发现",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "心如刀割",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "一起飞",
+  "singer": "郑伊健陈小春林晓峰"
+ },
+ {
+  "title": "爱情岁月",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "情与义",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "知己自己",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "一生爱你一个",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "刀光剑影",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "我愿你知道",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "热血燃烧",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "甘心替代你 (Bonus Track)",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "虫儿飞",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "友情岁月",
+  "singer": "郑伊健"
+ },
+ {
+  "title": "从不放弃",
+  "singer": "郑少秋"
+ },
+ {
+  "title": "天涯孤客",
+  "singer": "郑少秋"
+ },
+ {
+  "title": "摘下满天星",
+  "singer": "郑少秋"
+ },
+ {
+  "title": "笑看风云",
+  "singer": "郑少秋"
+ },
+ {
+  "title": "你的生日",
+  "singer": "郑智化"
+ },
+ {
+  "title": "别哭，我最爱的人",
+  "singer": "郑智化"
+ },
+ {
+  "title": "游戏人间",
+  "singer": "郑智化"
+ },
+ {
+  "title": "星星点灯",
+  "singer": "郑智化"
+ },
+ {
+  "title": "水手",
+  "singer": "郑智化"
+ },
+ {
+  "title": "难道爱一个人有错吗",
+  "singer": "郑源"
+ },
+ {
+  "title": "一万个理由",
+  "singer": "郑源"
+ },
+ {
+  "title": "放不低",
+  "singer": "郑秀文"
+ },
+ {
+  "title": "独一无二",
+  "singer": "郑秀文"
+ },
+ {
+  "title": "牧羊曲",
+  "singer": "郑绪岚"
+ },
+ {
+  "title": "终身美丽",
+  "singer": "郑秀文"
+ },
+ {
+  "title": "值得",
+  "singer": "郑秀文"
+ },
+ {
+  "title": "眉飞色舞",
+  "singer": "郑秀文"
+ },
+ {
+  "title": "我不该看你的眼神",
+  "singer": "钟镇涛苏芮"
+ },
+ {
+  "title": "只要你过得比我好",
+  "singer": "钟镇涛"
+ },
+ {
+  "title": "让一切随风",
+  "singer": "钟镇涛"
+ },
+ {
+  "title": "幻化人形",
+  "singer": "新白娘子传奇"
+ },
+ {
+  "title": "敖包相会",
+  "singer": "张也阎维文"
+ },
+ {
+  "title": "带你去旅行",
+  "singer": "校长（张驰）"
+ },
+ {
+  "title": "侠客行 (Live)",
+  "singer": "赵牧阳"
+ },
+ {
+  "title": "井水花 (Live)",
+  "singer": "赵可"
+ },
+ {
+  "title": "成都",
+  "singer": "赵雷"
+ },
+ {
+  "title": "画",
+  "singer": "赵雷"
+ },
+ {
+  "title": "你就是我最想要的丫头",
+  "singer": "赵照"
+ },
+ {
+  "title": "当你老了",
+  "singer": "赵照"
+ },
+ {
+  "title": "最特别的存在",
+  "singer": "周渝民"
+ },
+ {
+  "title": "别哭我最爱的人",
+  "singer": "郑智化"
+ }
+]

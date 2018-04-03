@@ -1,5 +1,21 @@
 [
  {
+  "title": "疏梅弄影",
+  "singer": "王俊雄"
+ },
+ {
+  "title": "一声佛号一声心",
+  "singer": "王俊雄"
+ },
+ {
+  "title": "山野幽居",
+  "singer": "王俊雄"
+ },
+ {
+  "title": "美梦成真",
+  "singer": "许茹芸"
+ },
+ {
   "title": "I Lay My Love On You",
   "singer": "Westlife"
  },

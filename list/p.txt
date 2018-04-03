@@ -1,5 +1,9 @@
 [
  {
+  "title": "Baptism",
+  "singer": "Paul Cardall"
+ },
+ {
   "title": "Just Give Me a Reason",
   "singer": "P!NKNate Ruess"
  },

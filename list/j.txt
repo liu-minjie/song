@@ -1,5 +1,21 @@
 [
  {
+  "title": "낙엽소리 (落叶声)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "In Love (恋爱中)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "Somewhere (某处)",
+  "singer": "줄라이 (July)"
+ },
+ {
+  "title": "My Soul (我的灵魂)",
+  "singer": "줄라이 (July)"
+ },
+ {
   "title": "Don't Cry For Me Argentina",
   "singer": "Julie Covington"
  },

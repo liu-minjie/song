@@ -1,5 +1,401 @@
 [
  {
+  "title": "东北人都是活雷锋",
+  "singer": "雪村"
+ },
+ {
+  "title": "天高地厚",
+  "singer": "信乐团"
+ },
+ {
+  "title": "死了都要爱",
+  "singer": "信乐团"
+ },
+ {
+  "title": "海阔天空",
+  "singer": "信乐团"
+ },
+ {
+  "title": "离歌",
+  "singer": "信乐团"
+ },
+ {
+  "title": "Orochi 大蛇",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "Soong Sisters",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "丝绸之路",
+  "singer": "喜多郎 (Kitaro)"
+ },
+ {
+  "title": "沉睡启示录",
+  "singer": "夏韶声"
+ },
+ {
+  "title": "军中绿花",
+  "singer": "小曾"
+ },
+ {
+  "title": "天堂海",
+  "singer": "小虎队"
+ },
+ {
+  "title": "星光依旧灿烂",
+  "singer": "小虎队"
+ },
+ {
+  "title": "再见",
+  "singer": "小虎队"
+ },
+ {
+  "title": "星星的约会",
+  "singer": "小虎队"
+ },
+ {
+  "title": "庸人自扰",
+  "singer": "小虎队"
+ },
+ {
+  "title": "放心去飞",
+  "singer": "小虎队"
+ },
+ {
+  "title": "蝴蝶飞呀",
+  "singer": "小虎队"
+ },
+ {
+  "title": "青苹果乐园",
+  "singer": "小虎队"
+ },
+ {
+  "title": "爱",
+  "singer": "小虎队"
+ },
+ {
+  "title": "不了情",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "一生所爱",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "漫漫前路",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "明月千里寄相思",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "顺流逆流",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "每一步",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "风的季节",
+  "singer": "徐小凤"
+ },
+ {
+  "title": "天使",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "叮咚",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "心中的遗憾",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "向前冲",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "我是女生",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "水晶",
+  "singer": "徐怀钰任贤齐"
+ },
+ {
+  "title": "踏浪",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "分飞",
+  "singer": "徐怀钰"
+ },
+ {
+  "title": "Tell Me",
+  "singer": "潘玮柏徐洁儿"
+ },
+ {
+  "title": "客官不可以",
+  "singer": "徐良小凌"
+ },
+ {
+  "title": "犯贱",
+  "singer": "徐良阿悄"
+ },
+ {
+  "title": "后会无期",
+  "singer": "徐良汪苏泷"
+ },
+ {
+  "title": "心疼自己",
+  "singer": "徐誉滕"
+ },
+ {
+  "title": "放了手就忘了我",
+  "singer": "徐誉滕"
+ },
+ {
+  "title": "天使的翅膀",
+  "singer": "徐誉滕"
+ },
+ {
+  "title": "等一分钟",
+  "singer": "徐誉滕"
+ },
+ {
+  "title": "金殿戏巨灵",
+  "singer": "许镜清"
+ },
+ {
+  "title": "猪八戒撞天婚",
+  "singer": "许镜清"
+ },
+ {
+  "title": "猪八戒背媳妇",
+  "singer": "许镜清"
+ },
+ {
+  "title": "敢问路在何方",
+  "singer": "许镜清"
+ },
+ {
+  "title": "上任弼马温",
+  "singer": "许镜清"
+ },
+ {
+  "title": "女儿情 (伴奏)",
+  "singer": "许镜清多杰太阳"
+ },
+ {
+  "title": "三美戏八戒",
+  "singer": "许镜清"
+ },
+ {
+  "title": "西游记序曲",
+  "singer": "许镜清"
+ },
+ {
+  "title": "燕子坞",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "少林寺",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "励精图治",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "洛阳",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "命运悲歌",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "千年回眸",
+  "singer": "徐鲤"
+ },
+ {
+  "title": "夜夜夜夜",
+  "singer": "熊天平"
+ },
+ {
+  "title": "火柴天堂 (Demo)",
+  "singer": "熊天平"
+ },
+ {
+  "title": "闪闪惹人爱",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "吻",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "后来的我们",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "一个人的精彩",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "遗失的心跳",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "表白",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "爱的主打歌",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "突然想起你",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "类似爱情",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "最熟悉的陌生人",
+  "singer": "萧亚轩"
+ },
+ {
+  "title": "你是我的眼",
+  "singer": "萧煌奇"
+ },
+ {
+  "title": "你还要我怎样",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "绅士",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "丑八怪",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "刚刚好",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "暧昧",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "演员",
+  "singer": "薛之谦"
+ },
+ {
+  "title": "预谋",
+  "singer": "许佳慧"
+ },
+ {
+  "title": "有酒今朝醉",
+  "singer": "许冠杰"
+ },
+ {
+  "title": "气球",
+  "singer": "许哲佩"
+ },
+ {
+  "title": "旅行",
+  "singer": "许巍"
+ },
+ {
+  "title": "那一年 (Demo)",
+  "singer": "许巍"
+ },
+ {
+  "title": "故乡 (Live)",
+  "singer": "许巍"
+ },
+ {
+  "title": "蓝莲花",
+  "singer": "许巍"
+ },
+ {
+  "title": "曾经的你",
+  "singer": "许巍"
+ },
+ {
+  "title": "上弦月",
+  "singer": "许志安"
+ },
+ {
+  "title": "为什么你背着我爱别人",
+  "singer": "许志安"
+ },
+ {
+  "title": "七月七日晴",
+  "singer": "许慧欣"
+ },
+ {
+  "title": "都是夜归人",
+  "singer": "许美静"
+ },
+ {
+  "title": "阳光总在风雨后",
+  "singer": "许美静"
+ },
+ {
+  "title": "城里的月光",
+  "singer": "许美静"
+ },
+ {
+  "title": "如果云知道",
+  "singer": "许茹芸"
+ },
+ {
+  "title": "独角戏",
+  "singer": "许茹芸"
+ },
+ {
+  "title": "清官谣",
+  "singer": "谢东"
+ },
+ {
+  "title": "中华民谣",
+  "singer": "谢东"
+ },
+ {
+  "title": "笑脸",
+  "singer": "谢东"
+ },
+ {
+  "title": "做你的爱人",
+  "singer": "谢军"
+ },
+ {
+  "title": "明天不上班 (Live)",
+  "singer": "谢帝蔡健雅"
+ },
+ {
+  "title": "谁",
+  "singer": "谢雨欣"
+ },
+ {
+  "title": "老子明天不上班",
+  "singer": "谢帝"
+ },
+ {
+  "title": "新年快乐",
+  "singer": "谢雨欣"
+ },
+ {
   "title": "每日一禁果 (Live)",
   "singer": "谢霆锋"
  },

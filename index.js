@@ -30,7 +30,10 @@ const urls = [
 	'https://y.qq.com/n/yqq/playlist/3285999341.html#stat=y_new.profile.create_playlist.click&dirid=24', // u
 	'https://y.qq.com/n/yqq/playlist/3285999346.html#stat=y_new.profile.create_playlist.click&dirid=25', // v
 	'https://y.qq.com/n/yqq/playlist/3285999355.html#stat=y_new.profile.create_playlist.click&dirid=26', // w
-	'https://y.qq.com/n/yqq/playlist/3285999365.html#stat=y_new.profile.create_playlist.click&dirid=27'
+	'https://y.qq.com/n/yqq/playlist/3285999365.html#stat=y_new.profile.create_playlist.click&dirid=27', // x
+	'https://y.qq.com/n/yqq/playlist/3285999375.html#stat=y_new.profile.create_playlist.click&dirid=28', // y
+	'https://y.qq.com/n/yqq/playlist/3285999382.html#stat=y_new.profile.create_playlist.click&dirid=29', // z
+	'https://y.qq.com/n/yqq/playlist/3805234629.html#stat=y_new.profile.create_playlist.click&dirid=1'
 ];
 
 

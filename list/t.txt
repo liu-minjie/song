@@ -1,5 +1,9 @@
 [
  {
+  "title": "Anything You Synthesize",
+  "singer": "The American Dollar"
+ },
+ {
   "title": "Love Story",
   "singer": "Taylor Swift"
  },
@@ -180,7 +184,7 @@
   "singer": "腾格尔"
  },
  {
-  "title": "天堂",
+  "title": "天堂 (重编版)",
   "singer": "腾格尔"
  },
  {
